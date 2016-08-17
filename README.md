@@ -1,2 +1,2 @@
 # awesome-python-education
-Best resources about Python education
+Best resources about Python in Education
