@@ -1,6 +1,6 @@
-# awesome-python-education
+# awesome-python-in-education
 Best resources about Python in Education
 
-* Books
+## Books
 
-* Courses
+## Courses
