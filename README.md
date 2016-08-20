@@ -1,6 +1,4 @@
 # awesome-python-in-education
 Best resources about Python in Education
 
-## Books
-
-## Courses
+* [PyKids](http://hello.pykids.us/)
