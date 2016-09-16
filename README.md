@@ -7,6 +7,7 @@ Best resources about Python in Education
 * [PyKids](http://hello.pykids.us/)
 * [Introduction to Python](http://introtopython.org/)
 * [Your Python Trinket](https://trinket.io/python)
+* [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/)
 * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [Learn Python](http://www.learnpython.org/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
