@@ -21,4 +21,4 @@ Best resources about Python in Education
 * [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
 * [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
-* [Invent your own computer games with Python](https://inventwithpython.com/) - also other free online books like: *Making Games with Python & Pygame* and *Hacking Secret Ciphers with Python*
+* [Invent your own computer games with Python](https://inventwithpython.com/) - also other free online books like: *[Making Games with Python & Pygame](https://inventwithpython.com/pygame/)* and *[Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)*
