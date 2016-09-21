@@ -13,6 +13,7 @@ Best resources about Python in Education
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
+* [CheckiO](https://checkio.org/)
 
 ## Books
 
