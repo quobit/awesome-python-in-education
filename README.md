@@ -1,5 +1,5 @@
 # awesome-python-in-education
-Best resources about Python in Education
+Best resources about Python in Education (still in draft)
 
 ## Internet resources
 
