@@ -15,6 +15,7 @@ Best resources about Python in Education (still in draft)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [CheckiO](https://checkio.org/)
 * [Project Jupyter](http://jupyter.org/)
+* [EduPython](http://edupython.co.uk/)
 
 ## Books
 
