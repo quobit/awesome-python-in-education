@@ -19,6 +19,7 @@ Best resources about Python in Education (still in draft)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [Python-Lectures](https://github.com/rajathkumarmp/Python-Lectures)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
+* [Python Tutor](http://pythontutor.com/)
 
 ## Books
 
