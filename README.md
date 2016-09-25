@@ -17,6 +17,7 @@ Best resources about Python in Education (still in draft)
 * [Project Jupyter](http://jupyter.org/)
 * [EduPython](http://edupython.co.uk/)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [Python-Lectures](https://github.com/rajathkumarmp/Python-Lectures)
 
 ## Books
 
