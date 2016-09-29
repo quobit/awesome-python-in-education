@@ -22,6 +22,7 @@ Best resources about Python in Education (still in draft)
 * [Python Tutor](http://pythontutor.com/)
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
 * [IPythonBlocks](http://ipythonblocks.org/)
+* [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 
 ## Books
 
