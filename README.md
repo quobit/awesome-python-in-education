@@ -25,6 +25,7 @@ Best resources about Python in Education (still in draft)
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [NewCoder](http://newcoder.io/)
+* [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 
 ## Books
 
