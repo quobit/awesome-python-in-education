@@ -26,6 +26,7 @@ Best resources about Python in Education (still in draft)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [NewCoder](http://newcoder.io/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
+* [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
 
 ## Books
 
