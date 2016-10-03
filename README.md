@@ -29,7 +29,7 @@ Best resources about Python in Education (still in draft)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
 * [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
 
-## Books
+## Books & reference
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
@@ -41,3 +41,6 @@ Best resources about Python in Education (still in draft)
 * [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+* [PyMOTW3](https://pymotw.com/3/)
+
+
