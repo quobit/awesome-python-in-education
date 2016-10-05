@@ -30,6 +30,7 @@ Best resources about Python in Education (still in draft)
 * [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
 * [Python tutorial](https://pythonspot.com/)
 * [Python Codecademy](https://www.codecademy.com/learn/python)
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 ## Books & reference
 
