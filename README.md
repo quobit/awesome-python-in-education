@@ -31,6 +31,7 @@ Best resources about Python in Education (still in draft)
 * [Python tutorial](https://pythonspot.com/)
 * [Python Codecademy](https://www.codecademy.com/learn/python)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
+* [Full Stack Python](http://www.fullstackpython.com/)
 
 ## Books & reference
 
