@@ -28,6 +28,7 @@ Best resources about Python in Education (still in draft)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
 * [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
+* [Python tutorial](https://pythonspot.com/)
 
 ## Books & reference
 
