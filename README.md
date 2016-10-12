@@ -21,6 +21,7 @@ Best resources about Python in Education (still in draft)
 * [Python Codecademy](https://www.codecademy.com/learn/python)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Code & Conquer](http://www.codeandconquer.co/)
+* [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
 
 ## Tools
 
