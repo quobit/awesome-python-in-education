@@ -27,6 +27,7 @@ Best resources about Python in Education (still in draft)
 ## Exercises
 
 * [Project Euler](https://projecteuler.net/)
+* [Exercism](http://exercism.io/)
 
 ## Tools
 
