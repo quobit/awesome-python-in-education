@@ -74,6 +74,7 @@ Best resources about Python in Education (still in draft)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 
