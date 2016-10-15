@@ -66,6 +66,7 @@ Best resources about Python in Education (still in draft)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
+* [Composing Programs](http://composingprograms.com/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 
