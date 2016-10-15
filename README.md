@@ -69,6 +69,7 @@ Best resources about Python in Education (still in draft)
 * [Composing Programs](http://composingprograms.com/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
+* [Learn Python, Break Python - A Beginner's Guide to Programming](http://learnpythonbreakpython.com/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 
