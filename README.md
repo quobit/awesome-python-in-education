@@ -22,7 +22,8 @@ Best resources about Python in Education (still in draft)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
-* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
+* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)Gracias
+*[pythonroom](https://pythonroom.com/)
 
 ## Exercises
 
