@@ -55,6 +55,7 @@ Best resources about Python in Education (still in draft)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [Python cheatsheet](https://www.pythonsheets.com/)
+* [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 
 ## Books
 
