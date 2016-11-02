@@ -24,6 +24,7 @@ Best resources about Python in Education (still in draft)
 * [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [pythonroom](https://pythonroom.com/)
+* [Learn Python the hard way](https://learnpythonthehardway.org/book/)
 
 ## Exercises
 
