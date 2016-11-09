@@ -60,6 +60,14 @@ Best resources about Python in Education (still in draft)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [/r/learnpython](https://www.reddit.com/r/learnpython/)
 
+## Conferences & videos
+
+* [Python in Australian Education seminar](https://2016.pycon-au.org/programme/python_in_education_seminar) (2016)
+* [PyCon Australia 2015 Education Miniconf](https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s) (youtube playlist)
+* [Python Education Summit Schedule](https://us.pycon.org/2016/events/edusummit/schedule/) (PyCon 2016)
+* [A one-day mini-conference about Python in Education](http://2016.pyconuk.org/teachers/) (PyConUK 2016)
+* [PyVideo tag 'education'](http://pyvideo.org/tag/education/)
+
 ## Books
 
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
@@ -82,6 +90,3 @@ Best resources about Python in Education (still in draft)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
-
-
-
