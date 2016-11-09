@@ -46,7 +46,7 @@ Best resources about Python in Education (still in draft)
 * [Python Mode for Processing](http://py.processing.org/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 
-## Reference
+## Reference & forums
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
 * [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/)
@@ -58,6 +58,7 @@ Best resources about Python in Education (still in draft)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
+* [/r/learnpython](https://www.reddit.com/r/learnpython/)
 
 ## Books
 
