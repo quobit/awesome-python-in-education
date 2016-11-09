@@ -60,6 +60,7 @@ Best resources about Python in Education (still in draft)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [/r/learnpython](https://www.reddit.com/r/learnpython/)
+* [Algorithms implemented in python (for education)](https://github.com/TheAlgorithms/Python)
 
 ## Conferences & videos
 
