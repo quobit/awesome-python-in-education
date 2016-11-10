@@ -27,6 +27,7 @@ Best resources about Python in Education (still in draft)
 * [Learn Python the hard way](https://learnpythonthehardway.org/book/)
 * [SICP](http://cs61a.org/)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
+* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 * [New Coder](http://newcoder.io/)
 
 ## Exercises
