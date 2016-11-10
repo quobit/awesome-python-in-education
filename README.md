@@ -25,6 +25,7 @@ Best resources about Python in Education (still in draft)
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [pythonroom](https://pythonroom.com/)
 * [Learn Python the hard way](https://learnpythonthehardway.org/book/)
+* [SICP](http://cs61a.org/)
 
 ## Exercises
 
