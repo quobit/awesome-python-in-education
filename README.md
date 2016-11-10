@@ -34,6 +34,7 @@ Best resources about Python in Education (still in draft)
 * [Exercism](http://exercism.io/)
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
+* [Python for Fun](http://openbookproject.net/py4fun/)
 
 ## Tools
 
