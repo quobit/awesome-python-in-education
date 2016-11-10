@@ -77,6 +77,8 @@ Best resources about Python in Education (still in draft)
 * [pycrumbs](https://github.com/kirang89/pycrumbs)
 * [Python Reference](https://github.com/rasbt/python_reference)
 * [Pythonidae](https://github.com/svaksha/pythonidae)
+* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
+* [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
 
 ## Conferences & videos
 
