@@ -34,6 +34,7 @@ Best resources about Python in Education (still in draft)
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
+* [The Programming Historian](http://programminghistorian.org/lessons/)
 
 ## Exercises
 
