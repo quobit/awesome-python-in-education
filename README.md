@@ -115,3 +115,13 @@ Best resources about Python in Education (still in draft)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+
+### Coding Club books
+
+* [Python Basics](http://www.codingclub.co.uk/book1_home.php)
+* [Python Next Steps](http://www.codingclub.co.uk/book2_home.php)
+* [Python: Building Big Apps](http://www.codingclub.co.uk/book3_home.php)
+* [Python: Programming Art](http://www.codingclub.co.uk/book4_home.php)
+* [Python: Interactive Adventures](http://www.codingclub.co.uk/book5_home.php)
+* [Black Flag: A Coding Club Mission](http://www.codingclub.co.uk/black_flag.php)
+* [Coding Cards](http://www.codingclub.co.uk/codecards/CC-CodeCards.pdf) [PDF]
