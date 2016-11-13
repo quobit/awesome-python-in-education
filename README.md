@@ -147,6 +147,9 @@ Best resources about Python in Education (still in draft)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
 * [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
 * [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
+* [Python Crash Course. A Hands-On, Project-Based Introduction to Programming](https://www.nostarch.com/pythoncrashcourse)
+* [Python Playground. Geeky Projects for the Curious Programmer](https://www.nostarch.com/pythonplayground)
+* [Learn to Program with Minecraft. Transform Your World with the Power of Python](https://www.nostarch.com/programwithminecraft)
 
 ### O'Reilly
 
