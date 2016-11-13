@@ -147,3 +147,7 @@ Best resources about Python in Education (still in draft)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
 * [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
 * [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
+
+### O'Reilly
+
+* [Raspberry Pi Cookbook. Software and Hardware Problems and Solutions](http://shop.oreilly.com/product/0636920045182.do)
