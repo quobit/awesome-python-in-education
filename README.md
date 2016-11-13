@@ -111,6 +111,16 @@ Best resources about Python in Education (still in draft)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 * [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
 
+### Coding Club books
+
+* [Python Basics](http://www.codingclub.co.uk/book1_home.php)
+* [Python Next Steps](http://www.codingclub.co.uk/book2_home.php)
+* [Python: Building Big Apps](http://www.codingclub.co.uk/book3_home.php)
+* [Python: Programming Art](http://www.codingclub.co.uk/book4_home.php)
+* [Python: Interactive Adventures](http://www.codingclub.co.uk/book5_home.php)
+* [Black Flag: A Coding Club Mission](http://www.codingclub.co.uk/black_flag.php)
+* [Coding Cards](http://www.codingclub.co.uk/codecards/CC-CodeCards.pdf) [PDF]
+
 ### Green Tea Press
 
 * [Think Python: How To Think Like a Computer Scientist, 2nd ed.](http://greenteapress.com/thinkpython2/html/)
@@ -137,13 +147,3 @@ Best resources about Python in Education (still in draft)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
 * [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
 * [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
-
-### Coding Club books
-
-* [Python Basics](http://www.codingclub.co.uk/book1_home.php)
-* [Python Next Steps](http://www.codingclub.co.uk/book2_home.php)
-* [Python: Building Big Apps](http://www.codingclub.co.uk/book3_home.php)
-* [Python: Programming Art](http://www.codingclub.co.uk/book4_home.php)
-* [Python: Interactive Adventures](http://www.codingclub.co.uk/book5_home.php)
-* [Black Flag: A Coding Club Mission](http://www.codingclub.co.uk/black_flag.php)
-* [Coding Cards](http://www.codingclub.co.uk/codecards/CC-CodeCards.pdf) [PDF]
