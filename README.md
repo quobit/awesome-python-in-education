@@ -95,7 +95,6 @@ Best resources about Python in Education (still in draft)
 
 ## Books
 
-* [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
@@ -126,6 +125,11 @@ Best resources about Python in Education (still in draft)
 * [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
 * [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+
+### Manning Publications
+
+* [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
+* [The Quick Python Book, Second Edition](https://www.manning.com/books/the-quick-python-book-second-edition)
 
 ### No Starch Press
 
