@@ -110,6 +110,7 @@ Best resources about Python in Education (still in draft)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+* [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
 
 ### Green Tea Press
 
