@@ -96,12 +96,8 @@ Best resources about Python in Education (still in draft)
 ## Books
 
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
-* [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft)
-* [Python for Kids](https://www.nostarch.com/pythonforkids)
-* [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
 * [Invent your own computer games with Python](https://inventwithpython.com/) - also other free online books like: [Making Games with Python & Pygame](https://inventwithpython.com/pygame/), [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/) and [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Think Python: How To Think Like a Computer Scientist, 2nd ed.](http://greenteapress.com/thinkpython2/html/) - also other free online books like: [Think Complexity: Exploring Complexity Science with Python, 2nd ed.](http://greenteapress.com/complexity2/html/), [Think DSP: Digital Signal Processing in Python](http://greenteapress.com/thinkdsp/html/), [Think Stats: Exploratory Data Analysis in Python, 2nd ed.](http://greenteapress.com/thinkstats2/html/) and [Think Bayes: Bayesian Statistics in Python](http://www.greenteapress.com/thinkbayes/html/)
-* [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
@@ -116,6 +112,13 @@ Best resources about Python in Education (still in draft)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+
+### No Starch Press
+
+* [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft)
+* [Python for Kids](https://www.nostarch.com/pythonforkids)
+* [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
+* [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
 
 ### Coding Club books
 
