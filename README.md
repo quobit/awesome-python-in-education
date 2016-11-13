@@ -96,7 +96,6 @@ Best resources about Python in Education (still in draft)
 ## Books
 
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
-* [Invent your own computer games with Python](https://inventwithpython.com/) - also other free online books like: [Making Games with Python & Pygame](https://inventwithpython.com/pygame/), [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/) and [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
@@ -119,6 +118,13 @@ Best resources about Python in Education (still in draft)
 * [Think DSP: Digital Signal Processing in Python](http://greenteapress.com/thinkdsp/html/)
 * [Think Stats: Exploratory Data Analysis in Python, 2nd ed.](http://greenteapress.com/thinkstats2/html/)
 * [Think Bayes: Bayesian Statistics in Python](http://www.greenteapress.com/thinkbayes/html/)
+
+### Invent with Python series
+
+* [Invent your own computer games with Python](https://inventwithpython.com/)
+* [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
+* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### No Starch Press
 
