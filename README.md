@@ -62,7 +62,7 @@ Best resources about Python in Education (still in draft)
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
 * [Why Python is a Great First Language](http://blog.trinket.io/why-python/)
-* [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/)
+* [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
 * [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
 * [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
