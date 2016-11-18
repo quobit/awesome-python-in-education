@@ -59,6 +59,7 @@ Best resources about Python in Education (still in draft)
 * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
 * [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
 * [Wingware Python IDE](https://wingware.com/)
+* [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
 * [repl.it](https://repl.it/)
 * [Python Mode for Processing](http://py.processing.org/)
