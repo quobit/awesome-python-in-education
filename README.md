@@ -55,7 +55,7 @@ Best resources about Python in Education (still in draft)
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
 * [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
-* [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/)
+* [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
 * [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
 * [repl.it](https://repl.it/)
