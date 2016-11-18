@@ -31,6 +31,7 @@ Best resources about Python in Education (still in draft)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [New Coder](http://newcoder.io/)
+* [Python School](https://pythonschool.net/)
 * [Python Course](http://www.python-course.eu/)
 * [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
