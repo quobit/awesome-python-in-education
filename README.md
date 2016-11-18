@@ -32,6 +32,7 @@ Best resources about Python in Education (still in draft)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [New Coder](http://newcoder.io/)
 * [Python Course](http://www.python-course.eu/)
+* [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
