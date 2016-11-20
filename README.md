@@ -72,6 +72,7 @@ Best resources about Python in Education (still in draft)
 * [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
 * [Why I push for Python](http://lorenabarba.com/blog/why-i-push-for-python/)
 * [Why Python is a Great First Language](http://blog.trinket.io/why-python/)
+* [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
 * [[Level 1] Programming: Python](http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python)
 * [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
 * [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
