@@ -40,6 +40,7 @@ Best resources about Python in Education (still in draft)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/)
 * [The Programming Historian](http://programminghistorian.org/lessons/)
+* [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 
 ## Exercises
 
