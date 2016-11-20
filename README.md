@@ -69,6 +69,7 @@ Best resources about Python in Education (still in draft)
 ## Reference & forums
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
+* [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
 * [Why I push for Python](http://lorenabarba.com/blog/why-i-push-for-python/)
 * [Why Python is a Great First Language](http://blog.trinket.io/why-python/)
 * [[Level 1] Programming: Python](http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python)
