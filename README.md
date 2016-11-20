@@ -105,6 +105,7 @@ Best resources about Python in Education (still in draft)
 * [Python Education Summit Schedule](https://us.pycon.org/2016/events/edusummit/schedule/) (PyCon 2016)
 * [A one-day mini-conference about Python in Education](http://2016.pyconuk.org/teachers/) (PyConUK 2016)
 * [PyVideo tag 'education'](http://pyvideo.org/tag/education/)
+* [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) - lots of topics in Python
 
 ## Books
 
