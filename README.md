@@ -27,7 +27,7 @@ Best resources about Python in Education (still in draft)
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [pythonroom](https://pythonroom.com/)
 * [Learn Python the hard way](https://learnpythonthehardway.org/book/)
-* [SICP](http://cs61a.org/)
+* [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
@@ -109,6 +109,9 @@ Best resources about Python in Education (still in draft)
 
 ## Books
 
+* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
+* [PythonBooks](http://pythonbooks.revolunet.com/)
+* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
@@ -120,9 +123,6 @@ Best resources about Python in Education (still in draft)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-* [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
-* [PythonBooks](http://pythonbooks.revolunet.com/)
 * [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
 
 ### Coding Club books
