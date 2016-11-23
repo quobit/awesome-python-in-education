@@ -4,7 +4,6 @@ Best resources about Python in Education (still in draft)
 ## Courses
 
 * [Introduction to Python](http://introtopython.org/)
-* [Your Python Trinket](https://trinket.io/python)
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) ([incluido en [Hour of Python](https://hourofpython.com/) donde hay más recursos)
 * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
@@ -14,7 +13,6 @@ Best resources about Python in Education (still in draft)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [CheckiO](https://checkio.org/)
 * [Python-Lectures](https://github.com/rajathkumarmp/Python-Lectures)
-* [Python Tutor](http://pythontutor.com/)
 * [NewCoder](http://newcoder.io/)
 * [Python tutorial](https://pythonspot.com/)
 * [Python Codecademy](https://www.codecademy.com/learn/python)
@@ -52,6 +50,8 @@ Best resources about Python in Education (still in draft)
 
 ## Tools
 
+* [Your Python Trinket](https://trinket.io/python) - Put Interactive Python Anywhere on the Web
+* [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
 * [Project Jupyter](http://jupyter.org/)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
 * [IPythonBlocks](http://ipythonblocks.org/)
