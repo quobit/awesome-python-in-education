@@ -3,7 +3,6 @@ Best resources about Python in Education (still in draft)
 
 ## Courses
 
-* [PyKids](http://hello.pykids.us/)
 * [Introduction to Python](http://introtopython.org/)
 * [Your Python Trinket](https://trinket.io/python)
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) ([incluido en [Hour of Python](https://hourofpython.com/) donde hay más recursos)
