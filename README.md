@@ -38,6 +38,7 @@ Best resources about Python in Education (still in draft)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
+* [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
 
 ## Exercises
 
