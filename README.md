@@ -39,6 +39,7 @@ Best resources about Python in Education (still in draft)
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
+* [Python tutorial](https://pythonspot.com/en/)
 
 ## Exercises
 
