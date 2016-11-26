@@ -98,6 +98,7 @@ Best resources about Python in Education (still in draft)
 * [Pythonidae](https://github.com/svaksha/pythonidae)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
+* [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 
 ## Conferences & videos
 
