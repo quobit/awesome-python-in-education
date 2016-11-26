@@ -1,5 +1,5 @@
 # awesome-python-in-education
-Best resources about Python in Education (still in draft)
+Best resources about Python in Education (*still in draft*)
 
 ## Courses
 
@@ -100,6 +100,7 @@ Best resources about Python in Education (still in draft)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
+* [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 
 ## Conferences & videos
 
