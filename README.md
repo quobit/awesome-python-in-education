@@ -49,6 +49,7 @@ Best resources about Python in Education (still in draft)
 * [Python Challenge](http://www.pythonchallenge.com/)
 * [Python for Fun](http://openbookproject.net/py4fun/)
 * [Reeborg's world](http://reeborg.ca/index_en.html)
+* [Python Koans](https://github.com/gregmalcolm/python_koans)
 
 ## Tools
 
