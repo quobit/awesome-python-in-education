@@ -23,7 +23,6 @@ Best resources about Python in Education (still in draft)
 * [Python Programming in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA) - [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) playlist
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [pythonroom](https://pythonroom.com/)
-* [Learn Python the hard way](https://learnpythonthehardway.org/book/)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
