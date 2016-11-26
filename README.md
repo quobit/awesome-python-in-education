@@ -102,6 +102,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
+* [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 
 ## Conferences & videos
 
