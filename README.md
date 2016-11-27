@@ -101,6 +101,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python Reference](https://github.com/rasbt/python_reference)
 * [Pythonidae](https://github.com/svaksha/pythonidae)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
+* [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)  
 * [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
