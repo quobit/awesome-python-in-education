@@ -84,6 +84,7 @@ Best resources about Python in Education (*still in draft*)
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
 * [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
+* [PEP8 - Python Style Guide](http://pep8.org/)
 * [PyMOTW3](https://pymotw.com/3/)
 * [Full Stack Python](http://www.fullstackpython.com/)
 * [EduPython](http://edupython.co.uk/)
