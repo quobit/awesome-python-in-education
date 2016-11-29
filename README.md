@@ -15,8 +15,6 @@ Best resources about Python in Education (*still in draft*)
 * [NewCoder](http://newcoder.io/)
 * [Python tutorial](https://pythonspot.com/)
 * [Python Codecademy](https://www.codecademy.com/learn/python)
-* [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
-* [Python Programming in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA) - [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) playlist
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [pythonroom](https://pythonroom.com/)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
@@ -117,6 +115,8 @@ Best resources about Python in Education (*still in draft*)
 * [Python Education Summit Schedule](https://us.pycon.org/2016/events/edusummit/schedule/) (PyCon 2016)
 * [A one-day mini-conference about Python in Education](http://2016.pyconuk.org/teachers/) (PyConUK 2016)
 * [PyVideo tag 'education'](http://pyvideo.org/tag/education/)
+* [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
+* [Python Programming in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA) - [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) playlist
 * [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) - lots of topics in Python
 
 ## Books
