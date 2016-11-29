@@ -1,7 +1,7 @@
 # awesome-python-in-education
 Best resources about Python in Education (*still in draft*)
 
-## Courses
+## Courses and lessons
 
 * [Introduction to Python](http://introtopython.org/)
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) (included in [Hour of Python](https://hourofpython.com/) with more resources)
@@ -38,7 +38,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python tutorial](https://pythonspot.com/en/)
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 
-## Exercises
+## Exercises and Games
 
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/)
