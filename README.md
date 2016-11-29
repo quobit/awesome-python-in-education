@@ -3,37 +3,53 @@ Best resources about Python in Education (*still in draft*)
 
 ## Courses and lessons
 
-* [Introduction to Python](http://introtopython.org/)
+### Interactive environments
+
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) (included in [Hour of Python](https://hourofpython.com/) with more resources)
 * [How to Think Like a Computer Scientist: Interactive Edition](http://interactivepython.org/courselib/static/thinkcspy/index.html)
-* [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
-* [Learn Python](http://www.learnpython.org/)
-* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
-* [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
-* [Google's Python Class](https://developers.google.com/edu/python/)
-* [Python-Lectures](https://github.com/rajathkumarmp/Python-Lectures)
-* [NewCoder](http://newcoder.io/)
-* [Python tutorial](https://pythonspot.com/)
-* [Python Codecademy](https://www.codecademy.com/learn/python)
-* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [pythonroom](https://pythonroom.com/)
-* [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
+* [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
+* [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
+* [Learn Python](http://www.learnpython.org/)
+* [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
+
+### MOOCs
+
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+
+### Introductions & Tutorials
+
+* [Introduction to Python](http://introtopython.org/)
+* [NewCoder](http://newcoder.io/)
+* [Python tutorial](https://pythonspot.com/)
 * [New Coder](http://newcoder.io/)
+* [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
+* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
+
+
+
+
+
+
+* [Python Codecademy](https://www.codecademy.com/learn/python)
+* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
+
+* [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
+
 * [Python School](https://pythonschool.net/)
 * [Python Course](http://www.python-course.eu/)
-* [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
-* [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
+
+
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
-* [Python Practice Book](http://anandology.com/python-practice-book/)
-* [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
+
+
 * [The Programming Historian](http://programminghistorian.org/lessons/)
-* [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
+
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
-* [Python tutorial](https://pythonspot.com/en/)
+
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 
 ## Exercises and Games
@@ -50,6 +66,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
+* [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
 
 ## Tools
 
@@ -84,6 +101,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
 * [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+* [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
 * [PyMOTW3](https://pymotw.com/3/)
@@ -118,11 +136,13 @@ Best resources about Python in Education (*still in draft*)
 * [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
 * [Python Programming in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA) - [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) playlist
 * [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) - lots of topics in Python
+* [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 
 ## Books
 
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+* [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
