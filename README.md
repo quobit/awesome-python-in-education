@@ -12,12 +12,17 @@ Best resources about Python in Education (*still in draft*)
 * [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
 * [Learn Python](http://www.learnpython.org/)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
+* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
+* [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
 
 ### MOOCs
 
 * [Programming for Everybody](https://www.coursera.org/learn/python)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
+* [Python Codecademy](https://www.codecademy.com/learn/python)
+* [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
+* [Python School](https://pythonschool.net/)
 
 ### Introductions & Tutorials
 
@@ -27,30 +32,12 @@ Best resources about Python in Education (*still in draft*)
 * [New Coder](http://newcoder.io/)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
-
-
-
-
-
-
-* [Python Codecademy](https://www.codecademy.com/learn/python)
-* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
-
-* [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
-
-* [Python School](https://pythonschool.net/)
 * [Python Course](http://www.python-course.eu/)
-
-
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+* [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
-
-
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 
-* [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
-
-* [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 
 ## Exercises and Games
 
