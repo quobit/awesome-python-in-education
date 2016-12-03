@@ -33,10 +33,11 @@ Best resources about Python in Education (*still in draft*)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
 * [Python Course](http://www.python-course.eu/)
+* [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) and the [Jupyter Notebooks](https://github.com/jakevdp/WhirlwindTourOfPython) behind.
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) excerpts in Notebook IPython
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) excerpts in Jupyter Notebooks
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 
 
