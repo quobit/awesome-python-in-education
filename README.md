@@ -36,6 +36,7 @@ Best resources about Python in Education (*still in draft*)
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) excerpts in Notebook IPython
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 
 
