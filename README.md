@@ -209,3 +209,7 @@ Best resources about Python in Education (*still in draft*)
 ## Hardware
 
 * [MicroPython](http://micropython.org/)
+
+### Raspberry Pi Python learning resources
+
+* [Getting Started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
