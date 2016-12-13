@@ -76,6 +76,7 @@ Best resources about Python in Education (*still in draft*)
 * [bpython](https://bpython-interpreter.org/)
 * [ptpython](https://github.com/jonathanslenders/ptpython)
 * [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
+* [Sublime Text 3](http://www.sublimetext.com/3) with [Python plugins](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
 * [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
 * [Wingware Python IDE](https://wingware.com/)
