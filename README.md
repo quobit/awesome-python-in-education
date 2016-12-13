@@ -201,3 +201,7 @@ Best resources about Python in Education (*still in draft*)
 
 * [Raspberry Pi Cookbook. Software and Hardware Problems and Solutions](http://shop.oreilly.com/product/0636920045182.do)
 * [ Head First Python, 2nd Edition](http://shop.oreilly.com/product/0636920036777.do)
+
+## Hardware
+
+* [MicroPython](http://micropython.org/)
