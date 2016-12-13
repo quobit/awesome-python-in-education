@@ -65,15 +65,18 @@ Best resources about Python in Education (*still in draft*)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
-* [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
-* [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
-* [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
-* [Wingware Python IDE](https://wingware.com/)
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
 * [repl.it](https://repl.it/)
 * [Python Mode for Processing](http://py.processing.org/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
+
+### IDEs
+
+* [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
+* [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
+* [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
+* [Wingware Python IDE](https://wingware.com/)
 * [Ninja-IDE](http://ninja-ide.org/)
 * [PyDev](http://www.pydev.org/)
 
