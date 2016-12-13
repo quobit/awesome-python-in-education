@@ -70,6 +70,7 @@ Best resources about Python in Education (*still in draft*)
 * [repl.it](https://repl.it/)
 * [Python Mode for Processing](http://py.processing.org/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
+* [kite](https://kite.com/) - programming copilot
 
 ### IDEs
 
