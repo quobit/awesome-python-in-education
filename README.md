@@ -71,6 +71,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python Mode for Processing](http://py.processing.org/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
+* [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
 
 ### IDEs
 
