@@ -69,10 +69,15 @@ Best resources about Python in Education (*still in draft*)
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
 * [repl.it](https://repl.it/)
-* [Python Mode for Processing](http://py.processing.org/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
+
+### Visualization
+
+* [Python Mode for Processing](http://py.processing.org/)
+* [Bokeh](http://bokeh.pydata.org/)
+* [VisPy](http://vispy.org/)
 
 ### IDEs
 
