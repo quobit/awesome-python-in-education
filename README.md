@@ -225,3 +225,4 @@ Best resources about Python in Education (*still in draft*)
 ### Arduino
 
 * [Arduino and Python](http://playground.arduino.cc/Interfacing/Python)
+* [Using Python with Arduino](http://www.toptechboy.com/using-python-with-arduino-lessons/)
