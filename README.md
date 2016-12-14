@@ -219,5 +219,6 @@ Best resources about Python in Education (*still in draft*)
 
 ### Raspberry Pi
 
+* [Arduino and Python](http://playground.arduino.cc/Interfacing/Python)
 * [Getting Started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
 * [Create a "Whac-a-block" game in Minecraft](https://www.raspberrypi.org/learning/minecraft-whac-a-block-game/)
