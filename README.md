@@ -56,6 +56,7 @@ Best resources about Python in Education (*still in draft*)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
 * [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
+* [Slice like a Ninja](http://briandavidhall.com/slice_like_a_ninja/)
 
 ## Tools
 
