@@ -209,6 +209,7 @@ Best resources about Python in Education (*still in draft*)
 ## Hardware
 
 * [MicroPython](http://micropython.org/)
+* [Cozmo](https://developer.anki.com/)
 
 ### Raspberry Pi
 
