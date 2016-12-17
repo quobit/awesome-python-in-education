@@ -2,15 +2,26 @@
 Best resources about Python in Education (*still in draft*)
 
 * [Courses and lessons](#courses-and-lessons)
-  * [Interactive environments](interactive-environments)
+  * [Interactive environments](#interactive-environments)
   * [MOOCs](#moocs)
-  * [Introductions and Tutorials](introductions-and-tutorials)
+  * [Introductions and Tutorials](#introductions-and-tutorials)
 * [Exercises and Games](#exercises-and-games)
 * [Tools](#tools)
+  * [Visualization](#visualization)
+  * [IDEs](#ides)
 * [Reference and forums](#reference-and-forums)
 * [Conferences and videos](#conferences-and-videos)
 * [Books](#books)
+  * [Coding Club books](#coding-club-books)
+  * [Green Tea Press](#green-tea-press)
+  * [Invent with Python series](#invent-with-python-series)
+  * [Manning Publications](#manning-publications)
+  * [No Starch Press](#no-starch-press)
+  * [O'Reilly](#oreilly)
+  * [Packt Pub](#packt-pub)
 * [Hardware](#hardware)
+  * [Raspberry Pi](#raspberry-pi)
+  * [Arduino](#arduino)
 
 ## Courses and lessons
 
