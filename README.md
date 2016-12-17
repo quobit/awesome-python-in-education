@@ -4,6 +4,12 @@ Best resources about Python in Education (*still in draft*)
 ## Index
 
 * [Courses and lessons](#Courses and lessons)
+* [Exercises and Games](#Exercises and Games)
+* [Tools](#Tools)
+* [Reference & forums](#Reference & forums)
+* [Conferences & videos](#Conferences & videos)
+* [Books](#Books)
+* [Hardware](#Hardware)
 
 ## Courses and lessons
 
