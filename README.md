@@ -4,11 +4,11 @@ Best resources about Python in Education (*still in draft*)
 * [Courses and lessons](#courses-and-lessons)
   * [Interactive environments](interactive-environments)
   * [MOOCs](#moocs)
-  * [Introductions & Tutorials](introductions-&-tutorials)
+  * [Introductions and Tutorials](introductions-and-tutorials)
 * [Exercises and Games](#exercises-and-games)
 * [Tools](#tools)
-* [Reference & forums](#reference-&-forums)
-* [Conferences & videos](#conferences-&-videos)
+* [Reference and forums](#reference-and-forums)
+* [Conferences and videos](#conferences-and-videos)
 * [Books](#books)
 * [Hardware](#hardware)
 
@@ -35,7 +35,7 @@ Best resources about Python in Education (*still in draft*)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 * [Python School](https://pythonschool.net/)
 
-### Introductions & Tutorials
+### Introductions and Tutorials
 
 * [Introduction to Python](http://introtopython.org/)
 * [NewCoder](http://newcoder.io/)
@@ -105,7 +105,7 @@ Best resources about Python in Education (*still in draft*)
 * [PyDev](http://www.pydev.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
 
-## Reference & forums
+## Reference and forums
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
 * [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
@@ -144,7 +144,7 @@ Best resources about Python in Education (*still in draft*)
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 
-## Conferences & videos
+## Conferences and videos
 
 * [Python in Australian Education seminar](https://2016.pycon-au.org/programme/python_in_education_seminar) (2016)
 * [PyCon Australia 2015 Education Miniconf](https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s) (youtube playlist)
