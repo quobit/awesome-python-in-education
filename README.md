@@ -1,9 +1,10 @@
 # awesome-python-in-education
 Best resources about Python in Education (*still in draft*)
 
-## Index
-
 * [Courses and lessons](#courses-and-lessons)
+  * [Interactive environments](interactive-environments)
+  * [MOOCs](#moocs)
+  * [Introductions & Tutorials](introductions-&-tutorials)
 * [Exercises and Games](#exercises-and-games)
 * [Tools](#tools)
 * [Reference & forums](#reference-&-forums)
