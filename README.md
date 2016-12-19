@@ -36,6 +36,7 @@ Best resources about Python in Education (*still in draft*)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
+* [Codesters](https://www.codesters.com/)
 
 ### MOOCs
 
