@@ -62,7 +62,7 @@ Best resources about Python in Education (*still in draft*)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) excerpts in Jupyter Notebooks
 * [The Programming Historian](http://programminghistorian.org/lessons/)
-* [Program Arcade Games With Python And Pygame](http://www.balloonbuilding.com/)
+* [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
 
 ## Exercises and Games
 
