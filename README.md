@@ -6,7 +6,7 @@ Best resources about Python in Education (*still in draft*)
   * [MOOCs](#moocs)
   * [Introductions and Tutorials](#introductions-and-tutorials)
 * [Exercises and Games](#exercises-and-games)
-* [Tools](#tools)
+* [Tools and Libraries](#tools-and-libraries)
   * [Visualization](#visualization)
   * [IDEs](#ides)
 * [Reference and forums](#reference-and-forums)
@@ -81,7 +81,7 @@ Best resources about Python in Education (*still in draft*)
 * [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
 * [Slice like a Ninja](http://briandavidhall.com/slice_like_a_ninja/)
 
-## Tools
+## Tools and Libraries
 
 * [Your Python Trinket](https://trinket.io/python) - Put Interactive Python Anywhere on the Web
 * [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
