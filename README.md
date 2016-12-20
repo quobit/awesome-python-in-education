@@ -95,6 +95,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
+* [Python Arcade Library](http://pythonhosted.org/arcade/)
 
 ### Visualization
 
