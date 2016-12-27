@@ -166,7 +166,6 @@ Best resources about Python in Education (*still in draft*)
 * [PyVideo tag 'education'](http://pyvideo.org/tag/education/)
 * [Khan Academy Computer Science (Python video playlist)](https://www.youtube.com/playlist?list=PL36E7A2B75028A3D6)
 * [Python Programming in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA) - [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) playlist
-* [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) - lots of topics in Python
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 * [Teaching Python: The Hard Parts](http://pyvideo.org/pycon-us-2016/elana-hashman-teaching-python-the-hard-parts-pycon-2016.html) - PyCon 2016
 * [Episode 14 – Allen Downey on Teaching Computer Science with Python](https://www.podcastinit.com/episode-14-allen-downey-on-teaching-computer-science-with-python/) from [podcast.\__init__](https://www.podcastinit.com/)
