@@ -87,6 +87,7 @@ Best resources about Python in Education (*still in draft*)
 * [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
 * [Project Jupyter](http://jupyter.org/)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
+* [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
