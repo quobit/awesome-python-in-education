@@ -119,6 +119,12 @@ Best resources about Python in Education (*still in draft*)
 * [PyDev](http://www.pydev.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
 
+### Debuggers
+
+* [pdb](https://docs.python.org/3/library/pdb.html)
+* [ipdb](https://pypi.org/project/ipdb/)
+* [PuDB](https://pypi.org/project/pudb/)
+
 ## Reference and forums
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
