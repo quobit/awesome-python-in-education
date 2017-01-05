@@ -1,5 +1,8 @@
 # awesome-python-in-education
-Best resources about Python in Education (*still in draft*)
+
+Best resources about Python in Education
+
+There are many ways to contribute to this project. Get started [here](CONTRIBUTING.md).
 
 * [Courses and lessons](#courses-and-lessons)
   * [Interactive environments](#interactive-environments)
