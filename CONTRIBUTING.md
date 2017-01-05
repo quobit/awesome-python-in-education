@@ -1,6 +1,6 @@
 # Contributing to Awesome Python in Education
 
-You are here to help on Awesome Python in Education? Great, feel welcome and read the following sections in order to know what and how to work on something. If you get stuck at any point you can [create a ticket](https://github.com/quobit/awesome-python-in-education/issues/new).
+Thanks for your interest in contributing! Feel welcome and read the following sections in order to know what and how to work on something. If you get stuck at any point you can [create a ticket](https://github.com/quobit/awesome-python-in-education/issues/new).
 
 Following these guidelines helps to communicate that you respect the time of the contributors managing and developing this resource. In return, they should reciprocate that respect in addressing your issue, assessing changes, and helping you finalize your pull requests.
 
