@@ -12,4 +12,4 @@ Improving documentation, reorganizing, labeling or writing reviews are all examp
 
 * All resources must follow Python (3.X) in some way.
 * Resources that use legacy Python (2.X) are not eligible.
-* Proposed resources should be usable mainly by teachers for teachers and students (secondary and post-secondary levels).
+* Proposed resources should be usable (mainly) *by* teachers *and* students (secondary and post-secondary levels).
