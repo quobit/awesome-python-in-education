@@ -4,6 +4,9 @@ Best resources about Python in Education
 
 There are many ways to contribute to this project. Get started [here](CONTRIBUTING.md).
 
+## Contents
+
+* [Reference and forums](#reference-and-forums)
 * [Courses and lessons](#courses-and-lessons)
   * [Interactive environments](#interactive-environments)
   * [MOOCs](#moocs)
@@ -12,7 +15,6 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [Tools and Libraries](#tools-and-libraries)
   * [Visualization](#visualization)
   * [IDEs](#ides)
-* [Reference and forums](#reference-and-forums)
 * [Conferences and videos](#conferences-and-videos)
 * [Books](#books)
   * [Coding Club books](#coding-club-books)
@@ -25,6 +27,45 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [Hardware](#hardware)
   * [Raspberry Pi](#raspberry-pi)
   * [Arduino](#arduino)
+
+## Reference and forums
+
+* [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
+* [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
+* [Why I push for Python](http://lorenabarba.com/blog/why-i-push-for-python/)
+* [Why Python is a Great First Language](http://blog.trinket.io/why-python/)
+* [Why Python is a great language for teaching beginners in introductory programming classes](http://pgbovine.net/python-teaching.htm)
+* [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
+* [[Level 1] Programming: Python](http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python)
+* [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
+* [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
+* [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
+* [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
+* [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+* [Google's Python Class](https://developers.google.com/edu/python/)
+* [The Hitchhiker’s Guide to Python](http://python-guide.org/)
+* [PEP8 - Python Style Guide](http://pep8.org/)
+* [PyMOTW3](https://pymotw.com/3/)
+* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
+* [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
+* [EduPython](http://edupython.co.uk/)
+* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
+* [Python cheatsheet](https://www.pythonsheets.com/)
+* [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
+* [/r/learnpython](https://www.reddit.com/r/learnpython/)
+* [Algorithms implemented in python (for education)](https://github.com/TheAlgorithms/Python)
+* [awesome-python](https://github.com/vinta/awesome-python)
+* [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
+* [pycrumbs](https://github.com/kirang89/pycrumbs)
+* [Python Reference](https://github.com/rasbt/python_reference)
+* [Pythonidae](https://github.com/svaksha/pythonidae)
+* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
+* [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)  
+* [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
+* [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
+* [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
+* [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 
 ## Courses and lessons
 
@@ -127,45 +168,6 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 * [pdb](https://docs.python.org/3/library/pdb.html)
 * [ipdb](https://pypi.org/project/ipdb/)
 * [PuDB](https://pypi.org/project/pudb/)
-
-## Reference and forums
-
-* [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
-* [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
-* [Why I push for Python](http://lorenabarba.com/blog/why-i-push-for-python/)
-* [Why Python is a Great First Language](http://blog.trinket.io/why-python/)
-* [Why Python is a great language for teaching beginners in introductory programming classes](http://pgbovine.net/python-teaching.htm)
-* [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext)
-* [[Level 1] Programming: Python](http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python)
-* [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
-* [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
-* [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
-* [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
-* [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
-* [Google's Python Class](https://developers.google.com/edu/python/)
-* [The Hitchhiker’s Guide to Python](http://python-guide.org/)
-* [PEP8 - Python Style Guide](http://pep8.org/)
-* [PyMOTW3](https://pymotw.com/3/)
-* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
-* [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
-* [EduPython](http://edupython.co.uk/)
-* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
-* [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
-* [Python cheatsheet](https://www.pythonsheets.com/)
-* [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-* [/r/learnpython](https://www.reddit.com/r/learnpython/)
-* [Algorithms implemented in python (for education)](https://github.com/TheAlgorithms/Python)
-* [awesome-python](https://github.com/vinta/awesome-python)
-* [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
-* [pycrumbs](https://github.com/kirang89/pycrumbs)
-* [Python Reference](https://github.com/rasbt/python_reference)
-* [Pythonidae](https://github.com/svaksha/pythonidae)
-* [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
-* [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)  
-* [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
-* [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
-* [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
-* [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 
 ## Conferences and videos
 
