@@ -4,6 +4,8 @@ Best resources about Python in Education
 
 There are many ways to contribute to this project. Get started [here](CONTRIBUTING.md).
 
+The license for this resource is [CC0](LICENSE).
+
 ## Contents
 
 * [Reference and forums](#reference-and-forums)
