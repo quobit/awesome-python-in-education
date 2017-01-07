@@ -6,10 +6,10 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## What kinds of contributions are expected
 
-Improving documentation, reorganizing, labeling or writing reviews are all examples of helpful contributions.
+Improving documentation by adding resources, reorganizing them, labeling or reviewing are all examples of helpful contributions.
 
 ## Ground Rules
 
-* All resources must follow Python (3.X) in some way.
+* All proposed resources must follow Python (3.X) in some way.
 * Resources that use legacy Python (2.X) are not eligible.
 * Proposed resources should be usable (mainly) *by* teachers *and* students (secondary and post-secondary levels).
