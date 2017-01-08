@@ -113,6 +113,7 @@ The license for this resource is [CC0](LICENSE).
 ## Exercises and Games
 
 * [CheckiO](https://checkio.org/)
+* [Empire of Code](https://empireofcode.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/)
 * [Practice Python](http://www.practicepython.org/)
