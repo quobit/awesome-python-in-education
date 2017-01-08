@@ -106,7 +106,7 @@ The license for this resource is [CC0](LICENSE).
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) excerpts in Jupyter Notebooks
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) completely in Jupyter Notebooks
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
 
