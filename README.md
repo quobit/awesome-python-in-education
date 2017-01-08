@@ -112,6 +112,7 @@ The license for this resource is [CC0](LICENSE).
 
 ## Exercises and Games
 
+* [CheckiO](https://checkio.org/)
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/)
 * [Practice Python](http://www.practicepython.org/)
@@ -120,7 +121,6 @@ The license for this resource is [CC0](LICENSE).
 * [Reeborg's world](http://reeborg.ca/index_en.html)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/)
-* [CheckiO](https://checkio.org/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
