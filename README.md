@@ -116,6 +116,7 @@ The license for this resource is [CC0](LICENSE).
 * [Empire of Code](https://empireofcode.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/)
+* [PyBites](http://pybit.es/)
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
 * [Python for Fun](http://openbookproject.net/py4fun/)
