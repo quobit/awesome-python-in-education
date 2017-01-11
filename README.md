@@ -124,6 +124,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Reference](https://github.com/rasbt/python_reference)
 * [Pythonidae](https://github.com/svaksha/pythonidae)
 * [python-patterns](https://github.com/faif/python-patterns)
+* [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)  
 * [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
