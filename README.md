@@ -117,6 +117,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [/r/learnpython](https://www.reddit.com/r/learnpython/)
 * [Algorithms implemented in python (for education)](https://github.com/TheAlgorithms/Python)
+* [Algorithms](https://github.com/nryoung/algorithms)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
 * [pycrumbs](https://github.com/kirang89/pycrumbs)
