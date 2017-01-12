@@ -178,6 +178,7 @@ The license for this resource is [CC0](LICENSE).
 * [pdb](https://docs.python.org/3/library/pdb.html)
 * [ipdb](https://pypi.org/project/ipdb/)
 * [PuDB](https://pypi.org/project/pudb/)
+* [pdb++](https://bitbucket.org/antocuni/pdb/src)
 
 ## Conferences and videos
 
