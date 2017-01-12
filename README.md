@@ -18,6 +18,7 @@ The license for this resource is [CC0](LICENSE).
 * [Tools and Libraries](#tools-and-libraries)
   * [Visualization](#visualization)
   * [IDEs](#ides)
+  * [Debuggers](#debuggers)
 * [Conferences and videos](#conferences-and-videos)
 * [Books](#books)
   * [Coding Club books](#coding-club-books)
