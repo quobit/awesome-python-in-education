@@ -12,6 +12,7 @@ The license for this resource is [CC0](LICENSE).
   * [Interactive environments](#interactive-environments)
   * [MOOCs](#moocs)
   * [Introductions and Tutorials](#introductions-and-tutorials)
+    * [Data Science](#data-science)
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
 * [Tools and Libraries](#tools-and-libraries)
@@ -66,7 +67,7 @@ The license for this resource is [CC0](LICENSE).
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
 
-### Data Science
+#### Data Science
 
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) and the [Jupyter Notebooks](https://github.com/jakevdp/WhirlwindTourOfPython) behind.
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
