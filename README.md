@@ -60,7 +60,6 @@ The license for this resource is [CC0](LICENSE).
 * [Introduction to Python](http://introtopython.org/)
 * [NewCoder](http://newcoder.io/)
 * [Python tutorial](https://pythonspot.com/)
-* [New Coder](http://newcoder.io/)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
 * [Python Course](http://www.python-course.eu/)
