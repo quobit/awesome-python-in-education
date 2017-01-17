@@ -6,7 +6,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## What kinds of contributions are expected
 
-Improving documentation by adding resources, reorganizing them, labeling or reviewing are all examples of helpful contributions.
+Improving the list by adding resources, reorganizing them, labeling or reviewing are all examples of helpful contributions.
 
 ## Ground Rules
 
