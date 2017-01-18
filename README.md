@@ -183,6 +183,7 @@ The license for this resource is [CC0](LICENSE).
 
 ## Conferences and videos
 
+* [Weekly Python Chat](http://www.weeklypython.chat/) - Weekly live video chats about Python, teaching, open source, and more
 * [Python in Australian Education seminar](https://2016.pycon-au.org/programme/python_in_education_seminar) (2016)
 * [PyCon Australia 2015 Education Miniconf](https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s) (youtube playlist)
 * [Python Education Summit Schedule](https://us.pycon.org/2016/events/edusummit/schedule/) (PyCon 2016)
