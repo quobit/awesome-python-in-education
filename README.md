@@ -203,6 +203,7 @@ The license for this resource is [CC0](LICENSE).
 
 ## Books
 
+* [The Computer Science Field Guide](https://github.com/uccser/cs-field-guide)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
