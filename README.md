@@ -264,11 +264,13 @@ The license for this resource is [CC0](LICENSE).
 ### O'Reilly
 
 * [Raspberry Pi Cookbook. Software and Hardware Problems and Solutions](http://shop.oreilly.com/product/0636920045182.do)
-* [ Head First Python, 2nd Edition](http://shop.oreilly.com/product/0636920036777.do)
+* [Head First Python, 2nd Edition](http://shop.oreilly.com/product/0636920036777.do)
+* [Python for Unix and Linux System Administration](http://shop.oreilly.com/product/9780596515829.do) (2008)
 
 ### Packt Pub
 
 * [Python Programming for Arduino](https://www.packtpub.com/application-development/python-programming-arduino)
+* [Pro Python System Administration](http://www.apress.com/us/book/9781430226055) (2010)
 
 ## Hardware
 
