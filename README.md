@@ -205,6 +205,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+* [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
