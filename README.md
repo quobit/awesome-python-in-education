@@ -201,6 +201,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Programming Foundations with Python](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW) from [Udacity](https://www.udacity.com/course/ud036)
 * [PySide Video Tutorials](http://wiki.qt.io/PySide_Video_Tutorials)
+* [Python Basics - Coding is for girls](https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK)
 
 ## Books
 
