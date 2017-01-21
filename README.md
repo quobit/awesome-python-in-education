@@ -153,10 +153,11 @@ The license for this resource is [CC0](LICENSE).
 * [kite](https://kite.com/) - programming copilot
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
 * [Python Arcade Library](http://pythonhosted.org/arcade/)
+* [Python Mode for Processing](http://py.processing.org/)
+* [PythonTurtle](http://pythonturtle.org/)
 
 ### Visualization
 
-* [Python Mode for Processing](http://py.processing.org/)
 * [Bokeh](http://bokeh.pydata.org/)
 * [VisPy](http://vispy.org/)
 
