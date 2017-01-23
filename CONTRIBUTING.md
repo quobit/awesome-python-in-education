@@ -12,4 +12,4 @@ Improving the list by adding resources, reorganizing them, labeling or reviewing
 
 * All proposed resources must follow Python (3.X) in some way.
 * Resources that use legacy Python (2.X) are not eligible.
-* Proposed resources should be usable (mainly) *by* teachers *and* students (secondary, vocational education and training -*VET*- and post-secondary levels).
+* Proposed resources should be usable (mainly) *by* teachers *and* students (secondary, vocational education and training -*VET*- and post-secondary levels) as well as *self-learners* and computing education researchers.
