@@ -12,7 +12,7 @@ Improving the list by:
 * reorganizing/reordering
 * labeling/reviewing
 
-resources are all examples of helpful contributions.
+resources are all examples of helpful contributions. When in doubt you can always [open a ticket](https://github.com/quobit/awesome-python-in-education/issues/new).
 
 ## Ground Rules
 
