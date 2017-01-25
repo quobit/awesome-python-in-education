@@ -31,7 +31,7 @@ The license for this resource is [CC0](LICENSE).
 * [Hardware](#hardware)
   * [Raspberry Pi](#raspberry-pi)
   * [Arduino](#arduino)
-  * [BBC micro:bit](#bbc-micro-bit)
+  * [BBC micro:bit](#bbc-micro:bit)
 
 ## Courses and lessons
 
