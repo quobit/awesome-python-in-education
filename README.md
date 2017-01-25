@@ -31,6 +31,7 @@ The license for this resource is [CC0](LICENSE).
 * [Hardware](#hardware)
   * [Raspberry Pi](#raspberry-pi)
   * [Arduino](#arduino)
+  * [BBC micro:bit](#bbc-micro-bit)
 
 ## Courses and lessons
 
@@ -291,3 +292,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Arduino and Python](http://playground.arduino.cc/Interfacing/Python)
 * [Using Python with Arduino](http://www.toptechboy.com/using-python-with-arduino-lessons/)
+
+### BBC micro:bit
+
+* [BBC micro:bit MicroPython](https://microbit-micropython.readthedocs.io)
