@@ -32,6 +32,7 @@ The license for this resource is [CC0](LICENSE).
   * [Raspberry Pi](#raspberry-pi)
   * [Arduino](#arduino)
   * [BBC micro:bit](#bbc-microbit)
+  * [Pyboard](#pyboard)
 
 ## Courses and lessons
 
@@ -280,7 +281,6 @@ The license for this resource is [CC0](LICENSE).
 
 ## Hardware
 
-* [MicroPython](http://micropython.org/)
 * [Cozmo](https://developer.anki.com/)
 
 ### Raspberry Pi
@@ -296,3 +296,7 @@ The license for this resource is [CC0](LICENSE).
 ### BBC microbit
 
 * [BBC micro:bit MicroPython](https://microbit-micropython.readthedocs.io)
+
+### PyBoard
+
+* [MicroPython](http://micropython.org/)
