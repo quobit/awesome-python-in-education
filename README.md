@@ -46,6 +46,7 @@ The license for this resource is [CC0](LICENSE).
 * [Learn Python](http://www.learnpython.org/)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
+* [Python from scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
 * [Codesters](https://www.codesters.com/)
 
