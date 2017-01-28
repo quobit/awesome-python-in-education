@@ -265,6 +265,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
 * [The Quick Python Book, Second Edition](https://www.manning.com/books/the-quick-python-book-second-edition)
+* [Learn Programming](https://www.manning.com/books/learn-programming)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
 
 ### No Starch Press
