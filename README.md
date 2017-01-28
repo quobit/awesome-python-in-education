@@ -164,6 +164,7 @@ The license for this resource is [CC0](LICENSE).
 * [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 * [IPythonBlocks](http://ipythonblocks.org/)
+* [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
 
 ### IDEs
 
