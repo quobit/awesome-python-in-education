@@ -16,9 +16,9 @@ The license for this resource is [CC0](LICENSE).
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
 * [Tools and Libraries](#tools-and-libraries)
-  * [Visualization](#visualization)
   * [IDEs](#ides)
   * [Debuggers](#debuggers)
+  * [Visualization](#visualization)
 * [Conferences and videos](#conferences-and-videos)
 * [Books](#books)
   * [Coding Club books](#coding-club-books)
@@ -159,11 +159,6 @@ The license for this resource is [CC0](LICENSE).
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
 
-### Visualization
-
-* [Bokeh](http://bokeh.pydata.org/)
-* [VisPy](http://vispy.org/)
-
 ### IDEs
 
 * [bpython](https://bpython-interpreter.org/)
@@ -185,6 +180,11 @@ The license for this resource is [CC0](LICENSE).
 * [ipdb](https://pypi.org/project/ipdb/)
 * [PuDB](https://pypi.org/project/pudb/)
 * [pdb++](https://bitbucket.org/antocuni/pdb/src)
+
+### Visualization
+
+* [Bokeh](http://bokeh.pydata.org/)
+* [VisPy](http://vispy.org/)
 
 ## Conferences and videos
 
