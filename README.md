@@ -165,6 +165,7 @@ The license for this resource is [CC0](LICENSE).
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
+* [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
 
 ### IDEs
 
