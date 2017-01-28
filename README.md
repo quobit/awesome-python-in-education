@@ -16,6 +16,7 @@ The license for this resource is [CC0](LICENSE).
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
 * [Tools and Libraries](#tools-and-libraries)
+  * [Jupyter](#jupyter)
   * [IDEs](#ides)
   * [Debuggers](#debuggers)
   * [Visualization](#visualization)
@@ -144,10 +145,6 @@ The license for this resource is [CC0](LICENSE).
 
 * [Your Python Trinket](https://trinket.io/python) - Put Interactive Python Anywhere on the Web
 * [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
-* [Project Jupyter](http://jupyter.org/)
-* [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
-* [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-* [IPythonBlocks](http://ipythonblocks.org/)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
@@ -158,6 +155,13 @@ The license for this resource is [CC0](LICENSE).
 * [Python Arcade Library](http://pythonhosted.org/arcade/)
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
+
+### Jupyter
+
+* [Project Jupyter](http://jupyter.org/)
+* [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
+* [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [IPythonBlocks](http://ipythonblocks.org/)
 
 ### IDEs
 
