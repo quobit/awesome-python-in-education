@@ -161,6 +161,7 @@ The license for this resource is [CC0](LICENSE).
 * [Project Jupyter](http://jupyter.org/)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
 * [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [IPythonBlocks](http://ipythonblocks.org/)
 
 ### IDEs
