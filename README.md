@@ -166,6 +166,8 @@ The license for this resource is [CC0](LICENSE).
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
 * [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
+* [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
 
 ### IDEs
 
