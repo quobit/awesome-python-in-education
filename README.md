@@ -195,7 +195,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Bokeh](http://bokeh.pydata.org/)
 * [VisPy](http://vispy.org/)
-* [VPython](http://vpython.org/)
+* [VPython](http://vpython.org/) - 3D programming
 
 ## Conferences and videos
 
