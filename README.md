@@ -237,6 +237,7 @@ The license for this resource is [CC0](LICENSE).
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
+* [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io)
 * [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
 
 ### Coding Club books
