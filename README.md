@@ -146,7 +146,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Your Python Trinket](https://trinket.io/python) - Put Interactive Python Anywhere on the Web
 * [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
-* [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python.
+* [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python 2.X (!)
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
 * [repl.it](https://repl.it/)
