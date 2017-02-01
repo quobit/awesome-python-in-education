@@ -152,14 +152,17 @@ The license for this resource is [CC0](LICENSE).
 * [repl.it](https://repl.it/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
-* [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
-* [Python Arcade Library](http://pythonhosted.org/arcade/)
 
 ### Games, graphics and simulation
 
+* [PyGame](http://www.pygame.org/)
+* [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
+* [Python Arcade Library](http://pythonhosted.org/arcade/)
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
 * [VPython](http://vpython.org/) - 3D programming
+* [Pymunk](http://www.pymunk.org/) - 2D physics library
+* [PyPhysicsSandbox](https://github.com/jshaffstall/PyPhysicsSandbox] - a simple wrapper around Pymunk
 
 ### Visualization
 
