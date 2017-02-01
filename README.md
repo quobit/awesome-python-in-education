@@ -16,6 +16,7 @@ The license for this resource is [CC0](LICENSE).
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
 * [Tools and Libraries](#tools-and-libraries)
+  * [Games, graphics and simulation](#games-graphics-and-simulation)
   * [Visualization](#visualization)
   * [Jupyter](#jupyter)
   * [IDEs](#ides)
@@ -153,14 +154,17 @@ The license for this resource is [CC0](LICENSE).
 * [kite](https://kite.com/) - programming copilot
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
 * [Python Arcade Library](http://pythonhosted.org/arcade/)
+
+### Games, graphics and simulation
+
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
+* [VPython](http://vpython.org/) - 3D programming
 
 ### Visualization
 
 * [Bokeh](http://bokeh.pydata.org/)
 * [VisPy](http://vispy.org/)
-* [VPython](http://vpython.org/) - 3D programming
 
 ### Jupyter
 
