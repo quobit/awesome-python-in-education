@@ -172,7 +172,11 @@ The license for this resource is [CC0](LICENSE).
 ### Jupyter
 
 * [Project Jupyter](http://jupyter.org/)
-* [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
+* [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook.
+* [nbconvert](https://nbconvert.readthedocs.io/) - convert Notebooks to other formats.
+* [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises.
+* [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
+* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
 * [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
