@@ -114,6 +114,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
 * [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+* [Official Python documentation](https://docs.python.org/3/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
