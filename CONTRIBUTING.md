@@ -6,7 +6,7 @@ Following these guidelines helps to communicate that you respect the time of the
 
 ## What kinds of contributions are expected
 
-Improving the list by adding/removing, reorganizing/reordering, labeling/reviewing resources are all examples of helpful contributions. When in doubt you can always [open a ticket](https://github.com/quobit/awesome-python-in-education/issues/new).
+Improving the list by adding/removing, reorganizing/reordering, labeling/reviewing resources are all examples of helpful contributions. When in doubt you can always [open a ticket](https://github.com/quobit/awesome-python-in-education/issues/new) or comment existing ones (like #1).
 
 ## Ground Rules
 
