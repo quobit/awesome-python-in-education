@@ -117,6 +117,7 @@ The license for this resource is [CC0](LICENSE).
 * [Official Python documentation](https://docs.python.org/3/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
+* [First Steps With Python](https://realpython.com/learn/python-first-steps/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
 * [PyMOTW3](https://pymotw.com/3/)
 * [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
