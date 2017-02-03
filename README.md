@@ -141,6 +141,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
+* [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5)
 
 ## Tools and Libraries
 
