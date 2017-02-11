@@ -102,6 +102,8 @@ The license for this resource is [CC0](LICENSE).
 
 ## Reference and forums
 
+### Articles about Python suitability for education
+
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
 * [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
 * [Why I push for Python](http://lorenabarba.com/blog/why-i-push-for-python/) by Lorena Barba
@@ -110,11 +112,17 @@ The license for this resource is [CC0](LICENSE).
 * [Python is Now the Most Popular Introductory Teaching Language at Top U.S. Universities](http://cacm.acm.org/blogs/blog-cacm/176450-python-is-now-the-most-popular-introductory-teaching-language-at-top-u-s-universities/fulltext) by Philip Guo (Communications of the ACM)
 * [Why Learn Python? Here Are 8 Data-Driven Reasons](https://dbader.org/blog/why-learn-python) by Elena Ruchko
 * [[Level 1] Programming: Python](http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python)
+
+### Mailing lists
+
 * [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
 * [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
 * [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
 * [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+
+### Reference
+
 * [Official Python documentation](https://docs.python.org/3/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
