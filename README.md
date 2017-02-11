@@ -15,6 +15,9 @@ The license for this resource is [CC0](LICENSE).
     * [Data Science](#data-science)
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
+  * [Python suitability for education](#python-suitability-for-education)
+  * [Mailing lists](#mailing-lists)
+  * [Reference](#reference)
 * [Tools and Libraries](#tools-and-libraries)
   * [Games, graphics and simulation](#games-graphics-and-simulation)
   * [Visualization](#visualization)
@@ -102,7 +105,7 @@ The license for this resource is [CC0](LICENSE).
 
 ## Reference and forums
 
-### Articles about Python suitability for education
+### Python suitability for education
 
 * [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
 * [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
