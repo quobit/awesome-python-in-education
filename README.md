@@ -170,6 +170,8 @@ The license for this resource is [CC0](LICENSE).
 * [repl.it](https://repl.it/)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
+* [EarSketch](https://earsketch.gatech.edu/) - learn to code by making music
+* [Ren'Py](https://www.renpy.org/) - a visual novel engine
 
 ### Games, graphics and simulation
 
