@@ -128,6 +128,7 @@ The license for this resource is [CC0](LICENSE).
 ### Reference
 
 * [Official Python documentation](https://docs.python.org/3/)
+* [Python in Education](http://pythonineducation.org/)
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
