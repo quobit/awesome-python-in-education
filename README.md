@@ -89,7 +89,7 @@ The license for this resource is [CC0](LICENSE).
 * [CheckiO](https://checkio.org/)
 * [Empire of Code](https://empireofcode.com/)
 * [Project Euler](https://projecteuler.net/)
-* [Exercism](http://exercism.io/)
+* [Exercism](http://exercism.io/languages/python/)
 * [PyBites](http://pybit.es/)
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
