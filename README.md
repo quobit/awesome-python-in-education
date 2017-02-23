@@ -193,6 +193,7 @@ The license for this resource is [CC0](LICENSE).
 ### Jupyter
 
 * [Project Jupyter](http://jupyter.org/)
+* [IPython widgets](https://github.com/ipython/ipywidgets)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook.
 * [nbconvert](https://nbconvert.readthedocs.io/) - convert Notebooks to other formats.
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises.
