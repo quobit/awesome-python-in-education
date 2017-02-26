@@ -328,6 +328,7 @@ The license for this resource is [CC0](LICENSE).
 
 ### Packt Pub
 
+* [Python Projects for Kids](https://www.packtpub.com/application-development/python-projects-kids)
 * [Python Programming for Arduino](https://www.packtpub.com/application-development/python-programming-arduino)
 * [Pro Python System Administration](http://www.apress.com/us/book/9781430226055) (2010)
 
