@@ -306,7 +306,7 @@ The license for this resource is [CC0](LICENSE).
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
 * [Hello Raspberry Pi!](https://www.manning.com/books/hello-raspberry-pi) - Python programming for kids and other beginners.
 * [The Quick Python Book, Third Edition](https://www.manning.com/books/the-quick-python-book-third-edition)
-* [Learn Programming](https://www.manning.com/books/learn-programming)
+* [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
 
 ### No Starch Press
