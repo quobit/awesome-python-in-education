@@ -162,6 +162,7 @@ The license for this resource is [CC0](LICENSE).
 * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5) - [rendered version](http://nbviewer.jupyter.org/github/4dsolutions/Python5/tree/master/)
 * [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
 * [Learn Python - Udacity](https://www.udacity.com/learn/python)
+* [Popular Python Recipes](http://code.activestate.com/recipes/langs/python/)
 
 ## Tools and Libraries
 
