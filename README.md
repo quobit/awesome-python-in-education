@@ -339,6 +339,7 @@ The license for this resource is [CC0](LICENSE).
 
 ### Raspberry Pi
 
+* [Raspberry Pi](https://www.raspberrypi.org/)
 * [Getting Started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
 * [Create a "Whac-a-block" game in Minecraft](https://www.raspberrypi.org/learning/minecraft-whac-a-block-game/)
 * [MagPi issues](https://www.raspberrypi.org/magpi-issues/)
