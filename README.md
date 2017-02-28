@@ -234,6 +234,7 @@ The license for this resource is [CC0](LICENSE).
 * [ipdb](https://pypi.org/project/ipdb/)
 * [PuDB](https://pypi.org/project/pudb/)
 * [pdb++](https://bitbucket.org/antocuni/pdb/src)
+* [Python Linter Online](http://pythonbuddy.com/) - Live Syntax Checking Using Pylint while Running Python
 
 ## Conferences and videos
 
