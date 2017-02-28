@@ -212,6 +212,7 @@ The license for this resource is [CC0](LICENSE).
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 * ["The world of Jupyter" —a tutorial](https://github.com/barbagroup/jupyter-tutorial)
+* [List of Jupyter Notebooks by Peter Norvig](http://norvig.com/ipython/)
 
 ### IDEs
 
