@@ -108,8 +108,8 @@ The license for this resource is [CC0](LICENSE).
 ### Python suitability for education
 
 * [CP4E](https://www.python.org/doc/essays/cp4e/) by Guido van Rossum
-* [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education
-* [David Beazley's Foreword in Think Python like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html)
+* [Python in Education: Teach, Learn, Program](http://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education by Nicholas Tollervey
+* ['Think Python like a Computer Scientist' book Foreword](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html) by David Beazley
 * [Why I push for Python](http://lorenabarba.com/blog/why-i-push-for-python/) by Lorena Barba
 * [Why Python is a Great First Language](http://blog.trinket.io/why-python/) by Elliott Hauser (Trinket CEO)
 * [Why Python is a great language for teaching beginners in introductory programming classes](http://pgbovine.net/python-teaching.htm) by Philip Guo
