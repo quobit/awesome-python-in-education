@@ -250,7 +250,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Programming in one video](https://www.youtube.com/watch?v=N4mEzFDjqtA) - [Learn to Program with Python](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt) Derek Banas playlist
 * [CPython internals: A ten-hour codewalk through the Python interpreter source code](http://pgbovine.net/cpython-internals.htm)
 * [Teaching Python: The Hard Parts](http://pyvideo.org/pycon-us-2016/elana-hashman-teaching-python-the-hard-parts-pycon-2016.html) - PyCon 2016
-* [Episode 14 – Allen Downey on Teaching Computer Science with Python](https://www.podcastinit.com/episode-14-allen-downey-on-teaching-computer-science-with-python/) from [podcast.\__init__](https://www.podcastinit.com/)
+* [Episode 14 – Allen Downey on Teaching Computer Science with Python](https://www.podcastinit.com/episode-14-allen-downey-on-teaching-computer-science-with-python/) from [podcast.\__init__('Python')](https://www.podcastinit.com/)
 * [Python For Informatics](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ)
 * [Python for Everybody - Exploring Information](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 * [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) or via [Python Programming](https://pythonprogramming.net/)
