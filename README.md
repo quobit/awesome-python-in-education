@@ -259,6 +259,7 @@ The license for this resource is [CC0](LICENSE).
 * [PySide Video Tutorials](http://wiki.qt.io/PySide_Video_Tutorials)
 * [Python Basics - Coding is for girls](https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK)
 * [Python For Beginners - Learn To Code Tutorials ](https://www.youtube.com/playlist?list=PLW_tdZJKynZXgLKQAR2g52ut4c2IpUmOv)
+* [TheNewBoston Python 3 videotutorials](https://thenewboston.com/videos.php?cat=98)
 
 ## Books
 
