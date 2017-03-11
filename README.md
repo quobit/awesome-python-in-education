@@ -16,9 +16,9 @@ The license for this resource is [CC0](LICENSE).
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
   * [Python suitability for education](#python-suitability-for-education)
+  * [Reference](#reference)
   * [Mailing lists](#mailing-lists)
   * [Forums](#forums)
-  * [Reference](#reference)
 * [Tools and Libraries](#tools-and-libraries)
   * [Games, graphics and simulation](#games-graphics-and-simulation)
   * [Visualization](#visualization)
@@ -119,18 +119,6 @@ The license for this resource is [CC0](LICENSE).
 * [Why Learn Python? Here Are 8 Data-Driven Reasons](https://dbader.org/blog/why-learn-python) by Elena Ruchko
 * [[Level 1] Programming: Python](http://web.archive.org/web/20160122210606/http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python) - Archived version
 
-### Mailing lists
-
-* [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
-* [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
-* [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
-* [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
-* [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
-
-### Forums
-
-* [Python Language StackOverflow Documentation Dashboard](http://stackoverflow.com/documentation/python)
-
 ### Reference
 
 * [Official Python documentation](https://docs.python.org/3/)
@@ -169,6 +157,18 @@ The license for this resource is [CC0](LICENSE).
 * [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
 * [Learn Python - Udacity](https://www.udacity.com/learn/python)
 * [Popular Python Recipes](http://code.activestate.com/recipes/langs/python/)
+
+### Mailing lists
+
+* [Python EDU-SIG](https://www.python.org/community/sigs/current/edu-sig/) - Python.org subsite
+* [Python EDU-SIG](https://mail.python.org/mailman/listinfo/edu-sig) - Special Interest Group mailing list
+* [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
+* [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
+* [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+
+### Forums
+
+* [Python Language StackOverflow Documentation Dashboard](http://stackoverflow.com/documentation/python)
 
 ## Tools and Libraries
 
