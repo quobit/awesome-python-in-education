@@ -17,6 +17,7 @@ The license for this resource is [CC0](LICENSE).
 * [Reference and forums](#reference-and-forums)
   * [Python suitability for education](#python-suitability-for-education)
   * [Mailing lists](#mailing-lists)
+  * [Forums](#forums)
   * [Reference](#reference)
 * [Tools and Libraries](#tools-and-libraries)
   * [Games, graphics and simulation](#games-graphics-and-simulation)
@@ -125,6 +126,10 @@ The license for this resource is [CC0](LICENSE).
 * [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
 * [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+
+### Forums
+
+* [Python Language StackOverflow Documentation Dashboard](http://stackoverflow.com/documentation/python)
 
 ### Reference
 
