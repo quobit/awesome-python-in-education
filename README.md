@@ -168,7 +168,7 @@ The license for this resource is [CC0](LICENSE).
 
 ### Forums
 
-* [Python Language StackOverflow Documentation Dashboard](http://stackoverflow.com/documentation/python)
+* StackOverflow: [dashboard](http://stackoverflow.com/documentation/python) - [all topics](http://stackoverflow.com/documentation/python/topics) - [tag python](http://stackoverflow.com/questions/tagged/python)
 
 ## Tools and Libraries
 
