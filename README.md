@@ -127,6 +127,7 @@ The license for this resource is [CC0](LICENSE).
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
 * [First Steps With Python](https://realpython.com/learn/python-first-steps/)
+* [Python cheatsheet](https://www.pythonsheets.com/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
 * [PyMOTW3](https://pymotw.com/3/)
 * [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
