@@ -169,7 +169,7 @@ The license for this resource is [CC0](LICENSE).
 ### Forums
 
 * StackOverflow: [dashboard](http://stackoverflow.com/documentation/python) - [all topics](http://stackoverflow.com/documentation/python/topics) - [tag python](http://stackoverflow.com/questions/tagged/python)
-* reddit: [Python subreddit](https://www.reddit.com/r/Python/) - [Python Learning](https://www.reddit.com/r/learnpython/)
+* reddit: [Python](https://www.reddit.com/r/Python/) - [Python Learning](https://www.reddit.com/r/learnpython/)
 
 ## Tools and Libraries
 
