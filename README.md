@@ -89,6 +89,7 @@ The license for this resource is [CC0](LICENSE).
 ## Exercises and Games
 
 * [CheckiO](https://checkio.org/)
+* [CodeAbbey](http://www.codeabbey.com/)
 * [Empire of Code](https://empireofcode.com/)
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/languages/python/)
