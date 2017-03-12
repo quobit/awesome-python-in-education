@@ -139,7 +139,6 @@ The license for this resource is [CC0](LICENSE).
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
-* [/r/learnpython](https://www.reddit.com/r/learnpython/)
 * [Algorithms implemented in python (for education)](https://github.com/TheAlgorithms/Python)
 * [Algorithms](https://github.com/nryoung/algorithms)
 * [awesome-python](https://github.com/vinta/awesome-python)
