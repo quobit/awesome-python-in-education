@@ -270,11 +270,13 @@ The license for this resource is [CC0](LICENSE).
 * [Python Basics - Coding is for girls](https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK)
 * [Python For Beginners - Learn To Code Tutorials ](https://www.youtube.com/playlist?list=PLW_tdZJKynZXgLKQAR2g52ut4c2IpUmOv)
 * [TheNewBoston Python 3 videotutorials](https://thenewboston.com/videos.php?cat=98) - also [Flask](https://thenewboston.com/videos.php?cat=362) and others
+* [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
 
 ## Books
 
 * [The Computer Science Field Guide](https://github.com/uccser/cs-field-guide)
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
+* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
