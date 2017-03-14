@@ -130,6 +130,7 @@ The license for this resource is [CC0](LICENSE).
 * [First Steps With Python](https://realpython.com/learn/python-first-steps/)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
+* [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [PyMOTW3](https://pymotw.com/3/)
 * [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
 * [Learn X in Y minutes where X=python3](https://learnxinyminutes.com/docs/python3/)
