@@ -224,6 +224,7 @@ The license for this resource is [CC0](LICENSE).
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 * ["The world of Jupyter" —a tutorial](https://github.com/barbagroup/jupyter-tutorial)
 * [List of Jupyter Notebooks by Peter Norvig](http://norvig.com/ipython/)
+* [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 
 ### IDEs
 
