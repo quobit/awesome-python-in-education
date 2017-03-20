@@ -76,6 +76,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Course](http://www.python-course.eu/)
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
+* [Python Tutorials for Kids 13+](https://python4kids.brendanscott.com/)
 * [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
 
 #### Data Science
