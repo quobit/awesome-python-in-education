@@ -85,6 +85,7 @@ The license for this resource is [CC0](LICENSE).
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format
+* [Exploratory Computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 
 ## Exercises and Games
