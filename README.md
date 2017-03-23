@@ -78,6 +78,7 @@ The license for this resource is [CC0](LICENSE).
 * [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
 * [Python Tutorials for Kids 13+](https://python4kids.brendanscott.com/)
 * [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
+* [Python Tutorials and Courses Directory](https://hackr.io/tutorials/learn-python)
 
 #### Data Science
 
