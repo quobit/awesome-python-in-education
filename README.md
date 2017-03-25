@@ -111,7 +111,7 @@ The license for this resource is [CC0](LICENSE).
 * [CodeCombat](https://codecombat.com/)
 * [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
 * [Slice like a Ninja](http://briandavidhall.com/slice_like_a_ninja/)
-* [Python Datasets: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html)
+* [Python Datasets: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html) - (visit [CORGIS](https://think.cs.vt.edu/corgis/) for raw formats)
 
 ## Reference and forums
 
