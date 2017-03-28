@@ -103,6 +103,7 @@ The license for this resource is [CC0](LICENSE).
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
 * [Python for Fun](http://openbookproject.net/py4fun/)
+* [CodingBat](http://codingbat.com/python)
 * [Reeborg's world](http://reeborg.ca/index_en.html)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/)
