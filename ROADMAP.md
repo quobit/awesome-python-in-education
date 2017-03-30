@@ -1,3 +1,5 @@
 # Roadmap
 
-## Focus on teachers
+* Focus on teachers
+* Encourage peer resource reviews
+* Improve classification/hierarchy
