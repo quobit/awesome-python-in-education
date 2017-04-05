@@ -219,7 +219,9 @@ The license for this resource is [CC0](LICENSE).
 * [Project Jupyter](http://jupyter.org/)
 * [IPython widgets](https://github.com/ipython/ipywidgets)
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook.
+* [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 * [nbdime](https://nbdime.readthedocs.io/) - diffing and merging of Jupyter Notebooks.
+* [nbscan](https://github.com/conery/nbscan) - search for and print contents of cells in Jupyter notebooks.
 * [nbconvert](https://nbconvert.readthedocs.io/) - convert Notebooks to other formats.
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises.
 * [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
