@@ -92,9 +92,13 @@ The license for this resource is [CC0](LICENSE).
 * [A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182)
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
+* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-5)
+* [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-3)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format
 * [Exploratory Computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
+* [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
+* [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
 
 ## Exercises and Games
 
@@ -383,6 +387,8 @@ The license for this resource is [CC0](LICENSE).
   * [Getting Started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
   * [Create a "Whac-a-block" game in Minecraft](https://www.raspberrypi.org/learning/minecraft-whac-a-block-game/)
   * [MagPi issues](https://www.raspberrypi.org/magpi-issues/)
+
+* [The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-platform)
 
 ### Arduino
 
