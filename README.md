@@ -60,7 +60,12 @@ The license for this resource is [CC0](LICENSE).
 ### MOOCs
 
 * [Programming for Everybody](https://www.coursera.org/learn/python)
+* [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
+* [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
+* [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
 * [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-9)
+* [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
+* [CS For All: Introduction to Computer Science and Python Programming](https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x-0)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [Python Codecademy](https://www.codecademy.com/learn/python)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
