@@ -70,6 +70,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Codecademy](https://www.codecademy.com/learn/python)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 * [Python School](https://pythonschool.net/)
+* [Let’s all build a comprehensive interactive Python curriculum together](https://forum.freecodecamp.com/t/lets-all-build-a-comprehensive-interactive-python-curriculum-together/103979) - Request For Proposals at FreeCodeCamp.com
 
 ### Introductions and Tutorials
 
