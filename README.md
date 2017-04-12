@@ -305,8 +305,9 @@ The license for this resource is [CC0](LICENSE).
 
 * [The Computer Science Field Guide](http://www.csfieldguide.org.nz/en/) - ([repo](https://github.com/uccser/cs-field-guide))
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
-* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
+* [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
+* [Algorithmic Problem Solving with Python](http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf)
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
