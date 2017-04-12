@@ -85,6 +85,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Tutorials for Kids 13+](https://python4kids.brendanscott.com/)
 * [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
 * [Python Tutorials and Courses Directory](https://hackr.io/tutorials/learn-python)
+* [Python as a Second Language](https://swcarpentry.github.io/python-second-language/)
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial)
 
 #### Data Science
