@@ -98,6 +98,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format
 * [Exploratory Computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
+* [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 * [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
 
