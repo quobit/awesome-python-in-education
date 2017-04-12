@@ -272,6 +272,7 @@ The license for this resource is [CC0](LICENSE).
 * [pdb++](https://bitbucket.org/antocuni/pdb/src)
 * [Python Linter Online](http://pythonbuddy.com/) - Live Syntax Checking Using Pylint while Running Python
 * [PyTA](https://github.com/pyta-uoft/pyta) - static code analysis to help students find and fix common coding errors
+* [coala](http://coala.io/) - linting and fixing code
 
 ## Conferences and videos
 
