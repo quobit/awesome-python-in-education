@@ -49,6 +49,7 @@ The license for this resource is [CC0](LICENSE).
 * [pythonroom](https://pythonroom.com/)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [BlockPy](http://think.cs.vt.edu/blockpy/) - web-based Python environment that lets you work with blocks, text, or both.
+* [Edublocks](http://edublocks.org/) - Making the transition from Scratch to Python easier
 * [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
 * [Learn Python](http://www.learnpython.org/)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
