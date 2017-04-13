@@ -167,9 +167,9 @@ The license for this resource is [CC0](LICENSE).
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
 * [pycrumbs](https://github.com/kirang89/pycrumbs)
-* [Python Reference](https://github.com/rasbt/python_reference)
-* [Pythonidae](https://github.com/svaksha/pythonidae)
-* [python-patterns](https://github.com/faif/python-patterns)
+* [Python Reference](https://github.com/rasbt/python_reference) - useful functions, tutorials, and other Python-related things 
+* [Pythonidae](https://github.com/svaksha/pythonidae) - curated decibans of scientific programming resources in Python
+* [python-patterns](https://github.com/faif/python-patterns) - a collection of design patterns/idioms in Python 
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
 * [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)  
