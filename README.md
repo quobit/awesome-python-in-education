@@ -75,6 +75,7 @@ The license for this resource is [CC0](LICENSE).
 
 ### Introductions and Tutorials
 
+* [The Hello World Program: Learn Python](https://thehelloworldprogram.com/python/)
 * [Introduction to Python](http://introtopython.org/)
 * [NewCoder](http://newcoder.io/)
 * [Python tutorial](https://pythonspot.com/)
