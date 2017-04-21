@@ -206,7 +206,7 @@ The license for this resource is [CC0](LICENSE).
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python 2.X (!)
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
-* [repl.it](https://repl.it/)
+* [repl.it](https://repl.it/site/languages/python3)
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
 * [EarSketch](https://earsketch.gatech.edu/) - learn to code by making music
