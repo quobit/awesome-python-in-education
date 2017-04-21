@@ -47,6 +47,7 @@ The license for this resource is [CC0](LICENSE).
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) (more resources included in [Hour of Python](https://hourofpython.com/))
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) (more resources included in [Runestone Interactive](http://runestoneinteractive.org/library.html))
 * [pythonroom](https://pythonroom.com/)
+* [repl.it classrooms](https://repl.it/site/classrooms)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [CodeSkulptor](http://www.codeskulptor.org/)
 * [BlockPy](http://think.cs.vt.edu/blockpy/) - web-based Python environment that lets you work with blocks, text, or both.
