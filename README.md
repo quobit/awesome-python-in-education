@@ -367,7 +367,6 @@ The license for this resource is [CC0](LICENSE).
 ### No Starch Press
 
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
-* [Learn to Program with Minecraft](https://www.nostarch.com/programwithminecraft)
 * [Python for Kids](https://www.nostarch.com/pythonforkids)
 * [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
 * [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
