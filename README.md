@@ -325,6 +325,7 @@ The license for this resource is [CC0](LICENSE).
 * [Learn Python, Break Python - A Beginner's Guide to Programming](http://learnpythonbreakpython.com/)
 * [Learn Python3 in Y minutes](https://learnxinyminutes.com/docs/python3/)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
+* [The Art and Craft of Programming (Python edition)](http://troll.cs.ua.edu/ACP-PY/)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
 * [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io)
