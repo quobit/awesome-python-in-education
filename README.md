@@ -224,6 +224,7 @@ The license for this resource is [CC0](LICENSE).
 * [VPython](http://vpython.org/) - 3D programming
 * [Pymunk](http://www.pymunk.org/) - 2D physics library
 * [PyPhysicsSandbox](https://github.com/jshaffstall/PyPhysicsSandbox) - a simple wrapper around Pymunk
+* [Kivy](https://kivy.org/) - innovative user interfaces, such as multi-touch apps
 
 ### Visualization
 
