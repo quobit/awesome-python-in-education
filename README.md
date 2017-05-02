@@ -148,6 +148,7 @@ The license for this resource is [CC0](LICENSE).
 * [Why Learn Python? Here Are 8 Data-Driven Reasons](https://dbader.org/blog/why-learn-python) by Elena Ruchko
 * [[Level 1] Programming: Python](http://web.archive.org/web/20160122210606/http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python) - Archived version
 * [Python as a way of thinking](http://allendowney.blogspot.com/2017/04/python-as-way-of-thinking.html)
+* [Academic Papers](papers.md)
 
 ### Reference
 
