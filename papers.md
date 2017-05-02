@@ -1,5 +1,7 @@
 # Academic papers
 
+[return to README](README.md#python-suitability-for-education)
+
 * Agarwal, K. K., & Agarwal, A. (2005). Python for CS1, CS2 and beyond. *Journal of Computing Sciences in Colleges*, 20(4), 262-270.
 * Agarwal, K. K., & Agarwal, A. (2006). Simply python for cs0. *Journal of Computing Sciences in Colleges*, 21(4), 162-170. 
 * Ateeq, M., Habib, H., Umer, A., & Rehman, M. U. (2014, April). C++ or Python? Which One to Begin with: A Learner's Perspective. In *Teaching and Learning in Computing and Engineering (LaTiCE), 2014 International Conference on* (pp. 64-69). IEEE. **DOI**: [10.1109/LaTiCE.2014.20](https://doi.org/10.1109/LaTiCE.2014.20)
