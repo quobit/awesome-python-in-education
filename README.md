@@ -322,7 +322,7 @@ The license for this resource is [CC0](LICENSE).
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Python for Everybody - Exploring Data In Python 3](http://www.pythonlearn.com/book.php)
+* [Python for Everybody - Exploring Data In Python 3](http://www.py4e.com/book)
 * [Composing Programs](http://composingprograms.com/)
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
