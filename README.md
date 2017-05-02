@@ -45,6 +45,7 @@ The license for this resource is [CC0](LICENSE).
 ### Interactive environments
 
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) (more resources included in [Hour of Python](https://hourofpython.com/))
+* [Python for Everybody](https://books.trinket.io/pfe/) - trinket.io interactive book
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) (more resources included in [Runestone Interactive](http://runestoneinteractive.org/library.html))
 * [pythonroom](https://pythonroom.com/)
 * [repl.it classrooms](https://repl.it/site/classrooms)
