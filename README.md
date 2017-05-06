@@ -256,6 +256,7 @@ The license for this resource is [CC0](LICENSE).
 * [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 * [IPythonBlocks](http://ipythonblocks.org/)
+* [Using the IPython Notebook as a Teaching Tool](https://software-carpentry.org/blog/2013/03/using-notebook-as-a-teaching-tool.html)
 * [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
 * [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
 * [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
