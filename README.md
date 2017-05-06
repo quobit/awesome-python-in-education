@@ -192,6 +192,7 @@ The license for this resource is [CC0](LICENSE).
 * [Popular Python Recipes](http://code.activestate.com/recipes/langs/python/)
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 * [Improve your Python skills (Dan Bader's blog)](https://dbader.org/blog/)
+* [Practical Business Python](http://pbpython.com/)
 
 ### Mailing lists
 
