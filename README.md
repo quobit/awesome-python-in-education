@@ -92,7 +92,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Tutorials and Courses Directory](https://hackr.io/tutorials/learn-python)
 * [Python as a Second Language](https://swcarpentry.github.io/python-second-language/)
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial)
-* 4 courses from the archived O'Reilly School of Technology: [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html)
+* [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 4 courses from the archived O'Reilly School of Technology
 
 #### Data Science
 
