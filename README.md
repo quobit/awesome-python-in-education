@@ -315,6 +315,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python For Beginners - Learn To Code Tutorials ](https://www.youtube.com/playlist?list=PLW_tdZJKynZXgLKQAR2g52ut4c2IpUmOv)
 * [TheNewBoston Python 3 videotutorials](https://thenewboston.com/videos.php?cat=98) - also [Flask](https://thenewboston.com/videos.php?cat=362) and others
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
+* [Socratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 
 ## Books
 
