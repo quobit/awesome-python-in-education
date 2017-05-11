@@ -316,6 +316,7 @@ The license for this resource is [CC0](LICENSE).
 * [TheNewBoston Python 3 videotutorials](https://thenewboston.com/videos.php?cat=98) - also [Flask](https://thenewboston.com/videos.php?cat=362) and others
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
 * [Socratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+* [Python for Data Analysis - Pandas Cookbook](https://www.youtube.com/playlist?list=PLyBBc46Y6aAz54aOUgKXXyTcEmpMisAq3)
 
 ## Books
 
