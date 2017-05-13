@@ -291,6 +291,8 @@ The license for this resource is [CC0](LICENSE).
 * [Python Linter Online](http://pythonbuddy.com/) - Live Syntax Checking Using Pylint while Running Python
 * [PyTA](https://github.com/pyta-uoft/pyta) - static code analysis to help students find and fix common coding errors
 * [coala](http://coala.io/) - linting and fixing code
+* [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
+
 
 ## Conferences and videos
 
@@ -325,106 +327,4 @@ The license for this resource is [CC0](LICENSE).
 * [Awesome Python Books](https://github.com/Junnplus/awesome-python-books)
 * [PythonBooks](http://pythonbooks.revolunet.com/)
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
-* [Algorithmic Problem Solving with Python](http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf)
-* [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
-* [Python Practice Book](http://anandology.com/python-practice-book/)
-* [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-* [Natural Language Processing with Python](http://www.nltk.org/book/)
-* [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Python for Everybody - Exploring Data In Python 3](http://www.py4e.com/book)
-* [Composing Programs](http://composingprograms.com/)
-* [Dive into Python 3](http://getpython3.com/diveintopython3/)
-* [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
-* [Learn Python, Break Python - A Beginner's Guide to Programming](http://learnpythonbreakpython.com/)
-* [Learn Python3 in Y minutes](https://learnxinyminutes.com/docs/python3/)
-* [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
-* [The Art and Craft of Programming (Python edition)](http://troll.cs.ua.edu/ACP-PY/)
-* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
-* [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
-* [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io)
-* [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
-
-### Coding Club books
-
-* [Python Basics](http://www.codingclub.co.uk/book1_home.php)
-* [Python Next Steps](http://www.codingclub.co.uk/book2_home.php)
-* [Python: Building Big Apps](http://www.codingclub.co.uk/book3_home.php)
-* [Python: Programming Art](http://www.codingclub.co.uk/book4_home.php)
-* [Python: Interactive Adventures](http://www.codingclub.co.uk/book5_home.php)
-* [Black Flag: A Coding Club Mission](http://www.codingclub.co.uk/black_flag.php)
-* [Coding Cards](http://www.codingclub.co.uk/codecards/CC-CodeCards.pdf) [PDF]
-
-### Green Tea Press
-
-* [Think Python: How To Think Like a Computer Scientist, 2nd ed.](http://greenteapress.com/thinkpython2/html/)
-* [Think Complexity: Exploring Complexity Science with Python, 2nd ed.](http://greenteapress.com/complexity2/html/)
-* [Think DSP: Digital Signal Processing in Python](http://greenteapress.com/thinkdsp/html/)
-* [Think Stats: Exploratory Data Analysis in Python, 2nd ed.](http://greenteapress.com/thinkstats2/html/)
-* [Think Bayes: Bayesian Statistics in Python](http://www.greenteapress.com/thinkbayes/html/)
-
-### Invent with Python series
-
-* [Invent your own computer games with Python](https://inventwithpython.com/)
-* [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
-* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
-
-### Manning Publications
-
-* [Hello! Python](https://www.manning.com/books/hello-python)
-* [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
-* [Hello Raspberry Pi!](https://www.manning.com/books/hello-raspberry-pi) - Python programming for kids and other beginners.
-* [The Quick Python Book, Third Edition](https://www.manning.com/books/the-quick-python-book-third-edition)
-* [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
-* [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
-
-### No Starch Press
-
-* [Python for Kids](https://www.nostarch.com/pythonforkids)
-* [Teach Your Kids to Code](https://www.nostarch.com/teachkids)
-* [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
-* [Python Crash Course. A Hands-On, Project-Based Introduction to Programming](https://www.nostarch.com/pythoncrashcourse)
-* [Python Playground. Geeky Projects for the Curious Programmer](https://www.nostarch.com/pythonplayground)
-* [Learn to Program with Minecraft. Transform Your World with the Power of Python](https://www.nostarch.com/programwithminecraft)
-* [Black Hat Python. Python Programming for Hackers and Pentesters](https://www.nostarch.com/blackhatpython)
-
-### O'Reilly
-
-* [Raspberry Pi Cookbook. Software and Hardware Problems and Solutions](http://shop.oreilly.com/product/0636920045182.do)
-* [Head First Python, 2nd Edition](http://shop.oreilly.com/product/0636920036777.do)
-* [Python for Unix and Linux System Administration](http://shop.oreilly.com/product/9780596515829.do) (2008)
-
-### Packt Pub
-
-* [Python Projects for Kids](https://www.packtpub.com/application-development/python-projects-kids)
-* [Raspberry Pi Projects for Kids](https://www.packtpub.com/hardware-and-creative/raspberry-pi-projects-kids-second-edition)
-* [Python Programming for Arduino](https://www.packtpub.com/application-development/python-programming-arduino)
-* [Pro Python System Administration](http://www.apress.com/us/book/9781430226055) (2010)
-
-## Hardware
-
-* [Cozmo](https://developer.anki.com/)
-
-### Raspberry Pi
-
-* [Raspberry Pi](https://www.raspberrypi.org/)
-
-  * [Getting Started with Minecraft Pi](https://www.raspberrypi.org/learning/getting-started-with-minecraft-pi/)
-  * [Create a "Whac-a-block" game in Minecraft](https://www.raspberrypi.org/learning/minecraft-whac-a-block-game/)
-  * [MagPi issues](https://www.raspberrypi.org/magpi-issues/)
-
-* [The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-platform)
-
-### Arduino
-
-* [Arduino and Python](http://playground.arduino.cc/Interfacing/Python)
-* [Using Python with Arduino](http://www.toptechboy.com/using-python-with-arduino-lessons/)
-
-### BBC microbit
-
-* [The micro:bit Foundation](http://microbit.org/)
-* [BBC micro:bit MicroPython](https://microbit-micropython.readthedocs.io)
-
-### PyBoard
-
-* [MicroPython](http://micropython.org/)
+* [
