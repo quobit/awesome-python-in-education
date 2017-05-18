@@ -253,6 +253,7 @@ The license for this resource is [CC0](LICENSE).
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises.
 * [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
 * [nbtranslate](https://github.com/devrt/nbtranslate) - translate content of Jupyter notebook using gettext tools.
+* [nbTranslate](https://github.com/jfbercher/jupyter_nbTranslate) - translate cells of a notebook from one language to another - Adds multi language support.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
 * [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
