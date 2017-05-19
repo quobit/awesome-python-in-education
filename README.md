@@ -194,6 +194,7 @@ The license for this resource is [CC0](LICENSE).
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
 * [Improve your Python skills (Dan Bader's blog)](https://dbader.org/blog/)
 * [Practical Business Python](http://pbpython.com/)
+* [Python Lessons](http://teachwithict.weebly.com/python.html) - 6 lessons from teachwithict
 
 ### Mailing lists
 
