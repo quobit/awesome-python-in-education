@@ -135,6 +135,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Datasets: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html) - (visit [CORGIS](https://think.cs.vt.edu/corgis/) for raw formats)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [Pyweek Programming Challenge](https://pyweek.org/)
+* [CodingGame](https://www.codingame.com)
 
 ## Reference and forums
 
