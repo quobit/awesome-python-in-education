@@ -136,6 +136,7 @@ The license for this resource is [CC0](LICENSE).
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [Pyweek Programming Challenge](https://pyweek.org/)
 * [CodingGame](https://www.codingame.com)
+* [CodeFights](https://codefights.com/)
 
 ## Reference and forums
 
