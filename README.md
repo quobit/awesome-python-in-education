@@ -237,6 +237,7 @@ The license for this resource is [CC0](LICENSE).
 * [PyPhysicsSandbox](https://github.com/jshaffstall/PyPhysicsSandbox) - a simple wrapper around Pymunk
 * [Kivy](https://kivy.org/) - innovative user interfaces, such as multi-touch apps
 * [Panda3D](http://www.panda3d.org/) - game engine and framework for 3D rendering
+* [gui zero](https://lawsie.github.io/guizero/) - to allow children to quickly and easily create GUIs for their programs
 
 ### Visualization
 
