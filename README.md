@@ -435,3 +435,7 @@ The license for this resource is [CC0](LICENSE).
 ### PyBoard
 
 * [MicroPython](http://micropython.org/)
+
+### ESP32
+
+* [MicroPython](https://github.com/micropython/micropython-esp32)
