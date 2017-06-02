@@ -129,7 +129,6 @@ The license for this resource is [CC0](LICENSE).
 * [Reeborg's world](http://reeborg.ca/index_en.html)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/)
-* [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
 * [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
