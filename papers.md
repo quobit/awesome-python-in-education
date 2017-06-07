@@ -1,6 +1,6 @@
 # Academic papers
 
-[return to README](README.md#python-suitability-for-education)
+[return to README](README.md)
 
 * Agarwal, K. K., & Agarwal, A. (2005). Python for CS1, CS2 and beyond. *Journal of Computing Sciences in Colleges*, 20(4), 262-270.
 * Agarwal, K. K., & Agarwal, A. (2006). Simply python for cs0. *Journal of Computing Sciences in Colleges*, 21(4), 162-170. 
