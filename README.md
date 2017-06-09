@@ -196,6 +196,7 @@ The license for this resource is [CC0](LICENSE).
 * [Improve your Python skills (Dan Bader's blog)](https://dbader.org/blog/)
 * [Practical Business Python](http://pbpython.com/)
 * [Python Lessons](http://teachwithict.weebly.com/python.html) - 6 lessons from teachwithict
+* [Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
 ### Mailing lists
 
