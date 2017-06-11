@@ -272,6 +272,7 @@ The license for this resource is [CC0](LICENSE).
 * ["The world of Jupyter" —a tutorial](https://github.com/barbagroup/jupyter-tutorial)
 * [List of Jupyter Notebooks by Peter Norvig](http://norvig.com/ipython/)
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/)
 
 ### IDEs
 
