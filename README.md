@@ -16,6 +16,7 @@ The license for this resource is [CC0](LICENSE).
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
   * [Python suitability for education](#python-suitability-for-education)
+  * [Academic Papers](papers.md)
   * [Reference](#reference)
   * [Mailing lists](#mailing-lists)
   * [Forums](#forums)
@@ -94,7 +95,7 @@ The license for this resource is [CC0](LICENSE).
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial)
 * [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 4 courses from the archived O'Reilly School of Technology
 * [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/) - a tutorial from the Software Carpentry
-* [Python Tutorials](https://pythonspot.com/en/)
+* [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
 
 #### Data Science
 
@@ -127,7 +128,6 @@ The license for this resource is [CC0](LICENSE).
 * [Reeborg's world](http://reeborg.ca/index_en.html)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/)
-* [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
 * [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
@@ -152,7 +152,6 @@ The license for this resource is [CC0](LICENSE).
 * [Why Learn Python? Here Are 8 Data-Driven Reasons](https://dbader.org/blog/why-learn-python) by Elena Ruchko
 * [[Level 1] Programming: Python](http://web.archive.org/web/20160122210606/http://nzacditt.org.nz/resources/programming-and-cs/level-1-programming-python) - Archived version
 * [Python as a way of thinking](http://allendowney.blogspot.com/2017/04/python-as-way-of-thinking.html)
-* [Academic Papers](papers.md)
 
 ### Reference
 
@@ -197,6 +196,7 @@ The license for this resource is [CC0](LICENSE).
 * [Improve your Python skills (Dan Bader's blog)](https://dbader.org/blog/)
 * [Practical Business Python](http://pbpython.com/)
 * [Python Lessons](http://teachwithict.weebly.com/python.html) - 6 lessons from teachwithict
+* [Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 
 ### Mailing lists
 
@@ -351,6 +351,8 @@ The license for this resource is [CC0](LICENSE).
 * [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
 * [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io)
 * [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
+* [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
+* [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 
 ### Coding Club books
 
