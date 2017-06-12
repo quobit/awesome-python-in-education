@@ -288,6 +288,7 @@ The license for this resource is [CC0](LICENSE).
 * [Ninja-IDE](http://ninja-ide.org/)
 * [PyDev](http://www.pydev.org/)
 * [Visual Studio Code](https://code.visualstudio.com/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+* [Mu](https://codewith.mu/)
 
 ### Debuggers
 
