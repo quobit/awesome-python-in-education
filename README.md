@@ -130,7 +130,7 @@ The license for this resource is [CC0](LICENSE).
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
-* [TeachCraft-Challenges](https://github.com/teachthenet/TeachCraft-Challenges)
+* [TeachCraft: Minecraft + Python](https://teachcraft.net/) - [Run your own TeachCraft Server](https://github.com/TeachCraft/TeachCraft-Server)
 * [Slice like a Ninja](http://briandavidhall.com/slice_like_a_ninja/)
 * [Python Datasets: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html) - (visit [CORGIS](https://think.cs.vt.edu/corgis/) for raw formats)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
