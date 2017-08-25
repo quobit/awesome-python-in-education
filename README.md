@@ -448,3 +448,7 @@ The license for this resource is [CC0](LICENSE).
 ### ESP32
 
 * [MicroPython](https://github.com/micropython/micropython-esp32)
+
+### Adafruit
+
+* [CircuitPython](https://github.com/adafruit/circuitpython) - a MicroPython fork for teaching coding with microcontrollers
