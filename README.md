@@ -358,6 +358,7 @@ The license for this resource is [CC0](LICENSE).
 * [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](http://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
 * [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
+* [PythonBooks](http://pythonbooks.org/) - categorized Python books
 
 ### Coding Club books
 
