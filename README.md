@@ -440,6 +440,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [The micro:bit Foundation](http://microbit.org/)
 * [BBC micro:bit MicroPython](https://microbit-micropython.readthedocs.io)
+* [Microbit Playground](https://microbit-playground.co.uk/)
 
 ### PyBoard
 
