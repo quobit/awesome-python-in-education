@@ -189,6 +189,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
+* [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting and tricky Python examples
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5) - [rendered version](http://nbviewer.jupyter.org/github/4dsolutions/Python5/tree/master/)
 * [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
