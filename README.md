@@ -61,6 +61,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python from scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
 * [Codesters](https://www.codesters.com/)
+* [Pyfiddle](https://pyfiddle.io/)
 
 ### MOOCs
 
