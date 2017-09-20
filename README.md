@@ -211,7 +211,7 @@ The license for this resource is [CC0](LICENSE).
 
 ### Forums
 
-* StackOverflow: [dashboard](http://stackoverflow.com/documentation/python) - [all topics](http://stackoverflow.com/documentation/python/topics) - [tag python](http://stackoverflow.com/questions/tagged/python) - (community website)[https://sopython.com/]
+* StackOverflow: [dashboard](http://stackoverflow.com/documentation/python) - [all topics](http://stackoverflow.com/documentation/python/topics) - [tag python](http://stackoverflow.com/questions/tagged/python) - [community website](https://sopython.com/)
 * reddit: [Python](https://www.reddit.com/r/Python/) - [Python Learning](https://www.reddit.com/r/learnpython/) - [Python tips](https://www.reddit.com/r/pythontips/) - [Pygame](https://www.reddit.com/r/pygame/)
 
 ## Tools and Libraries
