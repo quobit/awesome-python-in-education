@@ -113,6 +113,7 @@ The license for this resource is [CC0](LICENSE).
 * [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
 * [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
+* [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
 
 ## Exercises and Games
 
