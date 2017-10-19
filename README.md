@@ -247,6 +247,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Bokeh](http://bokeh.pydata.org/)
 * [VisPy](http://vispy.org/)
+* [Python Graph Gallery](https://python-graph-gallery.com/)
 
 ### Jupyter
 
