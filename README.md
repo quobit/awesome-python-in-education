@@ -226,6 +226,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python AST Explorer](https://python-ast-explorer.com/)
 * [kite](https://kite.com/) - programming copilot
 * [EarSketch](https://earsketch.gatech.edu/) - learn to code by making music
+* [FoxDot](http://foxdot.org/) - Live Coding Music with Python & SuperCollider
 * [Ren'Py](https://www.renpy.org/) - a visual novel engine
 
 ### Games, graphics and simulation
