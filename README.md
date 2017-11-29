@@ -134,6 +134,7 @@ The license for this resource is [CC0](LICENSE).
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [Boston Python Puzzles](http://puzzles.bostonpython.com/)
 * [Norvig's pytudes](https://github.com/norvig/pytudes) - Python programs for perfecting programming skills
+* [Python Challenges](http://www.101computing.net/category/python-challenges/)
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
 * [TeachCraft: Minecraft + Python](https://teachcraft.net/) - [Run your own TeachCraft Server](https://github.com/TeachCraft/TeachCraft-Server)
