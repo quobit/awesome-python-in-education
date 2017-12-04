@@ -353,6 +353,7 @@ The license for this resource is [CC0](LICENSE).
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Algorithmic Problem Solving with Python](http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf)
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
+* [Intermediate Python](http://book.pythontips.com/)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
