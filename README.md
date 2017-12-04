@@ -249,6 +249,7 @@ The license for this resource is [CC0](LICENSE).
 * [Panda3D](http://www.panda3d.org/) - game engine and framework for 3D rendering
 * [gui zero](https://lawsie.github.io/guizero/) - to allow children to quickly and easily create GUIs for their programs
 * [Free Python Games](http://www.grantjenks.com/docs/freegames/) - collection of free Python games intended for education and fun
+* [Angry Birds in Python](https://github.com/estevaofon/angry-birds-python) - using pygame and pymunk
 
 ### Visualization
 
