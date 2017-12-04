@@ -99,6 +99,7 @@ The license for this resource is [CC0](LICENSE).
 * [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
 * [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
+* [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python
 
 #### Data Science
