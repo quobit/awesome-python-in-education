@@ -365,6 +365,8 @@ The license for this resource is [CC0](LICENSE).
 * [Learn Python3 in Y minutes](https://learnxinyminutes.com/docs/python3/)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [The Art and Craft of Programming (Python edition)](http://troll.cs.ua.edu/ACP-PY/)
+* [CS61A: Structure and Interpretation of Computer Programs](http://inst.eecs.berkeley.edu/~cs61a/sp12/book/index.html)
+* [Learn Python the hard way](https://learnpythonthehardway.org/python3/)
 * [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python for you and me](http://pymbook.readthedocs.io/en/py3/)
 * [Object-Oriented Programming in Python](http://python-textbok.readthedocs.io)
