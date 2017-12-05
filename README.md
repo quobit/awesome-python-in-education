@@ -290,6 +290,7 @@ The license for this resource is [CC0](LICENSE).
 * [List of Jupyter Notebooks by Peter Norvig](http://norvig.com/ipython/)
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Unofficial Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
+* [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
 
 ### IDEs
 
