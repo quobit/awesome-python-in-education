@@ -242,6 +242,7 @@ The license for this resource is [CC0](LICENSE).
 * [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - a pure python cross-platform application framework intended for game development
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
+* [A Simple Tutorial for Python's turtle.py Module](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
 * [VPython](http://vpython.org/) - 3D programming
 * [Pymunk](http://www.pymunk.org/) - 2D physics library
 * [PyPhysicsSandbox](https://github.com/jshaffstall/PyPhysicsSandbox) - a simple wrapper around Pymunk
