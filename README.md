@@ -206,6 +206,8 @@ The license for this resource is [CC0](LICENSE).
 * [Practical Business Python](http://pbpython.com/)
 * [Python Lessons](http://teachwithict.weebly.com/python.html) - 6 lessons from teachwithict
 * [Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+* [AIAMA Python implementation](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
+* [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets
 
 ### Mailing lists
 
