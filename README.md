@@ -278,6 +278,7 @@ The license for this resource is [CC0](LICENSE).
 * [RISE](https://github.com/damianavila/RISE) - "Live" Reveal.js Jupyter/IPython Slideshow Extension.
 * [notedown](https://github.com/aaren/notedown/) - Convert IPython Notebooks to markdown (and back).
 * [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
+* [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - A Sphinx Extension for Generating Jupyter Notebooks
 * [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
@@ -294,6 +295,7 @@ The license for this resource is [CC0](LICENSE).
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Unofficial Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 * [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
+* [awesome-jupyter](https://github.com/adebar/awesome-jupyter)
 
 ### IDEs
 
