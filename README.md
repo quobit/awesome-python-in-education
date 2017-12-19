@@ -326,6 +326,7 @@ The license for this resource is [CC0](LICENSE).
 
 ## Conferences and videos
 
+* [Taking Your Python Skills to the Next Level With Pythonic Code](http://www.datadependence.com/2016/07/pythonic-code-video-series-intro/) - 5 powerful Pythonic concepts and over 45 minutes of video examples.
 * [Weekly Python Chat](http://www.weeklypython.chat/) - Weekly live video chats about Python, teaching, open source, and more
 * [Python in Australian Education seminar](https://2016.pycon-au.org/programme/python_in_education_seminar) (2016)
 * [PyCon Australia 2015 Education Miniconf](https://www.youtube.com/playlist?list=PLs4CJRBY5F1I5vuApyUXp6bLWly1E-b0s) (youtube playlist)
