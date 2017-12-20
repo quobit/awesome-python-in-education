@@ -296,6 +296,7 @@ The license for this resource is [CC0](LICENSE).
 * [Unofficial Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 * [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
 * [awesome-jupyter](https://github.com/adebar/awesome-jupyter)
+* [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 
 ### IDEs
 
