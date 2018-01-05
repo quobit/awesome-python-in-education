@@ -101,6 +101,7 @@ The license for this resource is [CC0](LICENSE).
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
 * [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python
+* [A SQLite Tutorial with Python](http://stackabuse.com/a-sqlite-tutorial-with-python/)
 
 #### Data Science
 
