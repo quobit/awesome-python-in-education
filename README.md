@@ -268,6 +268,7 @@ The license for this resource is [CC0](LICENSE).
 * [Project Jupyter](http://jupyter.org/)
 * [Jupyter Notebook cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [IPython widgets](https://github.com/ipython/ipywidgets)
+* [lolviz](https://github.com/parrt/lolviz) - data-structure visualization tool for lists of lists, lists, dictionaries
 * [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook.
 * [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 * [nbdime](https://nbdime.readthedocs.io/) - diffing and merging of Jupyter Notebooks.
