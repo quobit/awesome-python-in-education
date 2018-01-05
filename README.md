@@ -240,7 +240,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [PyGame](http://www.pygame.org/)
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
-* [Python Arcade Library](http://pythonhosted.org/arcade/)
+* [Python Arcade Library](http://arcade.academy/)
 * [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - a pure python cross-platform application framework intended for game development
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
