@@ -229,6 +229,7 @@ The license for this resource is [CC0](LICENSE).
 
 * [Your Python Trinket](https://trinket.io/python) - Put Interactive Python Anywhere on the Web
 * [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
+* [Livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time (alpha stage)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python 2.X (!)
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
 * [Python Anywhere](https://www.pythonanywhere.com/details/education)
