@@ -330,6 +330,7 @@ The license for this resource is [CC0](LICENSE).
 * [PyTA](https://github.com/pyta-uoft/pyta) - static code analysis to help students find and fix common coding errors
 * [coala](http://coala.io/) - linting and fixing code
 * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
+* [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) - a code analyis & automation platform
 
 ## Conferences and videos
 
