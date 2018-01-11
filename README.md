@@ -194,8 +194,8 @@ The license for this resource is [CC0](LICENSE).
 * [python-patterns](https://github.com/faif/python-patterns) - a collection of design patterns/idioms in Python 
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
-* [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)  
-* [Python Knowledge Base](https://www.quantifiedcode.com/knowledge-base/)
+* [How to make mistakes in Python](http://www.oreilly.com/programming/free/files/how-to-make-mistakes-in-python.pdf)
+* [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) - small book of Python anti-patterns and worst practices
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
 * [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting and tricky Python examples
