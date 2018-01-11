@@ -316,7 +316,7 @@ The license for this resource is [CC0](LICENSE).
 * [Wingware Python IDE](https://wingware.com/)
 * [Ninja-IDE](http://ninja-ide.org/)
 * [PyDev](http://www.pydev.org/)
-* [Visual Studio Code](https://code.visualstudio.com/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python)
+* [Visual Studio Code](https://www.visualstudio.com/vs/python/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Mu](https://codewith.mu/)
 * [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science
 
