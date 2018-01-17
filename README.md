@@ -6,7 +6,7 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 
 Vote :+1: for this list [to be included in awesome-python](https://github.com/vinta/awesome-python/pull/959) and the [master awesome list](https://github.com/sindresorhus/awesome/pull/1097). Thank you!
 
-The license for this resource is [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/).
+The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/88x15.png)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contents
 
