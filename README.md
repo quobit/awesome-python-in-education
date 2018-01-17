@@ -292,8 +292,9 @@ The license for this resource is [CC0](LICENSE).
 * [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
 * [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
 * [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks
+* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/)
+* [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Implements LTI v1 authenticator for use with JupyterHub.
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 * ["The world of Jupyter" —a tutorial](https://github.com/barbagroup/jupyter-tutorial)
 * [List of Jupyter Notebooks by Peter Norvig](http://norvig.com/ipython/)
