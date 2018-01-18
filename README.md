@@ -291,6 +291,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Using the IPython Notebook as a Teaching Tool](https://software-carpentry.org/blog/2013/03/using-notebook-as-a-teaching-tool.html)
 * [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
 * [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
+* [JupyterLab Documentation](http://jupyterlab-tutorial.readthedocs.io/)
 * [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/)
