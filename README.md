@@ -178,6 +178,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html) - [(best python resources)](https://www.fullstackpython.com/best-python-resources.html)
 * [Learn X in Y minutes where X=python3](https://learnxinyminutes.com/docs/python3/)
 * [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
+* [CheckiO Python blog](https://py.checkio.org/blog/) - curated Python articles
 * [EduPython](http://edupython.co.uk/)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
