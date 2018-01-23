@@ -416,7 +416,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 * [Invent your own computer games with Python](https://inventwithpython.com/)
 * [Making Games with Python & Pygame](https://inventwithpython.com/pygame/)
-* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/)
+* [Hacking Secret Ciphers with Python](http://inventwithpython.com/hacking/) -> 2nd ed: [Cracking Codes with Python](http://inventwithpython.com/cracking/)
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### Manning Publications
