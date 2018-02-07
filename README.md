@@ -192,6 +192,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [pycrumbs](https://github.com/kirang89/pycrumbs)
 * [Python Reference](https://github.com/rasbt/python_reference) - useful functions, tutorials, and other Python-related things 
 * [Pythonidae](https://github.com/svaksha/pythonidae) - curated decibans of scientific programming resources in Python
+* [Python Patterns](http://python-patterns.guide/) - by Brandon Rhodes ([repo](https://github.com/brandon-rhodes/python-patterns))
 * [python-patterns](https://github.com/faif/python-patterns) - a collection of design patterns/idioms in Python 
 * [PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)
 * [Python 3 Patterns, Recipes and Idioms](http://python-3-patterns-idioms-test.readthedocs.io/)
