@@ -53,7 +53,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [pythonroom](https://pythonroom.com/)
 * [repl.it classrooms](https://repl.it/site/classrooms)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
-* [CodeSkulptor](http://www.codeskulptor.org/)
+* [CodeSkulptor](http://py3.codeskulptor.org/)
 * [BlockPy](http://think.cs.vt.edu/blockpy/) - web-based Python environment that lets you work with blocks, text, or both.
 * [Edublocks](http://edublocks.org/) - Making the transition from Scratch to Python easier
 * [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
