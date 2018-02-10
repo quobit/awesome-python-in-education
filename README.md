@@ -335,6 +335,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [coala](http://coala.io/) - linting and fixing code
 * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 * [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) - a code analyis & automation platform
+* [birdseye](https://github.com/alexmojaki/birdseye) - graphical Python debugger using the AST
 
 ## Conferences and videos
 
