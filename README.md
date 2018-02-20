@@ -256,6 +256,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Pymunk](http://www.pymunk.org/) - 2D physics library
 * [PyPhysicsSandbox](https://github.com/jshaffstall/PyPhysicsSandbox) - a simple wrapper around Pymunk
 * [Kivy](https://kivy.org/) - innovative user interfaces, such as multi-touch apps
+* [PyQT 15 minute apps](https://github.com/mfitzp/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 * [Panda3D](http://www.panda3d.org/) - game engine and framework for 3D rendering
 * [gui zero](https://lawsie.github.io/guizero/) - to allow children to quickly and easily create GUIs for their programs
 * [Free Python Games](http://www.grantjenks.com/docs/freegames/) - collection of free Python games intended for education and fun
