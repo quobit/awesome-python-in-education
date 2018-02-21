@@ -64,6 +64,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
 * [Codesters](https://www.codesters.com/)
 * [Pyfiddle](https://pyfiddle.io/)
+* [Code the blocks](https://codetheblocks.com/) - interactive playground for learning how to code
 
 ### MOOCs
 
