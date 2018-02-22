@@ -249,7 +249,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [PyGame](http://www.pygame.org/)
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
 * [Python Arcade Library](http://arcade.academy/)
-* [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - a pure python cross-platform application framework intended for game development
+* [Pyglet](http://www.pyglet.org/) - a pure python cross-platform application framework intended for game development
 * [Python Mode for Processing](http://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
 * [A Simple Tutorial for Python's turtle.py Module](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
