@@ -284,6 +284,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
 * [nbtranslate](https://github.com/devrt/nbtranslate) - translate content of Jupyter notebook using gettext tools.
 * [nbTranslate](https://github.com/jfbercher/jupyter_nbTranslate) - translate cells of a notebook from one language to another - Adds multi language support.
+* [nbinteract](https://www.nbinteract.com/) - creates interactive webpages from Jupyter notebooks.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
 * [RISE](https://github.com/damianavila/RISE) - "Live" Reveal.js Jupyter/IPython Slideshow Extension.
 * [notedown](https://github.com/aaren/notedown/) - Convert IPython Notebooks to markdown (and back).
