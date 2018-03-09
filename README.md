@@ -340,6 +340,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [wdb](https://github.com/Kozea/wdb) - An improbable web debugger through WebSockets
 * [QuantifiedCode](https://github.com/quantifiedcode/quantifiedcode) - a code analyis & automation platform
 * [birdseye](https://github.com/alexmojaki/birdseye) - graphical Python debugger using the AST
+* [Hunter](https://github.com/ionelmc/python-hunter) - a flexible code tracing toolkit
 
 ## Conferences and videos
 
