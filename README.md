@@ -308,7 +308,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Unofficial Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 * [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
-* [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter)
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 * [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 
 ### IDEs
