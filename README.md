@@ -131,7 +131,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Project Euler](https://projecteuler.net/)
 * [Exercism](http://exercism.io/languages/python/)
 * [HackerRank Challenges](https://www.hackerrank.com/domains/python/py-introduction)
-* [PyBites](http://pybit.es/)
+* [PyBites](http://pybit.es/) - [PyBites Code Challenges Platform](https://codechalleng.es/)
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
 * [Python for Fun](http://openbookproject.net/py4fun/)
