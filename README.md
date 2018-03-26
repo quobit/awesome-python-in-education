@@ -186,6 +186,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
+* [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet/)
 * [Algorithms implemented in python (for education)](https://github.com/TheAlgorithms/Python)
 * [Algorithms](https://github.com/nryoung/algorithms)
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
