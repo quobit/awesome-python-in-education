@@ -263,6 +263,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [gui zero](https://lawsie.github.io/guizero/) - to allow children to quickly and easily create GUIs for their programs
 * [Free Python Games](http://www.grantjenks.com/docs/freegames/) - collection of free Python games intended for education and fun
 * [Angry Birds in Python](https://github.com/estevaofon/angry-birds-python) - using pygame and pymunk
+* [Jappy](https://github.com/somosazucar/Jappy) - the app powering the http://educa.juegos/ collaborative coding platform
 
 ### Visualization
 
