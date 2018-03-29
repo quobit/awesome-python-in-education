@@ -312,6 +312,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
 * [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
 * [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
+* [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
 
 ### IDEs
 
