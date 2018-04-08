@@ -301,6 +301,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
 * [JupyterLab Documentation](http://jupyterlab-tutorial.readthedocs.io/)
 * [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
+* [Google Colab](https://colab.research.google.com/) - Jupyter notebook environment that requires no setup to use.
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
 * [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/)
 * [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Implements LTI v1 authenticator for use with JupyterHub.
