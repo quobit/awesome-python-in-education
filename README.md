@@ -264,6 +264,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Free Python Games](http://www.grantjenks.com/docs/freegames/) - collection of free Python games intended for education and fun
 * [Angry Birds in Python](https://github.com/estevaofon/angry-birds-python) - using pygame and pymunk
 * [Jappy](https://github.com/somosazucar/Jappy) - the app powering the http://educa.juegos/ collaborative coding platform
+* [Predigame](http://predigame.io/) - instructional platform that teaches the basics of coding through the creation of arcade games
 
 ### Visualization
 
