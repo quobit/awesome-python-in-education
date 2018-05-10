@@ -333,6 +333,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Visual Studio Code](https://www.visualstudio.com/vs/python/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Mu](https://codewith.mu/)
 * [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science
+* [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python
 
 ### Debuggers
 
