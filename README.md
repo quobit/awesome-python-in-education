@@ -122,6 +122,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
 * [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
 * [SIOC 209: Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) and its [associated videos](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/playlists)
+* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) - An introduction to data science using Python and Pandas with Jupyter notebooks
 
 ## Exercises and Games
 
