@@ -268,6 +268,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Jappy](https://github.com/somosazucar/Jappy) - the app powering the http://educa.juegos/ collaborative coding platform
 * [Predigame](http://predigame.io/) - instructional platform that teaches the basics of coding through the creation of arcade games
 * [ThorPy](http://www.thorpy.org/) - A GUI library for pygame
+* [sc8pr](https://github.com/dmaccarthy/sc8pr) - A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs
 
 ### Visualization
 
