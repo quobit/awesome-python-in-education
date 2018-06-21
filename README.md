@@ -185,6 +185,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [EduPython](http://edupython.co.uk/)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
+* [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)(PDF)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet/)
