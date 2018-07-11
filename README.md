@@ -151,6 +151,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Pyweek Programming Challenge](https://pyweek.org/)
 * [CodingGame](https://www.codingame.com)
 * [CodeFights](https://codefights.com/)
+* [Edabit Python Challenges](https://edabit.com/challenges/python3)
 
 ## Reference and forums
 
