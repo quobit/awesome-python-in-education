@@ -327,7 +327,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 * [bpython](https://bpython-interpreter.org/)
 * [ptpython](https://github.com/jonathanslenders/ptpython)
-* [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
+* [Thonny, Python IDE for beginners](https://thonny.org)
 * [VIM](http://www.vim.org/) with [Python plugins](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 * [Emacs](https://www.gnu.org/software/emacs/) with [Python plugins](https://realpython.com/blog/python/emacs-the-best-python-editor/)
 * [Sublime Text 3](http://www.sublimetext.com/3) with [Python plugins](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
