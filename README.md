@@ -341,6 +341,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science.
 * [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python.
 * [PyScripter](https://github.com/pyscripter/pyscripter) - a feature-rich but lightweight Python IDE.
+* [Pyzo](http://www.pyzo.org/) - computing environment that plays well with conda.
 
 ### Debuggers
 
