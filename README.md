@@ -274,9 +274,9 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 ### Visualization
 
-* [Bokeh](http://bokeh.pydata.org/)
-* [VisPy](http://vispy.org/)
-* [Python Graph Gallery](https://python-graph-gallery.com/)
+* [Bokeh](http://bokeh.pydata.org/) - an interactive visualization library that targets modern web browsers for presentation.
+* [VisPy](http://vispy.org/) - library for interactive scientific visualization that is designed to be fast, scalable, and easy to use.
+* [Python Graph Gallery](https://python-graph-gallery.com/) - showcase hundreds of charts, always providing the reproducible python code.
 
 ### Jupyter
 
