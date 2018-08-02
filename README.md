@@ -327,20 +327,20 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 * [bpython](https://bpython-interpreter.org/)
 * [ptpython](https://github.com/jonathanslenders/ptpython)
-* [Thonny, Python IDE for beginners](https://thonny.org)
+* [Thonny](https://thonny.org) - Python IDE for beginners
 * [VIM](http://www.vim.org/) with [Python plugins](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 * [Emacs](https://www.gnu.org/software/emacs/) with [Python plugins](https://realpython.com/blog/python/emacs-the-best-python-editor/)
 * [Sublime Text 3](http://www.sublimetext.com/3) with [Python plugins](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
-* [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
+* [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment.
 * [Wingware Python IDE](https://wingware.com/)
 * [Ninja-IDE](http://ninja-ide.org/)
-* [PyDev](http://www.pydev.org/)
+* [PyDev](http://www.pydev.org/) - a Python IDE for Eclipse, which may be used in Python, Jython and IronPython development.
 * [Visual Studio Code](https://www.visualstudio.com/vs/python/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* [Mu](https://codewith.mu/)
-* [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science
-* [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python
-* [PyScripter](https://github.com/pyscripter/pyscripter) - a feature-rich but lightweight Python IDE
+* [Mu](https://codewith.mu/) - a simple Python editor for beginner programmers.
+* [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science.
+* [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python.
+* [PyScripter](https://github.com/pyscripter/pyscripter) - a feature-rich but lightweight Python IDE.
 
 ### Debuggers
 
