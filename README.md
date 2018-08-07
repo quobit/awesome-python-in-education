@@ -510,3 +510,4 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 ### Adafruit
 
 * [CircuitPython](https://github.com/adafruit/circuitpython) - a MicroPython fork for teaching coding with microcontrollers
+* [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
