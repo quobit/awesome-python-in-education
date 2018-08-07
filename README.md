@@ -42,6 +42,8 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
   * [Arduino](#arduino)
   * [BBC micro:bit](#bbc-microbit)
   * [Pyboard](#pyboard)
+  * [ESP32](#esp32)
+  * [Adafruit CircuitPython](#adafruit-circuitpython)
 
 ## Courses and lessons
 
@@ -507,7 +509,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 * [MicroPython](https://github.com/micropython/micropython-esp32)
 
-### Adafruit
+### Adafruit CircuitPython
 
 * [CircuitPython](https://github.com/adafruit/circuitpython) - a MicroPython fork for teaching coding with microcontrollers
 * [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
