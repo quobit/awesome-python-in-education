@@ -102,6 +102,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial)
 * [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 4 courses from the archived O'Reilly School of Technology
 * [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/) - a tutorial from the Software Carpentry
+* [Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 * [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
 * [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
