@@ -104,6 +104,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
 * [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
+* [A Brief, Animated Introduction to Programming with Python](https://ourcodestories.com/markm208/Playlist/16)
 * [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python
 * [A SQLite Tutorial with Python](http://stackabuse.com/a-sqlite-tutorial-with-python/)
