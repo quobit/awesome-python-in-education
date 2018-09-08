@@ -178,7 +178,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
-* [First Steps With Python](https://realpython.com/learn/python-first-steps/)
+* [Real Python Tutorials](https://realpython.com/) - [First Steps](https://realpython.com/learn/python-first-steps/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [PyMOTW3](https://pymotw.com/3/) - Python Module Of The Week
