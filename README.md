@@ -216,7 +216,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting and tricky Python examples
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5) - [rendered version](http://nbviewer.jupyter.org/github/4dsolutions/Python5/tree/master/)
-* [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
+* [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/) from [Python for Biologists](https://pythonforbiologists.com/)
 * [Learn Python - Udacity](https://www.udacity.com/learn/python)
 * [Popular Python Recipes](http://code.activestate.com/recipes/langs/python/)
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
