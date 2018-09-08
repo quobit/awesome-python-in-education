@@ -109,6 +109,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python
 * [A SQLite Tutorial with Python](http://stackabuse.com/a-sqlite-tutorial-with-python/)
+* [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
 
 #### Data Science
 
