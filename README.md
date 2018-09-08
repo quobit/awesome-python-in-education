@@ -105,6 +105,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 * [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
 * [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide
+* [Python Fundamentals I & II](https://www.rithmschool.com/courses#python) - two 20h free courses from Rithm School
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
 * [A Brief, Animated Introduction to Programming with Python](https://ourcodestories.com/markm208/Playlist/16)
 * [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
