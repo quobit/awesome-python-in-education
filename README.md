@@ -187,7 +187,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [PEP8 - Python Style Guide](http://pep8.org/)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [PyMOTW3](https://pymotw.com/3/) - Python Module Of The Week
-* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html) - [(best python resources)](https://www.fullstackpython.com/best-python-resources.html)
+* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html) - [(best python resources)](https://www.fullstackpython.com/best-python-resources.html) - [(learning programming)](https://www.fullstackpython.com/learning-programming.html)
 * [Learn X in Y minutes where X=python3](https://learnxinyminutes.com/docs/python3/)
 * [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 * [CheckiO Python blog](https://py.checkio.org/blog/) - curated Python articles
