@@ -403,7 +403,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Algorithmic Problem Solving with Python](http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf)
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
-* [Intermediate Python](http://book.pythontips.com/)
+* [Intermediate Python](http://book.pythontips.com/) - [github repo](https://github.com/yasoob/intermediatePython)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
