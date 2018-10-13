@@ -500,6 +500,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
   * [MagPi issues](https://www.raspberrypi.org/magpi-issues/)
 
 * [The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-platform)
+* [gpiozero](https://github.com/RPi-Distro/python-gpiozero) - A simple interface to GPIO devices with Raspberry Pi.
 
 ### Arduino
 
