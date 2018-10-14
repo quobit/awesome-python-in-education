@@ -413,7 +413,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - [accompanying videos](https://teklern.blogspot.com.es/p/blog-page.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.py4e.com/book)
-* [Composing Programs](http://composingprograms.com/)
+* [Composing Programs](http://composingprograms.com/) based on SICP textbook.
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
 * [Learn Python, Break Python - A Beginner's Guide to Programming](http://learnpythonbreakpython.com/)
