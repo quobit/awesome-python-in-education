@@ -283,6 +283,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [sc8pr](https://github.com/dmaccarthy/sc8pr) - A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs
 * [pyxel](https://github.com/kitao/pyxel) - A retro game development environment in Python.
 * [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI) - Super-simple GUI to use... Powerfully customizable.
+* [evennia](http://www.evennia.com/) - library and toolkit for building multi-player online text games
 
 ### Visualization
 
