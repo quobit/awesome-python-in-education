@@ -460,7 +460,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### Manning Publications
-
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 * [Hello! Python](https://www.manning.com/books/hello-python)
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
 * [Hello Raspberry Pi!](https://www.manning.com/books/hello-raspberry-pi) - Python programming for kids and other beginners.
