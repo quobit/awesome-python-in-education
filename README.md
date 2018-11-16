@@ -353,7 +353,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Wingware Python IDE](https://wingware.com/)
 * [Ninja-IDE](http://ninja-ide.org/)
 * [PyDev](http://www.pydev.org/) - a Python IDE for Eclipse, which may be used in Python, Jython and IronPython development.
-* [Visual Studio Code](https://www.visualstudio.com/vs/python/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
+* [Visual Studio Code](https://code.visualstudio.com/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 * [Mu](https://codewith.mu/) - a simple Python editor for beginner programmers.
 * [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science.
 * [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python.
