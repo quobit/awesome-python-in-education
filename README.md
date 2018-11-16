@@ -6,6 +6,8 @@ There are many ways to contribute to this project. Get started [here](CONTRIBUTI
 
 Vote :+1: for this list [to be included in awesome-python](https://github.com/vinta/awesome-python/pull/959) and the [master awesome list](https://github.com/sindresorhus/awesome/pull/1097). Thank you!
 
+Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/awesome-python-in-education.svg)](https://stars.medv.io/quobit/awesome-python-in-education)
+
 The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/88x15.png)](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contents
@@ -42,6 +44,8 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
   * [Arduino](#arduino)
   * [BBC micro:bit](#bbc-microbit)
   * [Pyboard](#pyboard)
+  * [ESP32](#esp32)
+  * [Adafruit CircuitPython](#adafruit-circuitpython)
 
 ## Courses and lessons
 
@@ -57,6 +61,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [BlockPy](http://think.cs.vt.edu/blockpy/) - web-based Python environment that lets you work with blocks, text, or both.
 * [Edublocks](http://edublocks.org/) - Making the transition from Scratch to Python easier
 * [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
+* [Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3/)
 * [Learn Python](http://www.learnpython.org/)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
 * [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
@@ -99,12 +104,17 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial)
 * [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 4 courses from the archived O'Reilly School of Technology
 * [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/) - a tutorial from the Software Carpentry
+* [Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 * [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
 * [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide
+* [Python Fundamentals I & II](https://www.rithmschool.com/courses#python) - two 20h free courses from Rithm School
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
+* [A Brief, Animated Introduction to Programming with Python](https://ourcodestories.com/markm208/Playlist/16)
 * [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python
 * [A SQLite Tutorial with Python](http://stackabuse.com/a-sqlite-tutorial-with-python/)
+* [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
+* [Learn how to use Python for your Lab](https://www.pythonforthelab.com/)
 
 #### Data Science
 
@@ -122,6 +132,8 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
 * [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
 * [SIOC 209: Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) and its [associated videos](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/playlists)
+* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) - An introduction to data science using Python and Pandas with Jupyter notebooks
+* [Reproducible analysis in Python](https://github.com/trallard/ReproduciblePython)
 
 ## Exercises and Games
 
@@ -150,6 +162,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Pyweek Programming Challenge](https://pyweek.org/)
 * [CodingGame](https://www.codingame.com)
 * [CodeFights](https://codefights.com/)
+* [Edabit Python Challenges](https://edabit.com/challenges/python3)
 
 ## Reference and forums
 
@@ -173,17 +186,18 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Google's Python Class](https://developers.google.com/edu/python/)
 * [The Hitchhiker’s Guide to Python](http://python-guide.org/)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
-* [First Steps With Python](https://realpython.com/learn/python-first-steps/)
+* [Real Python Tutorials](https://realpython.com/) - [First Steps](https://realpython.com/learn/python-first-steps/)
 * [PEP8 - Python Style Guide](http://pep8.org/)
 * [The Elements of Python Style](https://github.com/amontalenti/elements-of-python-style)
 * [PyMOTW3](https://pymotw.com/3/) - Python Module Of The Week
-* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html) - [(best python resources)](https://www.fullstackpython.com/best-python-resources.html)
+* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html) - [(best python resources)](https://www.fullstackpython.com/best-python-resources.html) - [(learning programming)](https://www.fullstackpython.com/learning-programming.html)
 * [Learn X in Y minutes where X=python3](https://learnxinyminutes.com/docs/python3/)
 * [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 * [CheckiO Python blog](https://py.checkio.org/blog/) - curated Python articles
 * [EduPython](http://edupython.co.uk/)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
+* [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)(PDF)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet/)
@@ -206,7 +220,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting and tricky Python examples
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5) - [rendered version](http://nbviewer.jupyter.org/github/4dsolutions/Python5/tree/master/)
-* [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/)
+* [29 common beginner Python errors on one page](http://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/) from [Python for Biologists](https://pythonforbiologists.com/)
 * [Learn Python - Udacity](https://www.udacity.com/learn/python)
 * [Popular Python Recipes](http://code.activestate.com/recipes/langs/python/)
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
@@ -216,6 +230,8 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [AIAMA Python implementation](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 * [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets
+* [PyFormat](https://pyformat.info/) - Using % and .format() for great good!
+* [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 
 ### Mailing lists
 
@@ -233,7 +249,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 ## Tools and Libraries
 
 * [Your Python Trinket](https://trinket.io/python) - Put Interactive Python Anywhere on the Web
-* [Python Tutor](http://pythontutor.com/) - Visualize the execution of Python programs
+* [Python Tutor](http://pythontutor.com/visualize.html#mode=edit) - Visualize the execution of Python programs
 * [Livepython](https://github.com/agermanidis/livepython) - Visually trace Python code in real-time (alpha stage)
 * [Skulpt](http://www.skulpt.org/) - Skulpt is an entirely in-browser implementation of Python 2.X (!)
 * [SoloLearn Python 3 Tutorial](https://www.sololearn.com/Course/Python/) - mobile version 
@@ -264,12 +280,19 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Free Python Games](http://www.grantjenks.com/docs/freegames/) - collection of free Python games intended for education and fun
 * [Angry Birds in Python](https://github.com/estevaofon/angry-birds-python) - using pygame and pymunk
 * [Jappy](https://github.com/somosazucar/Jappy) - the app powering the http://educa.juegos/ collaborative coding platform
+* [Predigame](http://predigame.io/) - instructional platform that teaches the basics of coding through the creation of arcade games
+* [ThorPy](http://www.thorpy.org/) - A GUI library for pygame
+* [sc8pr](https://github.com/dmaccarthy/sc8pr) - A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs
+* [pyxel](https://github.com/kitao/pyxel) - A retro game development environment in Python.
+* [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI) - Super-simple GUI to use... Powerfully customizable.
+* [evennia](http://www.evennia.com/) - library and toolkit for building multi-player online text games
+* [adventurelib](https://github.com/lordmauve/adventurelib) - easy text adventures
 
 ### Visualization
 
-* [Bokeh](http://bokeh.pydata.org/)
-* [VisPy](http://vispy.org/)
-* [Python Graph Gallery](https://python-graph-gallery.com/)
+* [Bokeh](http://bokeh.pydata.org/) - an interactive visualization library that targets modern web browsers for presentation.
+* [VisPy](http://vispy.org/) - library for interactive scientific visualization that is designed to be fast, scalable, and easy to use.
+* [Python Graph Gallery](https://python-graph-gallery.com/) - showcase hundreds of charts, always providing the reproducible python code.
 
 ### Jupyter
 
@@ -315,23 +338,27 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
 * [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
 * [Jupyter Notebook Viewer inside Open edX XBlock](https://github.com/ibleducation/jupyter-viewer-xblock)
+* [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook, using the nbgrader Jupyter extension, and write the score in the Open edX gradebook
 
 ### IDEs
 
 * [bpython](https://bpython-interpreter.org/)
 * [ptpython](https://github.com/jonathanslenders/ptpython)
-* [Thonny, Python IDE for beginners](http://thonny.cs.ut.ee/)
+* [Thonny](https://thonny.org) - Python IDE for beginners
 * [VIM](http://www.vim.org/) with [Python plugins](https://realpython.com/blog/python/vim-and-python-a-match-made-in-heaven/)
 * [Emacs](https://www.gnu.org/software/emacs/) with [Python plugins](https://realpython.com/blog/python/emacs-the-best-python-editor/)
 * [Sublime Text 3](http://www.sublimetext.com/3) with [Python plugins](https://realpython.com/blog/python/setting-up-sublime-text-3-for-full-stack-python-development/)
 * [PyCharm Edu](https://www.jetbrains.com/pycharm-edu/) - With [some courses](https://github.com/JetBrains/pycharm-courses)
-* [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment
+* [Spyder](https://github.com/spyder-ide/spyder) - The Scientific PYthon Development EnviRonment.
 * [Wingware Python IDE](https://wingware.com/)
 * [Ninja-IDE](http://ninja-ide.org/)
-* [PyDev](http://www.pydev.org/)
+* [PyDev](http://www.pydev.org/) - a Python IDE for Eclipse, which may be used in Python, Jython and IronPython development.
 * [Visual Studio Code](https://www.visualstudio.com/vs/python/) with [Python plugins](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-* [Mu](https://codewith.mu/)
-* [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science
+* [Mu](https://codewith.mu/) - a simple Python editor for beginner programmers.
+* [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science.
+* [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python.
+* [PyScripter](https://github.com/pyscripter/pyscripter) - a feature-rich but lightweight Python IDE.
+* [Pyzo](http://www.pyzo.org/) - computing environment that plays well with conda.
 
 ### Debuggers
 
@@ -365,6 +392,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Python for Everybody - Exploring Information](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 * [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) or via [Python Programming](https://pythonprogramming.net/)
 * [Dan Bader's youtube channel](https://dbader.org/youtube/)
+* [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5)
 * [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 * [Programming Foundations with Python](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW) from [Udacity](https://www.udacity.com/course/ud036)
 * [PySide Video Tutorials](http://wiki.qt.io/PySide_Video_Tutorials)
@@ -383,13 +411,13 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Build applications in Python the antitextbook](http://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Algorithmic Problem Solving with Python](http://www.eecs.wsu.edu/~schneidj/PyBook/swan.pdf)
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
-* [Intermediate Python](http://book.pythontips.com/)
+* [Intermediate Python](http://book.pythontips.com/) - [github repo](https://github.com/yasoob/intermediatePython)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - [accompanying videos](https://teklern.blogspot.com.es/p/blog-page.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.py4e.com/book)
-* [Composing Programs](http://composingprograms.com/)
+* [Composing Programs](http://composingprograms.com/) based on SICP textbook.
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
 * [Learn Python, Break Python - A Beginner's Guide to Programming](http://learnpythonbreakpython.com/)
@@ -432,7 +460,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 
 ### Manning Publications
-
+* [Classic Computer Science Problems in Python](https://www.manning.com/books/classic-computer-science-problems-in-python)
 * [Hello! Python](https://www.manning.com/books/hello-python)
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
 * [Hello Raspberry Pi!](https://www.manning.com/books/hello-raspberry-pi) - Python programming for kids and other beginners.
@@ -476,6 +504,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
   * [MagPi issues](https://www.raspberrypi.org/magpi-issues/)
 
 * [The Raspberry Pi Platform and Python Programming for the Raspberry Pi](https://www.coursera.org/learn/raspberry-pi-platform)
+* [gpiozero](https://github.com/RPi-Distro/python-gpiozero) - A simple interface to GPIO devices with Raspberry Pi.
 
 ### Arduino
 
@@ -496,6 +525,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 * [MicroPython](https://github.com/micropython/micropython-esp32)
 
-### Adafruit
+### Adafruit CircuitPython
 
 * [CircuitPython](https://github.com/adafruit/circuitpython) - a MicroPython fork for teaching coding with microcontrollers
+* [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
