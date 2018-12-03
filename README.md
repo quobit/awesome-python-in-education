@@ -297,6 +297,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 ### Jupyter
 
 * [Project Jupyter](http://jupyter.org/)
+* [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/)
 * [Jupyter Notebook cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [IPython widgets](https://github.com/ipython/ipywidgets)
 * [lolviz](https://github.com/parrt/lolviz) - data-structure visualization tool for lists of lists, lists, dictionaries
