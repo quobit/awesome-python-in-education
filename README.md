@@ -98,6 +98,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
 * [Python Tutorials for Kids 13+](https://python4kids.brendanscott.com/)
+* [KidsCanCode](http://kidscancode.org/lessons/)
 * [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
 * [Python Tutorials and Courses Directory](https://hackr.io/tutorials/learn-python)
 * [Python as a Second Language](https://swcarpentry.github.io/python-second-language/)
