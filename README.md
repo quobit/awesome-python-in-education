@@ -133,7 +133,6 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x)
 * [The Hitchhiker’s Guide to Machine Learning in Python](https://medium.freecodecamp.org/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
 * [SIOC 209: Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) and its [associated videos](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/playlists)
-* [Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) - An introduction to data science using Python and Pandas with Jupyter notebooks
 * [Reproducible analysis in Python](https://github.com/trallard/ReproduciblePython)
 
 ## Exercises and Games
@@ -208,7 +207,6 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Minimal examples of data structures and algorithms in Python](https://github.com/keon/algorithms)
 * [awesome-python](https://github.com/vinta/awesome-python)
 * [Python GitHub Projects](https://github.com/checkcheckzz/python-github-projects)
-* [pycrumbs](https://github.com/kirang89/pycrumbs)
 * [Python Reference](https://github.com/rasbt/python_reference) - useful functions, tutorials, and other Python-related things 
 * [Pythonidae](https://github.com/svaksha/pythonidae) - curated decibans of scientific programming resources in Python
 * [Python Patterns](http://python-patterns.guide/) - by Brandon Rhodes ([repo](https://github.com/brandon-rhodes/python-patterns))
@@ -231,7 +229,6 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Python Lessons](http://teachwithict.weebly.com/python.html) - 6 lessons from teachwithict
 * [Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [AIAMA Python implementation](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
-* [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting, subtle, and tricky Python snippets
 * [PyFormat](https://pyformat.info/) - Using % and .format() for great good!
 * [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 
@@ -318,7 +315,6 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [notedown](https://github.com/aaren/notedown/) - Convert IPython Notebooks to markdown (and back).
 * [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
 * [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - A Sphinx Extension for Generating Jupyter Notebooks
-* [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 * [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 * [IPythonBlocks](http://ipythonblocks.org/)
@@ -417,14 +413,12 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Intermediate Python](http://book.pythontips.com/) - [github repo](https://github.com/yasoob/intermediatePython)
 * [Python Practice Book](http://anandology.com/python-practice-book/)
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
-* [Natural Language Processing with Python](http://www.nltk.org/book/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - [accompanying videos](https://teklern.blogspot.com.es/p/blog-page.html)
 * [Python for Everybody - Exploring Data In Python 3](http://www.py4e.com/book)
 * [Composing Programs](http://composingprograms.com/) based on SICP textbook.
 * [Dive into Python 3](http://getpython3.com/diveintopython3/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/)
 * [Learn Python, Break Python - A Beginner's Guide to Programming](http://learnpythonbreakpython.com/)
-* [Learn Python3 in Y minutes](https://learnxinyminutes.com/docs/python3/)
 * [Non-Programmer's Tutorial for Python 3](https://en.wikibooks.org/wiki/Non-Programmer%27s_Tutorial_for_Python_3)
 * [The Art and Craft of Programming (Python edition)](http://troll.cs.ua.edu/ACP-PY/)
 * [CS61A: Structure and Interpretation of Computer Programs](http://inst.eecs.berkeley.edu/~cs61a/sp12/book/index.html)
