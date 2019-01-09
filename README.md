@@ -338,6 +338,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
 * [Jupyter Notebook Viewer inside Open edX XBlock](https://github.com/ibleducation/jupyter-viewer-xblock)
 * [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook, using the nbgrader Jupyter extension, and write the score in the Open edX gradebook
+* [The Littlest JupyterHub](http://tljh.jupyter.org/) - A simple JupyterHub distribution for a small (0-100) number of users on a single server.
 
 ### IDEs
 
