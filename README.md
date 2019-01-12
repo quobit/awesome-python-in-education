@@ -232,6 +232,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [AIAMA Python implementation](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 * [PyFormat](https://pyformat.info/) - Using % and .format() for great good!
 * [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
+* [ugo_py_doc](https://ugoproto.github.io/ugo_py_doc/) - a Python documentation website
 
 ### Mailing lists
 
