@@ -117,6 +117,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
 * [Learn how to use Python for your Lab](https://www.pythonforthelab.com/)
 * [Python Basics](https://github.com/learnbyexample/Python_Basics)
+* [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming)
 
 #### Data Science
 
