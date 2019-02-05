@@ -220,6 +220,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-anti-patterns/) - small book of Python anti-patterns and worst practices
 * [Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html) by Peter Norvig
 * [Anti-Patterns in Python Programming](http://lignos.org/py_antipatterns/)
+* [Python Code Disasters](https://github.com/sobolevn/python-code-disasters) - more anti-patterns.
 * [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting and tricky Python examples
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5) - [rendered version](http://nbviewer.jupyter.org/github/4dsolutions/Python5/tree/master/)
