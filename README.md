@@ -471,6 +471,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [The Quick Python Book, Third Edition](https://www.manning.com/books/the-quick-python-book-third-edition)
 * [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
+* [Code Like a Pro: Software Development in Python](https://www.manning.com/books/code-like-a-pro) - Professional software development principles and best practices for beginning developers.
 
 ### No Starch Press
 
