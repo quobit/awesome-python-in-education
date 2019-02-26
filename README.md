@@ -8,8 +8,6 @@ Vote :+1: for this list [to be included in awesome-python](https://github.com/vi
 
 Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/awesome-python-in-education.svg)](https://stars.medv.io/quobit/awesome-python-in-education)
 
-The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/88x15.png)](https://creativecommons.org/publicdomain/zero/1.0/).
-
 ## Contents
 
 * [Courses and lessons](#courses-and-lessons)
@@ -534,3 +532,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 
 * [CircuitPython](https://github.com/adafruit/circuitpython) - a MicroPython fork for teaching coding with microcontrollers
 * [Awesome CircuitPython](https://github.com/adafruit/awesome-circuitpython) - A curated list of awesome CircuitPython guides, videos, libraries, frameworks, software and resources.
+
+## License
+
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
