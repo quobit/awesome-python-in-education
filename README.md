@@ -40,7 +40,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Hardware](#hardware)
   * [Raspberry Pi](#raspberry-pi)
   * [Arduino](#arduino)
-  * [BBC micro:bit](#bbc-microbit)
+  * [BBC microbit](#bbc-microbit)
   * [Pyboard](#pyboard)
   * [ESP32](#esp32)
   * [Adafruit CircuitPython](#adafruit-circuitpython)
@@ -50,15 +50,15 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 ### Interactive environments
 
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) (more resources included in [Hour of Python](https://hourofpython.com/))
-* [Python for Everybody](https://books.trinket.io/pfe/) - trinket.io interactive book
+* [Python for Everybody](https://books.trinket.io/pfe/) - Trinket.io interactive book.
 * [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) (more resources included in [Runestone Interactive](http://runestoneinteractive.org/library.html))
 * [pythonroom](https://pythonroom.com/)
 * [repl.it classrooms](https://repl.it/site/classrooms)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [CodeSkulptor](http://py3.codeskulptor.org/)
 * [BlockPy](http://think.cs.vt.edu/blockpy/) - web-based Python environment that lets you work with blocks, text, or both.
-* [Edublocks](http://edublocks.org/) - Making the transition from Scratch to Python easier
-* [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python
+* [Edublocks](http://edublocks.org/) - Making the transition from Scratch to Python easier.
+* [Python Lectures](https://github.com/rajathkumarmp/Python-Lectures) - IPython Notebooks to learn Python.
 * [Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3/)
 * [Learn Python](http://www.learnpython.org/)
 * [Code Club Python modules](https://www.codeclubprojects.org/en-GB/python/)
@@ -67,7 +67,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/)
 * [Codesters](https://www.codesters.com/)
 * [Pyfiddle](https://pyfiddle.io/)
-* [Code the blocks](https://codetheblocks.com/) - interactive playground for learning how to code
+* [Code the blocks](https://codetheblocks.com/) - interactive playground for learning how to code.
 
 ### MOOCs
 
@@ -82,7 +82,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python Codecademy](https://www.codecademy.com/learn/python)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 * [Python School](https://pythonschool.net/)
-* [Let’s all build a comprehensive interactive Python curriculum together](https://forum.freecodecamp.com/t/lets-all-build-a-comprehensive-interactive-python-curriculum-together/103979) - Request For Proposals at FreeCodeCamp.com
+* [Python curriculum outline](https://github.com/freeCodeCamp/python-coding-challenges/issues/8) - Curriculum outline at FreeCodeCamp.com GitHub issue.
 
 ### Introductions and Tutorials
 
@@ -102,20 +102,20 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python as a Second Language](https://swcarpentry.github.io/python-second-language/)
 * [A simple tutorial about effectively using pdb](https://github.com/spiside/pdb-tutorial)
 * [Beginning Python](http://archive.oreilly.com/oreillyschool/courses/Python1/index.html) - [Getting More out of Python](http://archive.oreilly.com/oreillyschool/courses/Python2/index.html) - [The Python Environment](http://archive.oreilly.com/oreillyschool/courses/Python3/index.html) - [Advanced Python](http://archive.oreilly.com/oreillyschool/courses/Python4/index.html) - 4 courses from the archived O'Reilly School of Technology
-* [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/) - a tutorial from the Software Carpentry
+* [Testing and Continuous Integration with Python](http://katyhuff.github.io/python-testing/) - a tutorial from the Software Carpentry.
 * [Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
-* [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School
-* [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide
-* [Python Fundamentals I & II](https://www.rithmschool.com/courses#python) - two 20h free courses from Rithm School
+* [Try Python](https://www.codeschool.com/courses/try-python) - a free course from Code School.
+* [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide.
+* [Python Fundamentals I & II](https://www.rithmschool.com/courses#python) - two 20h free courses from Rithm School.
 * [A Byte of Python](https://www.gitbook.com/book/swaroopch/byte-of-python/)
 * [A Brief, Animated Introduction to Programming with Python](https://ourcodestories.com/markm208/Playlist/16)
 * [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
-* [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python
+* [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python.
 * [A SQLite Tutorial with Python](http://stackabuse.com/a-sqlite-tutorial-with-python/)
 * [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
 * [Learn how to use Python for your Lab](https://www.pythonforthelab.com/)
 * [Python Basics](https://github.com/learnbyexample/Python_Basics)
-* [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming)
+* [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming).
 
 ### Data Science
 
@@ -125,7 +125,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Learning Python for Data Science](http://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-5)
 * [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-3)
-* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format
+* [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format.
 * [Exploratory Computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
@@ -142,7 +142,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [CodeAbbey](http://www.codeabbey.com/)
 * [Empire of Code](https://empireofcode.com/)
 * [Project Euler](https://projecteuler.net/)
-* [Exercism](http://exercism.io/languages/python/)
+* [Exercism](http://exercism.io/tracks/python/)
 * [HackerRank Challenges](https://www.hackerrank.com/domains/python/py-introduction)
 * [PyBites](http://pybit.es/) - [PyBites Code Challenges Platform](https://codechalleng.es/)
 * [Practice Python](http://www.practicepython.org/)
