@@ -16,7 +16,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
   * [Interactive environments](#interactive-environments)
   * [MOOCs](#moocs)
   * [Introductions and Tutorials](#introductions-and-tutorials)
-    * [Data Science](#data-science)
+  * [Data Science](#data-science)
 * [Exercises and Games](#exercises-and-games)
 * [Reference and forums](#reference-and-forums)
   * [Python suitability for education](#python-suitability-for-education)
@@ -119,7 +119,7 @@ The license for this resource is [![CC0](https://licensebuttons.net/l/zero/1.0/8
 * [Python Basics](https://github.com/learnbyexample/Python_Basics)
 * [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming)
 
-#### Data Science
+### Data Science
 
 * [A Whirlwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) and the [Jupyter Notebooks](https://github.com/jakevdp/WhirlwindTourOfPython) behind.
 * [A Crash Course in Python for Scientists](http://nbviewer.jupyter.org/gist/rpmuller/5920182)
