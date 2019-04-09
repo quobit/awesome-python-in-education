@@ -289,6 +289,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI) - Super-simple GUI to use... Powerfully customizable.
 * [evennia](http://www.evennia.com/) - library and toolkit for building multi-player online text games
 * [adventurelib](https://github.com/lordmauve/adventurelib) - easy text adventures
+* [PythonStdioGames](https://github.com/asweigart/PythonStdioGames) - A compilation of text-based games written in Python that only use "standard i/o".
 
 ### Visualization
 
