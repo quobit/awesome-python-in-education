@@ -79,7 +79,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
 * [CS For All: Introduction to Computer Science and Python Programming](https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x-0)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
-* [Python Codecademy](https://www.codecademy.com/learn/python)
+* [Python Codecademy](https://www.codecademy.com/learn/learn-python-3)
 * [CS 61A: The Structure and Interpretation of Computer Programs](http://cs61a.org/)
 * [Python School](https://pythonschool.net/)
 * [Python curriculum outline](https://github.com/freeCodeCamp/python-coding-challenges/issues/8) - Curriculum outline at FreeCodeCamp.com GitHub issue.
