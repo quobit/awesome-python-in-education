@@ -193,6 +193,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PyMOTW3](https://pymotw.com/3/) - Python Module Of The Week
 * [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html) - [(best python resources)](https://www.fullstackpython.com/best-python-resources.html) - [(learning programming)](https://www.fullstackpython.com/learning-programming.html)
 * [Learn X in Y minutes where X=python3](https://learnxinyminutes.com/docs/python3/)
+* [Tutorial - Learn Python in 10 minutes](https://www.stavros.io/tutorials/python/) but don't forget to [Teach Yourself Programming in Ten Years](http://norvig.com/21-days.html)
 * [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 * [CheckiO Python blog](https://py.checkio.org/blog/) - curated Python articles
 * [A Sheet of Python](https://tmont.es/2018/sheet-of-python/index.html): direct access to the [PDF](https://tmont.es/images/sheet-of-python-v1.pdf)
