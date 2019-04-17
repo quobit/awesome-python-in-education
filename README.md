@@ -471,7 +471,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [The Quick Python Book, Third Edition](https://www.manning.com/books/the-quick-python-book-third-edition)
 * [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
-* [Code Like a Pro: Software Development in Python](https://www.manning.com/books/code-like-a-pro) - Professional software development principles and best practices for beginning developers.
+* [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Professional software development principles and best practices for beginning developers.
 
 ### No Starch Press
 
