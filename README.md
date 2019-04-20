@@ -116,6 +116,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Learn how to use Python for your Lab](https://www.pythonforthelab.com/)
 * [Python Basics](https://github.com/learnbyexample/Python_Basics)
 * [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming).
+* [Learn Python](https://learnpython.dev/) - Introduction and Intermediate Python, recorded for Frontend Masters by Nina Zakharenko.
 
 ### Data Science
 
