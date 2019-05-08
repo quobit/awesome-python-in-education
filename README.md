@@ -136,6 +136,8 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [SIOC 209: Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) and its [associated videos](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/playlists)
 * [Reproducible analysis in Python](https://github.com/trallard/ReproduciblePython)
 * [Python Level 1](https://www.kaggle.com/learn/python) - free course at Kaggle.
+* [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+* [Python for Data Science Cheat Sheets](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 
 ## Exercises and Games
 
