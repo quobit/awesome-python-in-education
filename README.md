@@ -160,7 +160,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Code & Conquer](http://www.codeandconquer.co/)
 * [CodeCombat](https://codecombat.com/)
 * [TeachCraft: Minecraft + Python](https://teachcraft.net/) - [Run your own TeachCraft Server](https://github.com/TeachCraft/TeachCraft-Server)
-* [Slice like a Ninja](http://briandavidhall.com/slice_like_a_ninja/)
+* [Slice like a Ninja](http://bruab.github.io/slice_like_a_ninja/)
 * [Python Datasets: The Collection of Really Great, Interesting, Situated Datasets](https://think.cs.vt.edu/corgis/python/index.html) - (visit [CORGIS](https://think.cs.vt.edu/corgis/) for raw formats)
 * [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 * [Pyweek Programming Challenge](https://pyweek.org/)
