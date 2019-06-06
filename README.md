@@ -200,8 +200,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PyCrumbs - Bits and bytes of Python from the Internet](https://github.com/kirang89/pycrumbs)
 * [CheckiO Python blog](https://py.checkio.org/blog/) - curated Python articles
 * [A Sheet of Python](https://tmont.es/2018/sheet-of-python/index.html): direct access to the [PDF](https://tmont.es/images/sheet-of-python-v1.pdf)
-* [EduPython](http://edupython.co.uk/)
-* [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
 * [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)(PDF)
 * [Python cheatsheet](https://www.pythonsheets.com/)
