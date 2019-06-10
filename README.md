@@ -61,7 +61,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Jupyter notebooks for teaching/learning Python 3](https://github.com/jerry-git/learn-python3/)
 * [Learn Python](https://www.learnpython.org/)
 * [Code Club Python modules](https://codeclubprojects.org/en-GB/python/)
-* [Computer Science Circles](https://cscircles.cemc.uwaterloo.ca/)
+* [Computer Science Circles](http://cscircles.cemc.uwaterloo.ca/)
 * [Python from scratch](https://open.cs.uwaterloo.ca/python-from-scratch/)
 * [Interactive Python 3 tutorial with 100+ exercises](https://snakify.org/en/)
 * [Codesters](https://www.codesters.com/)
@@ -74,7 +74,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [An Introduction to Interactive Programming in Python (Part 1)](https://www.coursera.org/learn/interactive-python-1)
 * [An Introduction to Interactive Programming in Python (Part 2)](https://www.coursera.org/learn/interactive-python-2)
 * [Python Programming: A Concise Introduction](https://www.coursera.org/learn/python-programming-introduction)
-* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10)
+* [Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-using-python-2)
 * [Learn to Program Using Python](https://www.edx.org/course/learn-program-using-python-utarlingtonx-cse1309x)
 * [CS For All: Introduction to Computer Science and Python Programming](https://www.edx.org/course/cs-all-introduction-computer-science-harveymuddx-cs005x-0)
 * [Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036)
@@ -93,7 +93,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
 * [Python Course](https://www.python-course.eu/)
 * [The Programming Historian](https://programminghistorian.org/lessons/)
-* [Program Arcade Games With Python And Pygame](https://www.programarcadegames.com/)
+* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python Tutorials for Kids 13+](https://python4kids.brendanscott.com/)
 * [KidsCanCode](http://kidscancode.org/lessons/)
 * [Python Asynchronous I/O Walkthrough](http://pgbovine.net/python-async-io-walkthrough.htm)
@@ -105,9 +105,8 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Playground and cheatsheet for learning Python](https://github.com/trekhleb/learn-python)
 * [Python Synopsis](https://github.com/ent1c3d/Python-Synopsis) - Python study guide.
 * [Python Fundamentals I & II](https://www.rithmschool.com/courses#python) - two 20h free courses from Rithm School.
-* [A Byte of Python](https://legacy.gitbook.com/book/swaroopch/byte-of-python/)
+* [A Byte of Python](https://legacy.gitbook.com/book/swaroopch/byte-of-python/details/)
 * [A Brief, Animated Introduction to Programming with Python](https://ourcodestories.com/markm208/Playlist/16)
-* [Build applications in Python (the anti-textbook)](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 * [Asyncio in Python](https://tutorialedge.net/python/) - collection of tutorials about Asyncio in Python.
 * [A SQLite Tutorial with Python](https://stackabuse.com/a-sqlite-tutorial-with-python/)
 * [Learning Python for Social Scientists](https://nealcaren.github.io/python-tutorials/)
@@ -122,19 +121,18 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 ### Data Science
 
-* [A Whirlwind Tour of Python](https://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) and the [Jupyter Notebooks](https://github.com/jakevdp/WhirlwindTourOfPython) behind.
 * [A Crash Course in Python for Scientists](https://nbviewer.jupyter.org/gist/rpmuller/5920182)
 * [Intro to Python for Data Science](https://www.datacamp.com/courses/intro-to-python-for-data-science)
 * [Learning Python for Data Science](https://www.datasciencecentral.com/profiles/blogs/learning-python-for-data-science)
-* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-5)
-* [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-3)
+* [Introduction to Python for Data Science](https://www.edx.org/course/introduction-to-python-for-data-science-2)
+* [Programming with Python for Data Science](https://www.edx.org/course/programming-with-python-for-data-science)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format.
 * [Exploratory Computing with Python](https://mbakker7.github.io/exploratory_computing_with_python/)
-* [Data Carpentry: Python for Ecologists](https://www.datacarpentry.org/python-ecology-lesson/)
+* [Data Carpentry: Python for Ecologists](https://datacarpentry.org/python-ecology-lesson/)
 * [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
 * [Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting)
-* [Using Python for Research](https://www.edx.org/course/using-python-research-harvardx-ph526x-0)
-* [The Hitchhiker’s Guide to Machine Learning in Python](https://www.freecodecamp.org/news/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378)
+* [Using Python for Research](https://www.edx.org/course/using-python-for-research)
+* [The Hitchhiker’s Guide to Machine Learning in Python](https://www.freecodecamp.org/news/the-hitchhikers-guide-to-machine-learning-algorithms-in-python-bfad66adb378/)
 * [SIOC 209: Python for Data Analysis](https://github.com/cuttlefishh/python-for-data-analysis) and its [associated videos](https://www.youtube.com/channel/UCVZrIrWtcvTzYlrNx7RcDyg/playlists)
 * [Reproducible analysis in Python](https://github.com/trallard/ReproduciblePython)
 * [Python Level 1](https://www.kaggle.com/learn/python) - free course at Kaggle.
@@ -175,7 +173,6 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 ### Python suitability for education
 
 * [CP4E](https://www.python.org/doc/essays/cp4e/) by Guido van Rossum
-* [Python in Education: Teach, Learn, Program](https://www.oreilly.com/programming/free/python-in-education.csp) - free e-book on why Python is well suited for education by Nicholas Tollervey
 * ['Think Python like a Computer Scientist' book Foreword](http://interactivepython.org/courselib/static/thinkcspy/FrontBackMatter/foreword.html) by David Beazley
 * [Why I push for Python](https://lorenabarba.com/blog/why-i-push-for-python/) by Lorena Barba
 * [Why Python is a Great First Language](https://blog.trinket.io/why-python/) by Elliott Hauser (Trinket CEO)
@@ -190,7 +187,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Official Python documentation](https://docs.python.org/3/)
 * [Python in Education](http://pythonineducation.org/) - [git repo](https://github.com/python/pythonineducation.org)
 * [Google's Python Class](https://developers.google.com/edu/python/)
-* [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/)
+* [The Hitchhiker’s Guide to Python](https://docs.python-guide.org/)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
 * [Real Python Tutorials](https://realpython.com/) - [First Steps](https://realpython.com/python-first-steps/)
 * [PEP8 - Python Style Guide](https://pep8.org/)
@@ -204,7 +201,6 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [A Sheet of Python](https://tmont.es/2018/sheet-of-python/index.html): direct access to the [PDF](https://tmont.es/images/sheet-of-python-v1.pdf)
 * [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [CS1 Python Programming Projects Archive](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/index.php)
-* [Python 3 Cheat Sheet](https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf)(PDF)
 * [Python cheatsheet](https://www.pythonsheets.com/)
 * [Python Crash Course - Cheat Sheets](http://ehmatthes.github.io/pcc/cheatsheets/README.html)
 * [Comprehensive Python Cheatsheet](https://github.com/gto76/python-cheatsheet/)
@@ -227,7 +223,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [What the f*ck Python?](https://github.com/satwikkansal/wtfpython) - A collection of interesting and tricky Python examples
 * [DjangoGirls Introduction to Python](https://tutorial.djangogirls.org/en/python_introduction/)
 * [Experiments in Python Pedagogy](https://github.com/4dsolutions/Python5) - [rendered version](https://nbviewer.jupyter.org/github/4dsolutions/Python5/tree/master/)
-* [29 common beginner Python errors on one page](https://pythonforbiologists.com/index.php/29-common-beginner-python-errors-on-one-page/) from [Python for Biologists](https://pythonforbiologists.com/)
+* [29 common beginner Python errors on one page](http://pythonforbiologists.com/29-common-beginner-errors-on-one-page/) from [Python for Biologists](https://pythonforbiologists.com/)
 * [Learn Python - Udacity](https://www.udacity.com/learn/python)
 * [Popular Python Recipes](http://code.activestate.com/recipes/langs/python/)
 * [Transforming Code into Beautiful, Idiomatic Python](https://gist.github.com/JeffPaine/6213790)
@@ -273,7 +269,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PyGame](https://www.pygame.org/news/)
 * [Pygame Zero](https://pygame-zero.readthedocs.io/en/stable/) for creating games without boilerplate
 * [Python Arcade Library](http://arcade.academy/)
-* [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home/) - a pure python cross-platform application framework intended for game development
+* [Pyglet](https://bitbucket.org/pyglet/pyglet/wiki/Home) - a pure python cross-platform application framework intended for game development
 * [Python Mode for Processing](https://py.processing.org/)
 * [PythonTurtle](http://pythonturtle.org/)
 * [A Simple Tutorial for Python's turtle.py Module](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
@@ -290,11 +286,11 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Predigame](http://predigame.io/) - instructional platform that teaches the basics of coding through the creation of arcade games
 * [ThorPy](http://www.thorpy.org/) - A GUI library for pygame
 * [sc8pr](https://github.com/dmaccarthy/sc8pr) - A simple framework for new and experienced Python programmers to create animations, games, and other graphics-based programs
-* [pyxel](https://github.com/kitao/pyxel) - A retro game development environment in Python.
-* [PySimpleGUI](https://github.com/MikeTheWatchGuy/PySimpleGUI) - Super-simple GUI to use... Powerfully customizable.
+* [pyxel](https://github.com/kitao/pyxel/) - A retro game development environment in Python.
+* [PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI/) - Super-simple GUI to use... Powerfully customizable.
 * [evennia](http://www.evennia.com/) - library and toolkit for building multi-player online text games
-* [adventurelib](https://github.com/lordmauve/adventurelib) - easy text adventures
-* [PythonStdioGames](https://github.com/asweigart/PythonStdioGames) - A compilation of text-based games written in Python that only use "standard i/o".
+* [adventurelib](https://github.com/lordmauve/adventurelib/) - easy text adventures
+* [PythonStdioGames](https://github.com/asweigart/PythonStdioGames/) - A compilation of text-based games written in Python that only use "standard i/o".
 
 ### Visualization
 
@@ -313,7 +309,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
 * [nbdime](https://nbdime.readthedocs.io/en/latest/) - diffing and merging of Jupyter Notebooks.
 * [nbscan](https://github.com/conery/nbscan) - search for and print contents of cells in Jupyter notebooks.
-* [nbconvert](https://nbconvert.readthedocs.io/) - convert Notebooks to other formats.
+* [nbconvert](https://nbconvert.readthedocs.io/en/latest/) - convert Notebooks to other formats.
 * [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises.
 * [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
 * [nbtranslate](https://github.com/devrt/nbtranslate) - translate content of Jupyter notebook using gettext tools.
@@ -330,7 +326,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Using the IPython Notebook as a Teaching Tool](https://software-carpentry.org/blog/2013/03/using-notebook-as-a-teaching-tool.html)
 * [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
 * [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
-* [binder](https://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
+* [binder](https://gke.mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
 * [Google Colab](https://colab.research.google.com/) - Jupyter notebook environment for machine learning education and research (requires no setup to use).
 * [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
 * [Zero to JupyterHub](https://zero-to-jupyterhub.readthedocs.io/en/latest/)
@@ -366,7 +362,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Rodeo](http://rodeo.yhat.com/) - A Native Python IDE for Data Science.
 * [Turing](https://github.com/TuringApp/Turing) - Free and cross-platform IDE for pseudocode and Python.
 * [PyScripter](https://github.com/pyscripter/pyscripter) - a feature-rich but lightweight Python IDE.
-* [Pyzo](https://www.pyzo.org/) - computing environment that plays well with conda.
+* [Pyzo](https://pyzo.org/) - computing environment that plays well with conda.
 
 ### Debuggers
 
@@ -398,10 +394,9 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python For Informatics](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj4JXIwMwN1_ss1Tk8wZShEJ)
 * [Python for Everybody - Exploring Information](https://www.youtube.com/playlist?list=PLlRFEj9H3Oj7Bp8-DfGpfAfDBiblRfl5p)
 * [sentdex youtube playlists](https://www.youtube.com/user/sentdex/playlists) or via [Python Programming](https://pythonprogramming.net/)
-* [Dan Bader's youtube channel](https://dbader.org/youtube/)
+* [Dan Bader's youtube channel](https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA/?sub_confirmation=1)
 * [Corey Schafer's youtube channel](https://www.youtube.com/user/schafer5)
 * [Python 3.4 Programming Tutorials](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
-* [Programming Foundations with Python](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnYajEbZvqtcVWQ6XGhvtOW) from [Udacity](https://www.udacity.com/course/programming-foundations-with-python--ud036)
 * [PySide Video Tutorials](https://wiki.qt.io/PySide_Video_Tutorials)
 * [Python Basics - Coding is for girls](https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK)
 * [Python For Beginners - Learn To Code Tutorials ](https://www.youtube.com/playlist?list=PLW_tdZJKynZXgLKQAR2g52ut4c2IpUmOv)
@@ -419,7 +414,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Openlibra: Python](https://openlibra.com/en/collection/search/category/python/language/english/)
 * [Intermediate Python](http://book.pythontips.com/en/latest/) - [github repo](https://github.com/yasoob/intermediatePython)
 * [Python Practice Book](https://anandology.com/python-practice-book/)
-* [Scipy Lecture Notes](https://www.scipy-lectures.org/)
+* [Scipy Lecture Notes](http://scipy-lectures.org/)
 * [Problem Solving with Algorithms and Data Structures using Python](http://interactivepython.org/courselib/static/pythonds/index.html) - [accompanying videos](https://teklern.blogspot.com/p/blog-page.html)
 * [Python for Everybody - Exploring Data In Python 3](https://www.py4e.com/book)
 * [Composing Programs](http://composingprograms.com/) based on SICP textbook.
@@ -430,12 +425,11 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [The Art and Craft of Programming (Python edition)](http://troll.cs.ua.edu/ACP-PY/)
 * [CS61A: Structure and Interpretation of Computer Programs](http://inst.eecs.berkeley.edu/~cs61a/sp12/book/index.html)
 * [Learn Python the hard way](https://learnpythonthehardway.org/python3/)
-* [Program Arcade Games With Python And Pygame](http://programarcadegames.com/)
 * [Python for you and me](https://pymbook.readthedocs.io/en/py3/)
-* [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io)
-* [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://store.elsevier.com/Violent-Python/TJ-OConnor/isbn-9781597499576/)
+* [Object-Oriented Programming in Python](https://python-textbok.readthedocs.io/en/latest/)
+* [Violent Python. A Cookbook for Hackers, Forensic Analysts, Penetration Testers and Security Engineers](https://www.elsevier.com/books/violent-python/oconnor/978-1-59749-957-6/)
 * [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
-* [Python for Scientists and Engineers](https://pythonforengineers.com/python-for-scientists-and-engineers/)
+* [Python for Scientists and Engineers](https://www.pythonforengineers.com/python-for-scientists-and-engineers/)
 * [PythonBooks](https://pythonbooks.org/) - categorized Python books
 
 ### Coding Club books
@@ -469,7 +463,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Hello World! 2nd ed. Computer Programming for Kids and Other Beginners](https://www.manning.com/books/hello-world-second-edition)
 * [Hello Raspberry Pi!](https://www.manning.com/books/hello-raspberry-pi) - Python programming for kids and other beginners.
 * [The Quick Python Book, Third Edition](https://www.manning.com/books/the-quick-python-book-third-edition)
-* [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
+* [Learn Programming with Python](https://www.manning.com/books/get-programming)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
 * [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Professional software development principles and best practices for beginning developers.
 
@@ -477,7 +471,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 * [Python for Kids](https://nostarch.com/pythonforkids)
 * [Teach Your Kids to Code](https://nostarch.com/teachkids)
-* [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://www.nostarch.com/doingmathwithpython)
+* [Doing Math with Python: Use Programming to Explore Algebra, Statistics, Calculus, and More!](https://nostarch.com/doingmathwithpython)
 * [Python Crash Course. A Hands-On, Project-Based Introduction to Programming](https://nostarch.com/pythoncrashcourse)
 * [Python Playground. Geeky Projects for the Curious Programmer](https://nostarch.com/pythonplayground)
 * [Learn to Program with Minecraft. Transform Your World with the Power of Python](https://nostarch.com/programwithminecraft)
@@ -513,7 +507,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 ### Arduino
 
-* [Arduino and Python](https://playground.arduino.cc/Interfacing/Python)
+* [Arduino and Python](https://playground.arduino.cc/Interfacing/Python/)
 * [Using Python with Arduino](http://www.toptechboy.com/using-python-with-arduino-lessons/)
 
 ### BBC microbit
