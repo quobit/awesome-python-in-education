@@ -117,7 +117,9 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python Basics](https://github.com/learnbyexample/Python_Basics)
 * [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming).
 * [Learn Python](https://learnpython.dev/) - Introduction and Intermediate Python, recorded for Frontend Masters by Nina Zakharenko.
-* [Improving your code with modern idioms](http://python3porting.com/improving.html
+* [Improving your code with modern idioms](http://python3porting.com/improving.html)
+* [TheNewBoston Python3 Tutorials](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+* [TheNewBoston Flask Series](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
 
 ### Data Science
