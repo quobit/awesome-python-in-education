@@ -16,7 +16,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
   * [Introductions and Tutorials](#introductions-and-tutorials)
   * [Data Science](#data-science)
 * [Exercises and Games](#exercises-and-games)
-* [Reference and forums](#reference-and-forums)
+* [Reference and forums](#reference-and-forums)3
   * [Python suitability for education](#python-suitability-for-education)
   * [Academic Papers](papers.md)
   * [Reference](#reference)
@@ -343,6 +343,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Jupyter Notebook Viewer inside Open edX XBlock](https://github.com/ibleducation/jupyter-edx-viewer-xblock)
 * [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook, using the nbgrader Jupyter extension, and write the score in the Open edX gradebook
 * [The Littlest JupyterHub](http://tljh.jupyter.org/en/latest/) - A simple JupyterHub distribution for a small (0-100) number of users on a single server.
+* [A Whirlwind Tour of Python](https://github.com/jakevdp/WhirlwindTourOfPython)
 
 ### IDEs
 
