@@ -347,6 +347,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Jupyter Notebook Viewer inside Open edX XBlock](https://github.com/ibleducation/jupyter-viewer-xblock)
 * [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook, using the nbgrader Jupyter extension, and write the score in the Open edX gradebook
 * [The Littlest JupyterHub](http://tljh.jupyter.org/) - A simple JupyterHub distribution for a small (0-100) number of users on a single server.
+* [Jupytext](https://github.com/mwouts/jupytext) - Conversion and pairing between Jupyter Notebooks and Markdown documents, Python scripts, etc.
 
 ### IDEs
 
