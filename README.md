@@ -237,6 +237,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PyFormat](https://pyformat.info/) - Using % and .format() for great good!
 * [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
 * [ugo_py_doc](https://ugoproto.github.io/ugo_py_doc/) - a Python documentation website
+* [The 35 Words You Need to Python](https://yawpitchroll.com/posts/the-35-words-you-need-to-python/) - The core vocabulary of Python you actually need to know to start to do meaningful work.
 
 ### Mailing lists
 
