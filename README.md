@@ -10,6 +10,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 ## Contents
 
+* [Roadmaps](#roadmaps)
 * [Courses and lessons](#courses-and-lessons)
   * [Interactive environments](#interactive-environments)
   * [MOOCs](#moocs)
@@ -44,6 +45,12 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
   * [Pyboard](#pyboard)
   * [ESP32](#esp32)
   * [Adafruit CircuitPython](#adafruit-circuitpython)
+
+## Roadmaps
+
+* [Python Learning Paths](https://realpython.com/learning-paths/) - Real Python’s accelerated study plans for beginner, intermediate, and advanced Python developers.
+* [A realistic roadmap to becoming a Python developer](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509) - a highly opinionated, pseudo-motivational, unconventional and almost rant-like developer roadmap article.
+* [5 Steps to Learning Python the Right Way](https://www.dataquest.io/blog/learn-python-the-right-way/) - Dataquest take on Python learning roadmap.
 
 ## Courses and lessons
 
