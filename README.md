@@ -4,8 +4,6 @@
 
 There are many ways to contribute to this project. Get started [here](CONTRIBUTING.md).
 
-Vote :+1: for this list [to be included in awesome-python](https://github.com/vinta/awesome-python/pull/959) and the [master awesome list](https://github.com/sindresorhus/awesome/pull/1097). Thank you!
-
 Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/awesome-python-in-education.svg)](https://stars.medv.io/quobit/awesome-python-in-education)
 
 ## Contents
