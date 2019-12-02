@@ -324,6 +324,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
 * [nbtranslate](https://github.com/devrt/nbtranslate) - translate content of Jupyter notebook using gettext tools.
 * [nbTranslate](https://github.com/jfbercher/jupyter_nbTranslate) - translate cells of a notebook from one language to another - Adds multi language support.
+* [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
 * [nbinteract](https://www.nbinteract.com/) - creates interactive webpages from Jupyter notebooks.
 * [PixieDebugger](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62) - The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted.
 * [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
