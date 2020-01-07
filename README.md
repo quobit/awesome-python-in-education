@@ -383,7 +383,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [pdb](https://docs.python.org/3/library/pdb.html)
 * [ipdb](https://pypi.org/project/ipdb/)
 * [PuDB](https://pypi.org/project/pudb/)
-* [pdb++](https://bitbucket.org/antocuni/pdb/src)
+* [pdb++](https://github.com/pdbpp/pdbpp) - a drop-in replacement for pdb
 * [Python Linter Online](http://pythonbuddy.com/) - Live Syntax Checking Using Pylint while Running Python
 * [PyTA](https://github.com/pyta-uoft/pyta) - static code analysis to help students find and fix common coding errors
 * [coala](http://coala.io/) - linting and fixing code
