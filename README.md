@@ -273,6 +273,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [EarSketch](https://earsketch.gatech.edu/) - learn to code by making music
 * [FoxDot](http://foxdot.org/) - Live Coding Music with Python & SuperCollider
 * [Ren'Py](https://www.renpy.org/) - a visual novel engine
+* [ColorZero](https://github.com/waveform80/colorzero) - Another color manipulation library for Python
 * [NetworkZero](https://github.com/tjguk/networkzero) - Make it easy for learning groups to use simple networking in Python
 
 ### Games, graphics and simulation
