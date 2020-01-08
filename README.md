@@ -301,6 +301,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [evennia](http://www.evennia.com/) - library and toolkit for building multi-player online text games
 * [adventurelib](https://github.com/lordmauve/adventurelib) - easy text adventures
 * [PythonStdioGames](https://github.com/asweigart/PythonStdioGames) - A compilation of text-based games written in Python that only use "standard i/o".
+* [PyperCard](https://github.com/ntoll/pypercard) - HyperCard inspired GUI framework for beginner developers in Python ([doc site](https://pypercard.rtfd.io/))
 
 ### Visualization
 
