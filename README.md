@@ -57,8 +57,8 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 * [From Blocks to Code with Trinket!](https://hourofpython.com/from-blocks-to-code-with-trinket/) (more resources included in [Hour of Python](https://hourofpython.com/))
 * [Python for Everybody](https://books.trinket.io/pfe/) - Trinket.io interactive book.
-* [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) (more resources included in [Runestone Interactive](http://runestoneinteractive.org/library.html))
-* [pythonroom](https://pythonroom.com/)
+* [How to Think Like a Computer Scientist](http://interactivepython.org/courselib/static/thinkcspy/index.html) (more resources included in [Runestone Interactive](http://runestoneinteractive.org/pages/library.html))
+* [pythonroom](https://www.tynker.com/pythonroom)
 * [repl.it classrooms](https://repl.it/site/classrooms)
 * [CS Principles: Big Ideas in Programming](http://interactivepython.org/runestone/static/StudentCSP/index.html)
 * [CodeSkulptor](http://py3.codeskulptor.org/)
@@ -239,7 +239,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Improve your Python skills (Dan Bader's blog)](https://dbader.org/blog/)
 * [Practical Business Python](http://pbpython.com/)
 * [Python Lessons](http://teachwithict.weebly.com/python.html) - 6 lessons from teachwithict
-* [Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
+* [Machine Learning and Python (and Math) Cheat Sheets](https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [AIAMA Python implementation](https://github.com/aimacode/aima-python) - Python implementation of algorithms from Russell And Norvig's "Artificial Intelligence - A Modern Approach"
 * [PyFormat](https://pyformat.info/) - Using % and .format() for great good!
 * [Replacing Bash Scripting with Python](https://github.com/ninjaaron/replacing-bash-scripting-with-python)
@@ -257,7 +257,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 ### Forums
 
 * StackOverflow: [tag python](http://stackoverflow.com/questions/tagged/python) - [community website](https://sopython.com/)
-* reddit: [Python](https://www.reddit.com/r/Python/) - [Python Learning](https://www.reddit.com/r/learnpython/) - [Python tips](https://www.reddit.com/r/pythontips/) - [Pygame](https://www.reddit.com/r/pygame/)
+* reddit: [Python](https://www.reddit.com/r/Python/) - [Python Education](https://www.reddit.com/r/learnpython/) - [Python tips](https://www.reddit.com/r/pythontips/) - [Pygame](https://www.reddit.com/r/pygame/)
 
 ## Tools and Libraries
 
@@ -337,7 +337,6 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [notedown](https://github.com/aaren/notedown/) - Convert IPython Notebooks to markdown (and back).
 * [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
 * [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - A Sphinx Extension for Generating Jupyter Notebooks
-* [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks.
 * [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Using the IPython Notebook as a Teaching Tool](https://software-carpentry.org/blog/2013/03/using-notebook-as-a-teaching-tool.html)
@@ -421,7 +420,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PySide Video Tutorials](http://wiki.qt.io/PySide_Video_Tutorials)
 * [Python Basics - Coding is for girls](https://www.youtube.com/playlist?list=PLbd_WhypdBbAMyFfKgSj27JO7CEpuIcEK)
 * [Python For Beginners - Learn To Code Tutorials ](https://www.youtube.com/playlist?list=PLW_tdZJKynZXgLKQAR2g52ut4c2IpUmOv)
-* [TheNewBoston Python 3 videotutorials](https://thenewboston.com/videos.php?cat=98) - also [Flask](https://thenewboston.com/videos.php?cat=362) and others
+* [TheNewBoston Python 3 videotutorials](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_) - also [Flask](https://www.youtube.com/watch?v=ZVGwqnjOKjk&list=PL6gx4Cwl9DGDi9F_slcQK7knjtO8TUvUs) and others on [their channel](https://www.youtube.com/user/thenewboston)
 * [Build applications in Python the antitextbook](https://www.youtube.com/playlist?list=PL41psiCma00wwvtQyLFMFpzWxUYmSZwZy)
 * [Socratica Python Programming Tutorials](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Python for Data Analysis - Pandas Cookbook](https://www.youtube.com/playlist?list=PLyBBc46Y6aAz54aOUgKXXyTcEmpMisAq3)
@@ -502,7 +501,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 ### O'Reilly
 
-* [Raspberry Pi Cookbook. Software and Hardware Problems and Solutions](http://shop.oreilly.com/product/0636920045182.do)
+* [Raspberry Pi Cookbook. Software and Hardware Problems and Solutions](http://shop.oreilly.com/product/0636920196372.do)
 * [Head First Python, 2nd Edition](http://shop.oreilly.com/product/0636920036777.do)
 * [Python for Unix and Linux System Administration](http://shop.oreilly.com/product/9780596515829.do) (2008)
 
@@ -537,7 +536,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 * [The micro:bit Foundation](http://microbit.org/)
 * [BBC micro:bit MicroPython](https://microbit-micropython.readthedocs.io)
-* [Microbit Playground](https://microbit-playground.co.uk/)
+* [Microbit Playground](https://github.com/microbit-playground)
 
 ### PyBoard
 
