@@ -453,6 +453,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Natural Language Processing with Python – Analyzing Text with the Natural Language Toolkit](http://www.nltk.org/book/)
 * [Python for Scientists and Engineers](http://pythonforengineers.com/python-for-scientists-and-engineers/)
 * [PythonBooks](http://pythonbooks.org/) - categorized Python books
+* [Tiny Python Projects](https://github.com/kyclark/tiny_python_projects) - Repo for the book by the same name https://www.manning.com/books/tiny-python-projects
 
 ### Coding Club books
 
