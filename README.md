@@ -488,6 +488,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
 * [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Professional software development principles and best practices for beginning developers.
+* [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer?a_aid=the_well_grounded_python_developer&a_bid=e505681b) - Helping programmers who know Python become and think like developers.
 
 ### No Starch Press
 
