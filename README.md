@@ -253,11 +253,12 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python EDU-WG](https://mail.python.org/mailman/listinfo/pythonedu-wg) - Working Group mailing list
 * [Tutor](https://mail.python.org/mailman/listinfo/tutor) - (mailing list) Discussion for learning programming with Python
 * [Python-list](https://mail.python.org/mailman/listinfo/python-list) - General discussion list for the Python programming language (mailing list)
+* [jupyter-education](https://groups.google.com/forum/#!forum/jupyter-education) - Teaching with Jupyter Notebooks mailing list
 
 ### Forums
 
-* StackOverflow: [tag python](http://stackoverflow.com/questions/tagged/python) - [community website](https://sopython.com/)
-* reddit: [Python](https://www.reddit.com/r/Python/) - [Python Education](https://www.reddit.com/r/learnpython/) - [Python tips](https://www.reddit.com/r/pythontips/) - [Pygame](https://www.reddit.com/r/pygame/)
+* StackOverflow: ['python' tag](http://stackoverflow.com/questions/tagged/python) - [sopython.com community website](https://sopython.com/)
+* reddit: [r/Python](https://www.reddit.com/r/Python/) - [r/learnpython](https://www.reddit.com/r/learnpython/) - [r/pythontips](https://www.reddit.com/r/pythontips/) - [r/pygame](https://www.reddit.com/r/pygame/)
 
 ## Tools and Libraries
 
@@ -314,53 +315,87 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python Graph Gallery](https://python-graph-gallery.com/) - showcase hundreds of charts, always providing the reproducible python code.
 
 ### Jupyter
+* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
+* [Project Jupyter](https://jupyter.org/)
+  * [github.com/jupyter4edu](https://github.com/jupyter4edu) - best practices and content for teaching with Jupyter notebooks
+    * [jupyter4edu/jupyter-edu-book](https://github.com/jupyter4edu/jupyter-edu-book) - open source of the "Teaching and Learning with Jupyter" book
+      * https://jupyter4edu.github.io/jupyter-edu-book/ - "Teaching and Learning with Jupyter" book
+  * [github.com/IPython](https://github.com/ipython)
+  * [github.com/Jupyter](https://github.com/jupyter)
+  * [github.com/JupyterHub](https://github.com/jupyterhub)
+  * [github.com/JupyterLab](https://github.com/jupyterlab)
+* [jupyter-education: Teaching with Jupyter Notebooks mailing list](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list
+* [jupyterhub/JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks
+  * [Zero to JupyterHub](https://zero-to-jupyterhub.readthedocs.io/) - documentation for setting up a multi-user JupyterHub server
+  * [TLJH: The Littlest JupyterHub](https://tljh.jupyter.org/en/latest/) - documentation for "a simple JupyterHub distribution for a small (0-100) number of users on a single server"
+  * [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
+* [jupyterlab/JupyterLab](https://github.com/jupyterlab/jupyterlab) - rewrite of Jupyter Notebook with tabs, extensions, command list
+  * [JupyterLab Documentation](https://jupyterlab-tutorial.readthedocs.io/)
+* [mybinder.org](https://mybinder.org/) - "Binder": generate a container from a git repository (or a DOI) with repo2docker and run it in the cloud
+  * [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub/) - BinderHub is the application that powers https://mybinder.org (on k8s)
+  * [jupyter/repo2docker](https://github.com/jupyter/repo2docker) - generate Jupyter-enabled Docker Images from repositories
+  * [github.com/binder-examples](https://github.com/binder-examples) - examples of Binder-ready (REES-compatible) Jupyter notebooks
+  * [REES: Reproducible Execution Environment Specification](https://repo2docker.readthedocs.io/en/latest/specification.html) - specification that repo2docker uses to build a container image for a given project and its dependencies
+  * [REES Config files](https://repo2docker.readthedocs.io/en/latest/config_files.html) - requirements.txt, environment.yml, Pipfile.lock, postBuild, Dockerfile
+* [ipython/ipywidgets - IPython widgets](https://github.com/ipython/ipywidgets)
+* [jupyter/nbgrader](https://github.com/jupyter/nbgrader/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook
+  * [nbgrader docs](https://nbgrader.readthedocs.io/) - docs for the nbgrader tool
+  * [jupyterhub/jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
+* [jupyterlab/jupyterlab-google-drive](https://github.com/jupyterlab/jupyterlab-google-drive) - Google Drive for JupyterLab (see also: Google Colab)
+* [jupyterlab/debugger](https://github.com/jupyterlab/debugger) - a JupyterLab debugger extension for debugging code in notebook cells
 
-* [Project Jupyter](http://jupyter.org/)
-* [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) - awesome collaborative book by experienced teachers using Jupyter
-* [Jupyter Notebook cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
-* [IPython widgets](https://github.com/ipython/ipywidgets)
+### Hosted Jupyter notebooks
+* [awesome-jupyter > Hosted Notebook Solutions](https://github.com/markusschanta/awesome-jupyter#hosted-notebook-solutions)
+* [CoCalc's comparison of Online Jupyter Notebook services](https://cocalc.com/doc/compare.html)
+* [CoCalc](https://doc.cocalc.com/) - Jupyter notebook environment with Course Management, Handouts, Assignments, nbgrader, Time Travel history, chat
+* [Google Colab](https://colab.research.google.com/) - Jupyter notebook environment for machine learning education and research (requires no setup to use)
+* JupyterHub, BinderHub
+
+### Jupyter Tools
+
+* [RISE](https://github.com/damianavila/RISE) - "Live" Reveal.js Jupyter/IPython Slideshow Extension
+* [fastpages](https://github.com/fastai/fastpages) - static/JAMstack blogging platform with support for Jupyter notebooks
+* [hugo-academic](https://github.com/gcushen/hugo-academic) - static/JAMstack website builder with support for Jupyter notebooks
+* [ipytest](https://github.com/chmp/ipytest) - run py.test tests within the notebook environment
+* [jupyter-contrib-nbextensions - Unofficial Jupyter Notebook Extensions](https://jupyter-contrib-nbextensions.readthedocs.io)
+* [jupyter-edx-colab-cloud-xblock](https://github.com/ibleducation/jupyter-edx-colab-cloud-xblock) - launch Google Colab notebooks from within an Open edX XBlock
+* [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - auto-grade assignments with nbgrader and post the scores to an Open edX gradebook
+* [jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
+* [jupyter-viewer-xblock](https://github.com/ibleducation/jupyter-viewer-xblock) - view Jupyter notebooks in an Open edX XBlock
+* [jupytext](https://github.com/mwouts/jupytext) - Jupyter Notebooks as Markdown, Julia, Python, or R scripts (that [auto-]save to *and from* the configured paired formats)
 * [lolviz](https://github.com/parrt/lolviz) - data-structure visualization tool for lists of lists, lists, dictionaries
-* [nbgrader](http://nbgrader.readthedocs.io/) - nbgrader is a tool that facilitates creating and grading assignments in the Jupyter notebook.
-* [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks.
-* [nbdime](https://nbdime.readthedocs.io/) - diffing and merging of Jupyter Notebooks.
-* [nbscan](https://github.com/conery/nbscan) - search for and print contents of cells in Jupyter notebooks.
-* [nbconvert](https://nbconvert.readthedocs.io/) - convert Notebooks to other formats.
-* [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises.
-* [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line).
-* [nbtranslate](https://github.com/devrt/nbtranslate) - translate content of Jupyter notebook using gettext tools.
-* [nbTranslate](https://github.com/jfbercher/jupyter_nbTranslate) - translate cells of a notebook from one language to another - Adds multi language support.
-* [nbdev](https://github.com/fastai/nbdev) - Create delightful python projects using Jupyter Notebooks
-* [nbinteract](https://www.nbinteract.com/) - creates interactive webpages from Jupyter notebooks.
-* [PixieDebugger](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62) - The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted.
-* [jupyter-drive](https://github.com/jupyter/jupyter-drive) - Google Drive for Jupyter.
-* [RISE](https://github.com/damianavila/RISE) - "Live" Reveal.js Jupyter/IPython Slideshow Extension.
-* [notedown](https://github.com/aaren/notedown/) - Convert IPython Notebooks to markdown (and back).
-* [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file.
+* [nbTranslate](https://github.com/jfbercher/jupyter_nbTranslate) - translate cells of a notebook from one language to another - Adds multi language support
+* [nbautoeval](https://github.com/parmentelat/nbautoeval) - creating auto-evaluated exercises
+* [nbconvert](https://nbconvert.readthedocs.io/) - convert Notebooks to other formats
+* [nbdev](https://github.com/fastai/nbdev) - export, sync, and document notebook cells to and from regular python modules
+* [nbdime](https://nbdime.readthedocs.io/) - diffing and merging of Jupyter Notebooks
+* [nbgallery](https://github.com/nbgallery/nbgallery) - platform for sharing and collaborating on Jupyter notebooks
+* [nbinteract](https://www.nbinteract.com/) - creates interactive webpages from Jupyter notebooks
+* [nbscan](https://github.com/conery/nbscan) - search for and print contents of cells in Jupyter notebooks
+* [nbsphinx](https://nbsphinx.readthedocs.io/en/latest) - Sphinx extension for publishing Jupyter Notebooks as static/JAMstack websites
+* [nbtranslate](https://github.com/devrt/nbtranslate) - translate content of Jupyter notebook using gettext tools
+* [nbtutor](https://github.com/lgpage/nbtutor) - visualize Python code execution (line-by-line)
+* [nbval](https://github.com/computationalmodelling/nbval) - Py.test plugin for validating Jupyter notebooks
+* [notedown](https://github.com/aaren/notedown/) - Convert IPython Notebooks to markdown (and back)
+* [pixiedebugger](https://medium.com/ibm-watson-data-lab/the-visual-python-debugger-for-jupyter-notebooks-youve-always-wanted-761713babc62) - The Visual Python Debugger for Jupyter Notebooks You’ve Always Wanted
+* [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text
+* [rst2ipynb](https://github.com/nthiery/rst-to-ipynb) - convert standalone reStructuredText files to Jupyter notebook file
 * [sphinxcontrib-jupyter](https://github.com/QuantEcon/sphinxcontrib-jupyter) - A Sphinx Extension for Generating Jupyter Notebooks
-* [Custom Jupyter Notebook Themes](https://github.com/dunovank/jupyter-themes)
+
+### Jupyter resources
+
+* [GitHub Trending Jupyter Notebooks](https://github.com/trending/jupyter-notebook)
+* [Jupyter Notebook cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
+* [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
+* [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Using the IPython Notebook as a Teaching Tool](https://software-carpentry.org/blog/2013/03/using-notebook-as-a-teaching-tool.html)
-* [Teaching with Jupyter Notebooks](https://groups.google.com/forum/#!forum/jupyter-education) - mailing list.
-* [JupyterLab computational environment](https://github.com/jupyterlab/jupyterlab) - not suitable for general usage yet.
-* [JupyterLab Documentation](http://jupyterlab-tutorial.readthedocs.io/)
-* [binder](http://mybinder.org/) - turn a GitHub repo into a collection of interactive notebooks.
-* [Google Colab](https://colab.research.google.com/) - Jupyter notebook environment for machine learning education and research (requires no setup to use).
-* [JupyterHub](https://github.com/jupyterhub/jupyterhub) - multi-user server for Jupyter notebooks.
-* [Zero to JupyterHub](http://zero-to-jupyterhub.readthedocs.io/)
-* [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Implements LTI v1 authenticator for use with JupyterHub.
+* [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Implements LTI v1 authenticator for use with JupyterHub
 * [Lectures on scientific computing with Python](https://github.com/jrjohansson/scientific-python-lectures)
 * ["The world of Jupyter" —a tutorial](https://github.com/barbagroup/jupyter-tutorial)
 * [List of Jupyter Notebooks by Peter Norvig](http://norvig.com/ipython/)
 * [28 Jupyter Notebook tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-* [Unofficial Jupyter Notebook Extensions](http://jupyter-contrib-nbextensions.readthedocs.io)
 * [VPython running in a Jupyter notebook](https://github.com/BruceSherwood/vpython-jupyter)
-* [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter) - A curated list of awesome Jupyter projects, libraries and resources
-* [pynb](https://github.com/minodes/pynb) - Jupyter Notebooks as plain Python code with embedded Markdown text.
-* [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
-* [Jupyter Notebook Viewer inside Open edX XBlock](https://github.com/ibleducation/jupyter-viewer-xblock)
-* [jupyter-edx-grader-xblock](https://github.com/ibleducation/jupyter-edx-grader-xblock) - Auto-grade a student assignment created as a Jupyter notebook, using the nbgrader Jupyter extension, and write the score in the Open edX gradebook
-* [The Littlest JupyterHub](http://tljh.jupyter.org/) - A simple JupyterHub distribution for a small (0-100) number of users on a single server.
-* [Jupytext](https://github.com/mwouts/jupytext) - Conversion and pairing between Jupyter Notebooks and Markdown documents, Python scripts, etc.
 
 ### IDEs
 
