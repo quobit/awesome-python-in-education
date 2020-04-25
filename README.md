@@ -349,6 +349,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [CoCalc's comparison of Online Jupyter Notebook services](https://cocalc.com/doc/compare.html)
 * [CoCalc](https://doc.cocalc.com/) - Jupyter notebook environment with Course Management, Handouts, Assignments, nbgrader, Time Travel history, chat
 * [Google Colab](https://colab.research.google.com/) - Jupyter notebook environment for machine learning education and research (requires no setup to use)
+* [IllumiDesk](https://www.illumidesk.com) - Jupyter notebook environment with LMS integration via LTI 1.1/1.3.
 * JupyterHub, BinderHub
 
 ### Jupyter Tools
