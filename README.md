@@ -157,7 +157,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PyBites](http://pybit.es/) - [PyBites Code Challenges Platform](https://codechalleng.es/)
 * [Practice Python](http://www.practicepython.org/)
 * [Python Challenge](http://www.pythonchallenge.com/)
-* [Python for Fun](http://openbookproject.net/py4fun/)
+* [Python for Fun](http://openbookproject.net/courses/python4fun/)
 * [CodingBat](http://codingbat.com/python)
 * [Reeborg's world](http://reeborg.ca/index_en.html)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
