@@ -330,7 +330,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
   * [TLJH: The Littlest JupyterHub](https://tljh.jupyter.org/en/latest/) - documentation for "a simple JupyterHub distribution for a small (0-100) number of users on a single server"
   * [jupyterhub-deploy-teaching](https://github.com/jupyterhub/jupyterhub-deploy-teaching) - reference deployment of JupyterHub and nbgrader on a single server
 * [jupyterlab/JupyterLab](https://github.com/jupyterlab/jupyterlab) - rewrite of Jupyter Notebook with tabs, extensions, command list
-  * [JupyterLab Documentation](https://jupyterlab-tutorial.readthedocs.io/)
+  * [JupyterLab Documentation](https://jupyterlab.readthedocs.io/)
 * [mybinder.org](https://mybinder.org/) - "Binder": generate a container from a git repository (or a DOI) with repo2docker and run it in the cloud
   * [jupyterhub/binderhub](https://github.com/jupyterhub/binderhub/) - BinderHub is the application that powers https://mybinder.org (on k8s)
   * [jupyter/repo2docker](https://github.com/jupyter/repo2docker) - generate Jupyter-enabled Docker Images from repositories
@@ -387,7 +387,6 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [GitHub Trending Jupyter Notebooks](https://github.com/trending/jupyter-notebook)
 * [Jupyter Notebook cheatsheet](https://www.cheatography.com/weidadeyue/cheat-sheets/jupyter-notebook/)
 * [Jupyter tips, tricks and shortcuts](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
-* [Notebook Gallery](http://nb.bianp.net/sort/views/) - links to the best IPython and Jupyter Notebooks
 * [IPythonBlocks](http://ipythonblocks.org/)
 * [Using the IPython Notebook as a Teaching Tool](https://software-carpentry.org/blog/2013/03/using-notebook-as-a-teaching-tool.html)
 * [LTI Launch JupyterHub Authenticator](https://github.com/jupyterhub/ltiauthenticator) - Implements LTI v1 authenticator for use with JupyterHub
