@@ -522,6 +522,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Learn Programming with Python](https://www.manning.com/books/learn-programming-with-python)
 * [Grokking Algorithms](https://www.manning.com/books/grokking-algorithms) - An illustrated guide for programmers and other curious people.
 * [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Professional software development principles and best practices for beginning developers.
+* [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects) - An introduction to Python fundamentals through puzzles and games.
 
 ### No Starch Press
 
