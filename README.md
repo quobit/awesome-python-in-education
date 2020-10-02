@@ -147,7 +147,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python for Data Science Cheat Sheets](http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf)
 
 ## Exercises and Games
-
+* [pygame](https://www.pygame.org/docs/)
 * [CheckiO](https://checkio.org/)
 * [CodeAbbey](http://www.codeabbey.com/)
 * [Empire of Code](https://empireofcode.com/)
