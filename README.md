@@ -124,6 +124,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Dead Simple Python](https://dev.to/codemouse92/introducing-dead-simple-python-563o) - from beginners to python (not programming).
 * [Learn Python](https://learnpython.dev/) - Introduction and Intermediate Python, recorded for Frontend Masters by Nina Zakharenko.
 * [The Cracking Python Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp) - Learn How to Code in Python in 12 Weeks By Building Fun Real World Projects.
+* [w3schools Python tutorial](https://www.w3schools.com/python/)
 
 ### Data Science
 
