@@ -287,7 +287,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python Arcade Library](http://arcade.academy/)
 * [Pyglet](http://www.pyglet.org/) - a pure python cross-platform application framework intended for game development
 * [Python Mode for Processing](http://py.processing.org/)
-* [PythonTurtle](http://pythonturtle.org/)
+* [PythonTurtle](http://pythonturtle.org/) - A learning environment for Python programming suitable for beginners and children, inspired by Logo. Easy installer for Windows so it could be installed by children on computers without internet access.
 * [A Simple Tutorial for Python's turtle.py Module](https://github.com/asweigart/simple-turtle-tutorial-for-python/blob/master/simple_turtle_tutorial.md)
 * [VPython](http://vpython.org/) - 3D programming
 * [Pymunk](http://www.pymunk.org/) - 2D physics library
