@@ -98,6 +98,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Python tutorial](https://pythonspot.com/)
 * [Programming with Python](http://swcarpentry.github.io/python-novice-inflammation/) - from [Software Carpentry](http://software-carpentry.org/)
 * [Introduction to Programming with Python](http://opentechschool.github.io/python-beginners/en/index.html)
+* [Python Land](https://python.land/)
 * [Python Course](http://www.python-course.eu/)
 * [The Programming Historian](http://programminghistorian.org/lessons/)
 * [Program Arcade Games With Python And Pygame](http://www.programarcadegames.com/)
@@ -295,6 +296,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Kivy](https://kivy.org/) - innovative user interfaces, such as multi-touch apps
 * [PyQT 15 minute apps](https://github.com/mfitzp/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
 * [Panda3D](http://www.panda3d.org/) - game engine and framework for 3D rendering
+* [Ursina Engine](https://ursinaengine.org/) -  game engine based on Panda3D but really easy-to-use. Great for beginners in 3D game coding.
 * [gui zero](https://lawsie.github.io/guizero/) - to allow children to quickly and easily create GUIs for their programs
 * [Free Python Games](http://www.grantjenks.com/docs/freegames/) - collection of free Python games intended for education and fun
 * [Angry Birds in Python](https://github.com/estevaofon/angry-birds-python) - using pygame and pymunk
