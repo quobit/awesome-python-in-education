@@ -283,6 +283,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 ### Games, graphics and simulation
 
+* [Jupylet](https://github.com/nir/jupylet) - Create 2D and 3D games, graphics, live music and sound synthesizers, interactively in a Jupyter notebook.
 * [PyGame](http://www.pygame.org/)
 * [Pygame Zero](https://pygame-zero.readthedocs.io) for creating games without boilerplate
 * [Python Arcade Library](http://arcade.academy/)
