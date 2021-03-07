@@ -177,6 +177,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [CodingGame](https://www.codingame.com)
 * [CodeFights](https://codefights.com/)
 * [Edabit Python Challenges](https://edabit.com/challenges/python3)
+* [futurecoder](https://futurecoder.io/) - interactive beginner exercises - [gh repo](https://github.com/alexmojaki/futurecoder)
 
 ## Reference and forums
 
