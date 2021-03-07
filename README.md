@@ -93,7 +93,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 ### Introductions and Tutorials
 
 * [The Hello World Program: Learn Python](https://thehelloworldprogram.com/python/)
-* [Practical Python Programming (course by @dabeaz)])https://github.com/dabeaz-course/practical-python)
+* [Practical Python Programming](https://github.com/dabeaz-course/practical-python) - from [Dabeaz LLC](https://github.com/dabeaz-course)
 * [Introduction to Python](http://introtopython.org/)
 * [NewCoder](http://newcoder.io/)
 * [Python tutorial](https://pythonspot.com/)
