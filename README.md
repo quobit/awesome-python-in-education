@@ -36,22 +36,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
   * [No Starch Press](#no-starch-press)
   * [O'Reilly](#oreilly)
   * [Packt Pub](#packt-pub)
-* [Hardware](#hardware)
-  * [Raspberry Pi](#raspberry-pi)
-  * [Arduino](#arduino)
-  * [BBC microbit](#bbc-microbit)
-  * [Pyboard](#pyboard)
-  * [ESP32](#esp32)
-  * [Adafruit CircuitPython](#adafruit-circuitpython)
-
-## Roadmaps
-
-* [Python Learning Paths](https://realpython.com/learning-paths/) - Real Python’s accelerated study plans for beginner, intermediate, and advanced Python developers.
-* [A realistic roadmap to becoming a Python developer](https://hackernoon.com/a-realistic-roadmap-to-becoming-a-python-developer-ab5872959509) - a highly opinionated, pseudo-motivational, unconventional and almost rant-like developer roadmap article.
-* [5 Steps to Learning Python the Right Way](https://www.dataquest.io/blog/learn-python-the-right-way/) - Dataquest take on Python learning roadmap.
-* [Best Way to Learn Python (Step-by-Step Guide)](https://simpliv.wordpress.com/2019/06/27/best-way-to-learn-python-step-by-step-guide/) - path of learning Python into 6 levels.
-
-## Courses and lessons
+* [Hardware](#hardware) - programming environment for tiny Python 3 projects, that can be embedded in web pages (using [Brython](https://brython.info/))
 
 ### Interactive environments
 
@@ -74,6 +59,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Codesters](https://www.codesters.com/)
 * [Pyfiddle](https://pyfiddle.io/)
 * [Code the blocks](https://codetheblocks.com/) - interactive playground for learning how to code.
+* [Pythonpad.js](https://pythonpad.github.io/) - programming environment for tiny Python 3 projects, that can be embedded in web pages (using [Brython](https://brython.info/))
 
 ### MOOCs
 
