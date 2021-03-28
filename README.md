@@ -284,6 +284,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [PyPhysicsSandbox](https://github.com/jshaffstall/PyPhysicsSandbox) - a simple wrapper around Pymunk
 * [Kivy](https://kivy.org/) - innovative user interfaces, such as multi-touch apps
 * [PyQT 15 minute apps](https://github.com/mfitzp/15-minute-apps) - 15 minute (small) desktop apps built with PyQt
+* [PyQt5 tutorial](https://www.learnpyqt.com/) - Create GUI applications with Python
 * [Panda3D](http://www.panda3d.org/) - game engine and framework for 3D rendering
 * [Ursina Engine](https://www.ursinaengine.org/) -  game engine based on Panda3D but really easy-to-use. Great for beginners in 3D game coding.
 * [gui zero](https://lawsie.github.io/guizero/) - to allow children to quickly and easily create GUIs for their programs
