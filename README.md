@@ -114,6 +114,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [The Cracking Python Bootcamp](https://github.com/purcellconsult/Cracking-Python-Bootcamp) - Learn How to Code in Python in 12 Weeks By Building Fun Real World Projects.
 * [w3schools Python tutorial](https://www.w3schools.com/python/)
 * [Geeks for geeks Python tutorial](https://www.geeksforgeeks.org/python-programming-language/)
+* [Ultimate Python](https://github.com/huangsam/ultimate-python) - study guide for newcomers and professionals alike.
 
 ### Data Science
 
