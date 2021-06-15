@@ -116,6 +116,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Geeks for geeks Python tutorial](https://www.geeksforgeeks.org/python-programming-language/)
 * [Ultimate Python](https://github.com/huangsam/ultimate-python) - study guide for newcomers and professionals alike.
 * [LearnPython.org interactive tutorial](https://www.learnpython.org/)
+* [Tutlane Python Programming Tutorial](https://www.tutlane.com/tutorial/python)
 
 ### Data Science
 
