@@ -522,6 +522,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Practices of the Python Pro](https://www.manning.com/books/practices-of-the-python-pro) - Professional software development principles and best practices for beginning developers.
 * [The Well-Grounded Python Developer](https://www.manning.com/books/the-well-grounded-python-developer) - Helping programmers who know Python become and think like developers.
 * [Tiny Python Projects](https://www.manning.com/books/tiny-python-projects) - An introduction to Python fundamentals through puzzles and games.
+* [Publishing Python Packages](https://www.manning.com/books/publishing-python-packages) - Book that reveals best practices and standards for packaging your Python code in an easy, automated, and scalable way..
 
 ### No Starch Press
 
