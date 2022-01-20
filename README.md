@@ -126,6 +126,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 * [Introduction to Python for Data Science](https://www.edx.org/course/introduction-python-data-science-microsoft-dat208x-5)
 * [Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x-3)
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook) complete book in Jupyter Notebook format.
+* [NumPy Illustrated - The Visual Guide to NumPy](https://betterprogramming.pub/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d?sk=57b908a77aa44075a49293fa1631dd9b)
 * [Exploratory Computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [Data Carpentry: Python for Ecologists](http://www.datacarpentry.org/python-ecology-lesson/)
 * [Plotting and Programming in Python](http://swcarpentry.github.io/python-novice-gapminder/)
