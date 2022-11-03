@@ -354,6 +354,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 * [RISE](https://github.com/damianavila/RISE) - "Live" Reveal.js Jupyter/IPython Slideshow Extension
 * [fastpages](https://github.com/fastai/fastpages) - static/JAMstack blogging platform with support for Jupyter notebooks
+* [genv](https://github.com/run-ai/jupyterlab_genv) - GPU Environment Management for Jupyter notebooks
 * [hugo-academic](https://github.com/gcushen/hugo-academic) - static/JAMstack website builder with support for Jupyter notebooks
 * [ipytest](https://github.com/chmp/ipytest) - run py.test tests within the notebook environment
 * [jupyter-contrib-nbextensions - Unofficial Jupyter Notebook Extensions](https://jupyter-contrib-nbextensions.readthedocs.io)
