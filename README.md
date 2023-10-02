@@ -308,6 +308,7 @@ Sparkline (GitHub stars velocity): [![Sparkline](https://stars.medv.io/quobit/aw
 
 ### Visualization
 
+* [Taipy](https://taipy.io) - Web Application Builder. Pure Python. Build production-ready web applications in no time without HTML, JS and CSS knowledge!
 * [Bokeh](http://bokeh.pydata.org/) - an interactive visualization library that targets modern web browsers for presentation.
 * [VisPy](http://vispy.org/) - library for interactive scientific visualization that is designed to be fast, scalable, and easy to use.
 * [Python Graph Gallery](https://python-graph-gallery.com/) - showcase hundreds of charts, always providing the reproducible python code.
